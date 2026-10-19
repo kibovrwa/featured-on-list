@@ -549,3 +549,4 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - [https://telegra.ph/Featured-On--product-listings--articles-part-1-10-19](https://telegra.ph/Featured-On--product-listings--articles-part-1-10-19)
 - [https://rentry.co/featured-on-listings](https://rentry.co/featured-on-listings)
 - [https://gist.github.com/kibovrwa/adeaa908d12a6d09acd688501a463472](https://gist.github.com/kibovrwa/adeaa908d12a6d09acd688501a463472)
+- [https://github.com/kibovrwa/featured-on-list](https://github.com/kibovrwa/featured-on-list)
