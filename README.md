@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-19 · 486 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 488 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -326,6 +326,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AICatalog: [https://aicatalog.com.ua/tool/remove-ai-meta](https://aicatalog.com.ua/tool/remove-ai-meta)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaiinfo](https://aiproductshunt.com/app/removeaiinfo)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaimeta](https://aiproductshunt.com/app/removeaimeta)
+- AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html)
@@ -401,6 +402,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Viesearch: [https://viesearch.com/28pni/remove-ai-meta](https://viesearch.com/28pni/remove-ai-meta)
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
+- WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
 - Zearches: [https://zearches.com/directory.php?slug=software-saas](https://zearches.com/directory.php?slug=software-saas)
 - Zearches: [https://zearches.com/](https://zearches.com/)
