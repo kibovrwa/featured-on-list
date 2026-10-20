@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 503 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 504 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -58,6 +58,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
+- GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
