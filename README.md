@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 494 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 495 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -174,6 +174,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Substack: [https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your](https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your)
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
+- Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
