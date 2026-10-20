@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 495 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 497 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -46,6 +46,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## astralhoro.com
 
+- AddURL.online: [https://addurl.online/244999](https://addurl.online/244999)
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
@@ -78,6 +79,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
+- Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
 
