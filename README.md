@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 498 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 500 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -52,6 +52,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
+- BloggersMinds: [https://bloggersminds.com/apps/AstralHoroTransitTiming](https://bloggersminds.com/apps/AstralHoroTransitTiming)
 - BuildVoyage: [https://buildvoyage.com/products/astralhoro](https://buildvoyage.com/products/astralhoro)
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
@@ -83,6 +84,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
+- Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
 ## capybarasvsplants.com
 
