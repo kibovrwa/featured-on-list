@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 486 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 492 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -51,6 +51,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
+- BuildVoyage: [https://buildvoyage.com/products/astralhoro](https://buildvoyage.com/products/astralhoro)
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
@@ -87,6 +88,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## chatgpt2word.com
 
+- AI BirdView: [https://aibirdview.com/tools/chatgpt2word](https://aibirdview.com/tools/chatgpt2word)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter](https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter)
 - AI Toolkit: [https://ai.toolkit.best/chatgpt2word](https://ai.toolkit.best/chatgpt2word)
 - AICatalog: [https://aicatalog.com.ua/tool/chatgpt2word](https://aicatalog.com.ua/tool/chatgpt2word)
@@ -106,6 +108,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - indietools.app: [https://www.indietools.app/products/chatgpt2word](https://www.indietools.app/products/chatgpt2word)
 - Joinly: [https://www.joinly.xyz/startups/chatgpt2word-com](https://www.joinly.xyz/startups/chatgpt2word-com)
 - launch.ignlab.net: [https://launch.ignlab.net/t/chatgpt2word](https://launch.ignlab.net/t/chatgpt2word)
+- LaunchFree: [https://launchfree.io/listings/chatgpt2word.html](https://launchfree.io/listings/chatgpt2word.html)
 - LDbase: [https://ldbase.org/projects/e61c5608-d423-439b-85fe-7120b607356b](https://ldbase.org/projects/e61c5608-d423-439b-85fe-7120b607356b)
 - Lovable: [https://export-chatgpt-to-word.lovable.app/](https://export-chatgpt-to-word.lovable.app/)
 - magicly.bio: [https://magicly.bio/chatgpt2word](https://magicly.bio/chatgpt2word)
@@ -157,6 +160,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
+- LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
 - LDbase: [https://ldbase.org/projects/050c6cc3-5ad5-4de8-ad9a-77e1dd865de4](https://ldbase.org/projects/050c6cc3-5ad5-4de8-ad9a-77e1dd865de4)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
@@ -179,6 +183,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## gaivsiq.com
 
 - AddURL: [https://addurl.online/244302](https://addurl.online/244302)
+- AI BirdView: [https://aibirdview.com/tools/gaivsiq](https://aibirdview.com/tools/gaivsiq)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory](https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - AI Toolkit: [https://ai.toolkit.best/gaivsiq](https://ai.toolkit.best/gaivsiq)
 - AIMarketly: [https://www.aimarketly.com/tool/gaivsiq](https://www.aimarketly.com/tool/gaivsiq)
@@ -190,6 +195,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directory Index: [https://directory-index.com/education/gai-vs-iq/](https://directory-index.com/education/gai-vs-iq/)
 - Directree: [https://www.directree.io/tool/gai-vs-iq](https://www.directree.io/tool/gai-vs-iq)
 - Joinly: [https://joinly.xyz/startups/gaivsiq-com](https://joinly.xyz/startups/gaivsiq-com)
+- LaunchFree: [https://launchfree.io/listings/gaivsiq-free-online-iq-test.html](https://launchfree.io/listings/gaivsiq-free-online-iq-test.html)
 - LDbase: [https://ldbase.org/projects/183d2b1f-8c4b-4fa3-b1de-d4859d718424](https://ldbase.org/projects/183d2b1f-8c4b-4fa3-b1de-d4859d718424)
 - Lovable: [https://free-online-iq-test.lovable.app/](https://free-online-iq-test.lovable.app/)
 - Medium article: [https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
