@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 497 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 498 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -70,6 +70,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - PeerPush: [https://peerpush.com/p/astralhoro](https://peerpush.com/p/astralhoro)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
+- Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
 - StartupsLab: [https://startupslab.site/product/astralhoro](https://startupslab.site/product/astralhoro)
