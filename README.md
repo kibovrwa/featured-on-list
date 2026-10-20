@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 488 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-20 · 486 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -369,7 +369,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sitelike.org: [https://www.sitelike.org/similar/removeaimeta.com/](https://www.sitelike.org/similar/removeaimeta.com/)
 - Slides.com: [https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify](https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify)
 - Slides.com: [https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload](https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload)
-- startupslab.site: [https://startupslab.site/product/remove-ai-meta](https://startupslab.site/product/remove-ai-meta)
 - telegra.ph: [https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14](https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14)
 - telegra.ph: [https://telegra.ph/Gemini-and-Imagen-images-whats-in-the-downloaded-file-and-what-isnt-10-02](https://telegra.ph/Gemini-and-Imagen-images-whats-in-the-downloaded-file-and-what-isnt-10-02)
 - telegra.ph: [https://telegra.ph/How-to-check-an-image-for-Content-Credentials-with-c2patool-two-commands-10-02](https://telegra.ph/How-to-check-an-image-for-Content-Credentials-with-c2patool-two-commands-10-02)
@@ -404,7 +403,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
-- Zearches: [https://zearches.com/directory.php?slug=software-saas](https://zearches.com/directory.php?slug=software-saas)
 - Zearches: [https://zearches.com/](https://zearches.com/)
 
 ## shortsrank.com
