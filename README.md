@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 500 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 503 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -160,6 +160,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
 - DeepNLP: [https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai](https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i](https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i)
+- DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0)
 - Directory Index: [https://directory-index.com/technology/easyface-ai/](https://directory-index.com/technology/easyface-ai/)
 - Directree: [https://www.directree.io/tool/easyfaceaicom](https://www.directree.io/tool/easyfaceaicom)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
@@ -310,6 +311,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i](https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i)
 - dev.to article: [https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn](https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn)
 - dev.to article: [https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n](https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n)
+- DevHunt: [https://devhunt.org/tool/reelsongfinder](https://devhunt.org/tool/reelsongfinder)
 - Directory Index: [https://directory-index.com/entertainment/reel-song-finder/](https://directory-index.com/entertainment/reel-song-finder/)
 - directree.io: [https://www.directree.io/tool/reelsongfinder](https://www.directree.io/tool/reelsongfinder)
 - GitHub: [https://github.com/kibovrwa/find-song-from-video](https://github.com/kibovrwa/find-song-from-video)
@@ -319,6 +321,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
 - NewName.ai: [https://newname.ai/products/reelsongfinder](https://newname.ai/products/reelsongfinder)
 - productwatch.io: [https://productwatch.io/products/reel-song-finder](https://productwatch.io/products/reel-song-finder)
+- Rentry: [https://rentry.co/webrn9yp](https://rentry.co/webrn9yp)
 - sitelike.org: [https://www.sitelike.org/similar/reelsongfinder.com/](https://www.sitelike.org/similar/reelsongfinder.com/)
 - Startups Lab: [https://startupslab.site/product/reel-song-finder](https://startupslab.site/product/reel-song-finder)
 - TAAFT: [https://theresanaiforthat.com/@reelsongfinder/](https://theresanaiforthat.com/@reelsongfinder/)
