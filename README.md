@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 507 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 501 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -70,13 +70,11 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
-- PeerPush: [https://peerpush.com/p/astralhoro](https://peerpush.com/p/astralhoro)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
-- StartupsLab: [https://startupslab.site/product/astralhoro](https://startupslab.site/product/astralhoro)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@horo-horo/](https://theresanaiforthat.com/@horo-horo/)
@@ -170,7 +168,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
-- LDbase: [https://ldbase.org/projects/050c6cc3-5ad5-4de8-ad9a-77e1dd865de4](https://ldbase.org/projects/050c6cc3-5ad5-4de8-ad9a-77e1dd865de4)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
 - Medium: [https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b](https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b)
@@ -187,7 +184,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
-- Zearches: [https://zearches.com/directory.php?slug=software-saas](https://zearches.com/directory.php?slug=software-saas)
 - Zenodo: [https://zenodo.org/records/23444747](https://zenodo.org/records/23444747)
 
 ## gaivsiq.com
@@ -326,7 +322,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - productwatch.io: [https://productwatch.io/products/reel-song-finder](https://productwatch.io/products/reel-song-finder)
 - Rentry: [https://rentry.co/webrn9yp](https://rentry.co/webrn9yp)
 - sitelike.org: [https://www.sitelike.org/similar/reelsongfinder.com/](https://www.sitelike.org/similar/reelsongfinder.com/)
-- Startups Lab: [https://startupslab.site/product/reel-song-finder](https://startupslab.site/product/reel-song-finder)
 - TAAFT: [https://theresanaiforthat.com/@reelsongfinder/](https://theresanaiforthat.com/@reelsongfinder/)
 - Telegraph: [https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02](https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02)
 - Telegraph: [https://telegra.ph/Instagram-says-Original-audio-what-the-label-tells-you-and-what-it-does-not-10-02](https://telegra.ph/Instagram-says-Original-audio-what-the-label-tells-you-and-what-it-does-not-10-02)
@@ -423,7 +418,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
-- Zearches: [https://zearches.com/](https://zearches.com/)
 - Zenodo: [https://zenodo.org/records/23523082](https://zenodo.org/records/23523082)
 
 ## shortsrank.com
