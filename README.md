@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 505 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 506 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -64,6 +64,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
 - LaunchFree: [https://launchfree.io/listings/astralhoro.html](https://launchfree.io/listings/astralhoro.html)
+- LDBase: [https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b](https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b)
 - LinkCentre: [https://www.linkcentre.com/review/1721861/astralhoro-com](https://www.linkcentre.com/review/1721861/astralhoro-com)
 - Lovable: [https://natal-chart-astralhoro.lovable.app/](https://natal-chart-astralhoro.lovable.app/)
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
