@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 506 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-21 · 507 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -424,6 +424,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
 - Zearches: [https://zearches.com/](https://zearches.com/)
+- Zenodo: [https://zenodo.org/records/23523082](https://zenodo.org/records/23523082)
 
 ## shortsrank.com
 
