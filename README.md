@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 520 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 523 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -159,6 +159,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
+- Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
 - DeepNLP: [https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai](https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai)
@@ -167,8 +168,10 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/easyface-ai/](https://directory-index.com/technology/easyface-ai/)
 - Directree: [https://www.directree.io/tool/easyfaceaicom](https://www.directree.io/tool/easyfaceaicom)
+- Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
+- Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
