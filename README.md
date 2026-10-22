@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 514 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 519 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -159,10 +159,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
+- Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
 - DeepNLP: [https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai](https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i](https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/easyface-ai/](https://directory-index.com/technology/easyface-ai/)
 - Directree: [https://www.directree.io/tool/easyfaceaicom](https://www.directree.io/tool/easyfaceaicom)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
@@ -172,9 +174,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
 - Medium: [https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b](https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b)
+- Neocities: [https://removeaimeta.neocities.org/easyface](https://removeaimeta.neocities.org/easyface)
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
+- note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
 - PeerPush: [https://peerpush.com/p/easyface-ai](https://peerpush.com/p/easyface-ai)
+- Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
 - rentry.co: [https://rentry.co/easyfaceai-face-shape-hairstyles](https://rentry.co/easyfaceai-face-shape-hairstyles)
 - SiteLike: [https://www.sitelike.org/similar/easyfaceai.com/](https://www.sitelike.org/similar/easyfaceai.com/)
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
