@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 510 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 511 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -371,6 +371,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
 - Medium article: [https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb](https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb)
+- Neocities: [https://removeaimeta.neocities.org/](https://removeaimeta.neocities.org/)
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
 - parsed: [https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c](https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c)
 - parsed: [https://slides.com/removeaimeta/deck](https://slides.com/removeaimeta/deck)
