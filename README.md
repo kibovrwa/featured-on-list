@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 512 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 513 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -359,6 +359,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/remove-ai-meta/](https://directory-index.com/technology/remove-ai-meta/)
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
+- Feeder: [https://feeder.co/discover/42f6e4e93a/removeaimeta-com](https://feeder.co/discover/42f6e4e93a/removeaimeta-com)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5281](https://github.com/chatmcp/mcpso/issues/5281)
 - Google Sites: [https://sites.google.com/view/remove-ai-meta](https://sites.google.com/view/remove-ai-meta)
