@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 508 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 509 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -381,6 +381,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - PeerPush: [https://peerpush.com/p/remove-instagram-ai-info](https://peerpush.com/p/remove-instagram-ai-info)
 - peerpush.com: [https://peerpush.com/p/remove-ai-meta](https://peerpush.com/p/remove-ai-meta)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/removeaimeta.com](https://plastikmuhur.xyz/sites/removeaimeta.com)
+- Posteezy: [https://posteezy.com/browser-metadata-remover-strip-exifc2pa-client-side](https://posteezy.com/browser-metadata-remover-strip-exifc2pa-client-side)
 - productwatch.io: [https://productwatch.io/products/remove-ai-meta](https://productwatch.io/products/remove-ai-meta)
 - Qiita: [https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129](https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129)
 - removeaimeta.hashnode.dev: [https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image](https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image)
