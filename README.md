@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 528 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 529 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -194,6 +194,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
+- Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
