@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 511 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 512 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -356,6 +356,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/removeaimeta/the-hidden-data-in-your-photos-what-ai-metadata-reveals-and-how-to-strip-it-2mf6](https://dev.to/removeaimeta/the-hidden-data-in-your-photos-what-ai-metadata-reveals-and-how-to-strip-it-2mf6)
 - dev.to article: [https://dev.to/removeaimeta/the-linkedin-cr-icon-is-a-manifest-not-a-sticker-31he](https://dev.to/removeaimeta/the-linkedin-cr-icon-is-a-manifest-not-a-sticker-31he)
 - DEV.to roundup: [https://dev.to/dylan_yu_7ffff00b5355942d/checking-ai-image-metadata-20-useful-reads-and-listings-23k6](https://dev.to/dylan_yu_7ffff00b5355942d/checking-ai-image-metadata-20-useful-reads-and-listings-23k6)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/remove-ai-meta/](https://directory-index.com/technology/remove-ai-meta/)
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
