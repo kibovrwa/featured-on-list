@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 501 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 502 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -70,6 +70,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
+- NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
