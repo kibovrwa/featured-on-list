@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 513 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 514 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -47,6 +47,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## astralhoro.com
 
 - AddURL.online: [https://addurl.online/244999](https://addurl.online/244999)
+- AI Social Tools: [https://aisocialtools.co/ai-directory/astralhoro](https://aisocialtools.co/ai-directory/astralhoro)
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
