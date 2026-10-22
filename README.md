@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 531 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 533 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -191,11 +191,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - SiteLike: [https://www.sitelike.org/similar/easyfaceai.com/](https://www.sitelike.org/similar/easyfaceai.com/)
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/easyface-ai/](https://smartbiztools.io/ai-tools/easyface-ai/)
+- Straw.page: [https://easyfaceai-tryon.straw.page/](https://easyfaceai-tryon.straw.page/)
 - Substack: [https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your](https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your)
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
 - Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
+- Tumblr: [https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you](https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
