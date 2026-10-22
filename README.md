@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 507 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 508 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -361,6 +361,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - github.com: [https://github.com/chatmcp/mcpso/issues/5281](https://github.com/chatmcp/mcpso/issues/5281)
 - Google Sites: [https://sites.google.com/view/remove-ai-meta](https://sites.google.com/view/remove-ai-meta)
 - Google Translate: [https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
+- Hackaday.io: [https://hackaday.io/removeaimeta](https://hackaday.io/removeaimeta)
 - Hashnode article: [https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images](https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
