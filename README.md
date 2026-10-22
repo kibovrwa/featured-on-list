@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 502 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 507 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -338,6 +338,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - AI Social Tools: [https://aisocialtools.co/ai-directory/remove-ai-meta](https://aisocialtools.co/ai-directory/remove-ai-meta)
 - AICatalog: [https://aicatalog.com.ua/tool/remove-ai-meta](https://aicatalog.com.ua/tool/remove-ai-meta)
+- AIGCList: [https://aigclist.com/item/remove-ai-meta](https://aigclist.com/item/remove-ai-meta)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaiinfo](https://aiproductshunt.com/app/removeaiinfo)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaimeta](https://aiproductshunt.com/app/removeaimeta)
 - AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
@@ -353,6 +354,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d](https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d)
 - dev.to article: [https://dev.to/removeaimeta/the-hidden-data-in-your-photos-what-ai-metadata-reveals-and-how-to-strip-it-2mf6](https://dev.to/removeaimeta/the-hidden-data-in-your-photos-what-ai-metadata-reveals-and-how-to-strip-it-2mf6)
 - dev.to article: [https://dev.to/removeaimeta/the-linkedin-cr-icon-is-a-manifest-not-a-sticker-31he](https://dev.to/removeaimeta/the-linkedin-cr-icon-is-a-manifest-not-a-sticker-31he)
+- DEV.to roundup: [https://dev.to/dylan_yu_7ffff00b5355942d/checking-ai-image-metadata-20-useful-reads-and-listings-23k6](https://dev.to/dylan_yu_7ffff00b5355942d/checking-ai-image-metadata-20-useful-reads-and-listings-23k6)
 - Directory Index: [https://directory-index.com/technology/remove-ai-meta/](https://directory-index.com/technology/remove-ai-meta/)
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
@@ -361,6 +363,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Google Translate: [https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
 - Hashnode article: [https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images](https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
+- Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
 - Lovable: [https://remove-ai-metadata.lovable.app/](https://remove-ai-metadata.lovable.app/)
 - magicly.bio: [https://magicly.bio/removeaimeta](https://magicly.bio/removeaimeta)
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
@@ -378,6 +381,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - peerpush.com: [https://peerpush.com/p/remove-ai-meta](https://peerpush.com/p/remove-ai-meta)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/removeaimeta.com](https://plastikmuhur.xyz/sites/removeaimeta.com)
 - productwatch.io: [https://productwatch.io/products/remove-ai-meta](https://productwatch.io/products/remove-ai-meta)
+- Qiita: [https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129](https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129)
 - removeaimeta.hashnode.dev: [https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image](https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image)
 - removeaimeta.hashnode.dev: [https://removeaimeta.hashnode.dev/stable-diffusion-and-comfyui-pngs-carry-your-prompt-how-to-see-what-s-inside](https://removeaimeta.hashnode.dev/stable-diffusion-and-comfyui-pngs-carry-your-prompt-how-to-see-what-s-inside)
 - rentry.co: [https://rentry.co/removeaimeta-remove-exif](https://rentry.co/removeaimeta-remove-exif)
@@ -418,6 +422,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
+- write.as: [https://write.as/qbo2qddl11b6u](https://write.as/qbo2qddl11b6u)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
 - Zenodo: [https://zenodo.org/records/23523082](https://zenodo.org/records/23523082)
 
