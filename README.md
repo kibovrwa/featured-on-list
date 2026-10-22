@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 527 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 528 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -182,6 +182,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
 - note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
+- Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
 - PeerPush: [https://peerpush.com/p/easyface-ai](https://peerpush.com/p/easyface-ai)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/easyfaceai.com](https://plastikmuhur.xyz/sites/easyfaceai.com)
 - Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
