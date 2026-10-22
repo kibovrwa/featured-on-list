@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 503 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 501 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -150,8 +150,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - waywuygan.xyz: [https://waywuygan.xyz/sites/chatgpt2word.com](https://waywuygan.xyz/sites/chatgpt2word.com)
 - WebsiteLaunches: [https://websitelaunches.com/site/chatgpt2word.com](https://websitelaunches.com/site/chatgpt2word.com)
 - WithAITools: [https://www.withaitools.com/tools/markdown-to-word-converter](https://www.withaitools.com/tools/markdown-to-word-converter)
-- Zearches: [https://zearches.com/?s=chatgpt2word](https://zearches.com/?s=chatgpt2word)
-- Zearches: [https://zearches.com/directory.php?slug=software-saas](https://zearches.com/directory.php?slug=software-saas)
 
 ## easyfaceai.com
 
