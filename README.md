@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 509 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-22 · 510 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -344,6 +344,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
+- Bear Blog: [https://remove-ai-meta.bearblog.dev/strip-photo-exif/](https://remove-ai-meta.bearblog.dev/strip-photo-exif/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html)
 - buildvoyage.com: [https://buildvoyage.com/products/remove-ai-meta](https://buildvoyage.com/products/remove-ai-meta)
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/troubleshooting-remove-ai-meta-real-error-messages-and-what-to-do-1c10](https://dev.to/dylan_yu_7ffff00b5355942d/troubleshooting-remove-ai-meta-real-error-messages-and-what-to-do-1c10)
