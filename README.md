@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 526 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 527 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -172,6 +172,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
+- Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
