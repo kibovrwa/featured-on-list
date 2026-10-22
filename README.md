@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 529 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 531 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -182,6 +182,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
 - note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
+- PasteLink: [https://pastelink.net/d8gsppv3](https://pastelink.net/d8gsppv3)
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
 - PeerPush: [https://peerpush.com/p/easyface-ai](https://peerpush.com/p/easyface-ai)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/easyfaceai.com](https://plastikmuhur.xyz/sites/easyfaceai.com)
@@ -199,6 +200,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
+- WordPress.com: [https://easyfaceaihairstyles.wordpress.com/2026/10/23/face-shape-and-age-preview-a-hairstyle-before-you-commit/](https://easyfaceaihairstyles.wordpress.com/2026/10/23/face-shape-and-age-preview-a-hairstyle-before-you-commit/)
 - Zenodo: [https://zenodo.org/records/23444747](https://zenodo.org/records/23444747)
 
 ## gaivsiq.com
