@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 536 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 540 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -64,6 +64,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
+- JustPaste.it: [https://justpaste.it/hy7tx](https://justpaste.it/hy7tx)
 - LaunchFree: [https://launchfree.io/listings/astralhoro.html](https://launchfree.io/listings/astralhoro.html)
 - LDBase: [https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b](https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b)
 - LinkCentre: [https://www.linkcentre.com/review/1721861/astralhoro-com](https://www.linkcentre.com/review/1721861/astralhoro-com)
@@ -73,6 +74,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
+- Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
@@ -169,6 +171,8 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/easyface-ai/](https://directory-index.com/technology/easyface-ai/)
 - Directree: [https://www.directree.io/tool/easyfaceaicom](https://www.directree.io/tool/easyfaceaicom)
+- dpaste.org: [https://dpaste.org/wjBuq](https://dpaste.org/wjBuq)
+- dpaste.org: [https://dpaste.org/ONEKy](https://dpaste.org/ONEKy)
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
