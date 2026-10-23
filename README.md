@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 541 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 542 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -73,6 +73,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
+- pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
