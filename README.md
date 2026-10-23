@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 548 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 549 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -70,6 +70,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - LinkCentre: [https://www.linkcentre.com/review/1721861/astralhoro-com](https://www.linkcentre.com/review/1721861/astralhoro-com)
 - Lovable: [https://natal-chart-astralhoro.lovable.app/](https://natal-chart-astralhoro.lovable.app/)
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
+- mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
