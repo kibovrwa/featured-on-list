@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 547 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 548 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -92,6 +92,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
+- write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
 - Zearches: [https://zearches.com/?s=astralhoro](https://zearches.com/?s=astralhoro)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
