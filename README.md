@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 540 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 541 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -184,6 +184,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
+- mataroa.blog: [https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/](https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/)
 - Medium: [https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b](https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b)
 - Neocities: [https://removeaimeta.neocities.org/easyface](https://removeaimeta.neocities.org/easyface)
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
