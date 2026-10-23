@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 533 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 534 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -162,6 +162,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
+- Carrd: [https://easyfaceai.carrd.co](https://easyfaceai.carrd.co)
 - DeepNLP: [https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai](https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i](https://dev.to/dylan_yu_7ffff00b5355942d/building-an-ai-hairstyle-try-on-on-third-party-models-honest-notes-from-easyface-ai-g7i)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-test-hair-colors-before-you-dye-your-hair-7n0)
