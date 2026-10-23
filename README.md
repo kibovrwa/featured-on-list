@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 549 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 550 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -83,6 +83,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
 - straw.page: [https://moon-sign-notes.straw.page](https://moon-sign-notes.straw.page)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
+- surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@horo-horo/](https://theresanaiforthat.com/@horo-horo/)
 - tiiny.site: [https://astralhoro-moon.tiiny.site](https://astralhoro-moon.tiiny.site)
