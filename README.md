@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 544 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 547 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -232,7 +232,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directree: [https://www.directree.io/tool/gai-vs-iq](https://www.directree.io/tool/gai-vs-iq)
 - Joinly: [https://joinly.xyz/startups/gaivsiq-com](https://joinly.xyz/startups/gaivsiq-com)
 - LaunchFree: [https://launchfree.io/listings/gaivsiq-free-online-iq-test.html](https://launchfree.io/listings/gaivsiq-free-online-iq-test.html)
-- LDbase: [https://ldbase.org/projects/183d2b1f-8c4b-4fa3-b1de-d4859d718424](https://ldbase.org/projects/183d2b1f-8c4b-4fa3-b1de-d4859d718424)
 - Lovable: [https://free-online-iq-test.lovable.app/](https://free-online-iq-test.lovable.app/)
 - Medium article: [https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
 - NewName.ai: [https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory](https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory)
@@ -373,6 +372,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
+- Ameblo: [https://ameblo.jp/removeaimeta/entry-12982370594.html](https://ameblo.jp/removeaimeta/entry-12982370594.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/strip-photo-exif/](https://remove-ai-meta.bearblog.dev/strip-photo-exif/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html)
 - buildvoyage.com: [https://buildvoyage.com/products/remove-ai-meta](https://buildvoyage.com/products/remove-ai-meta)
@@ -390,11 +390,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
 - Feeder: [https://feeder.co/discover/42f6e4e93a/removeaimeta-com](https://feeder.co/discover/42f6e4e93a/removeaimeta-com)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
+- GitHub Gist: [https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4](https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5281](https://github.com/chatmcp/mcpso/issues/5281)
 - Google Sites: [https://sites.google.com/view/remove-ai-meta](https://sites.google.com/view/remove-ai-meta)
 - Google Translate: [https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
 - Hackaday.io: [https://hackaday.io/removeaimeta](https://hackaday.io/removeaimeta)
 - Hashnode article: [https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images](https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images)
+- Hugging Face Spaces: [https://removeaimeta-remove-ai-meta.static.hf.space/](https://removeaimeta-remove-ai-meta.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/remove-ai-meta](https://ignitae.com/p/remove-ai-meta)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
@@ -405,6 +407,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium article: [https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb](https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb)
 - Neocities: [https://removeaimeta.neocities.org/](https://removeaimeta.neocities.org/)
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
+- note.com: [https://note.com/long_abelia3343/n/n5ebff815f1d3](https://note.com/long_abelia3343/n/n5ebff815f1d3)
 - parsed: [https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c](https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c)
 - parsed: [https://slides.com/removeaimeta/deck](https://slides.com/removeaimeta/deck)
 - parsed: [https://slides.com/removeaimeta/how-to-check-an-image-for-ai-metadata](https://slides.com/removeaimeta/how-to-check-an-image-for-ai-metadata)
