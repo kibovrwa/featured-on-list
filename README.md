@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 542 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-23 · 543 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -83,6 +83,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@horo-horo/](https://theresanaiforthat.com/@horo-horo/)
+- tiiny.site: [https://astralhoro-moon.tiiny.site](https://astralhoro-moon.tiiny.site)
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
 - TipSeason: [https://www.tipseason.com/aitool/astralhoro](https://www.tipseason.com/aitool/astralhoro)
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
