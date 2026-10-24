@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 550 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 551 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -51,6 +51,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
+- bearblog.dev: [https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/](https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
 - BloggersMinds: [https://bloggersminds.com/apps/AstralHoroTransitTiming](https://bloggersminds.com/apps/AstralHoroTransitTiming)
