@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 559 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 561 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -49,6 +49,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AddURL.online: [https://addurl.online/244999](https://addurl.online/244999)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/astralhoro](https://aisocialtools.co/ai-directory/astralhoro)
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
+- AIMarketly: [https://www.aimarketly.com/tool/astralhoro](https://www.aimarketly.com/tool/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - bearblog.dev: [https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/](https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/)
@@ -56,6 +57,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
 - BloggersMinds: [https://bloggersminds.com/apps/AstralHoroTransitTiming](https://bloggersminds.com/apps/AstralHoroTransitTiming)
 - BuildVoyage: [https://buildvoyage.com/products/astralhoro](https://buildvoyage.com/products/astralhoro)
+- Carrd: [https://astralrisingnotes.carrd.co](https://astralrisingnotes.carrd.co)
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Diigo: [https://www.diigo.com/profile/astralhoro](https://www.diigo.com/profile/astralhoro)
