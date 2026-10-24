@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 554 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 556 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -64,6 +64,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
+- GitLab Snippet: [https://gitlab.com/-/snippets/6071266](https://gitlab.com/-/snippets/6071266)
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
@@ -85,6 +86,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
+- SmartBizTools: [https://smartbiztools.io/ai-tools/astralhoro-rising-sign-calculator/](https://smartbiztools.io/ai-tools/astralhoro-rising-sign-calculator/)
 - straw.page: [https://moon-sign-notes.straw.page](https://moon-sign-notes.straw.page)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
