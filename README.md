@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 556 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-24 · 558 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -66,6 +66,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
 - GitLab Snippet: [https://gitlab.com/-/snippets/6071266](https://gitlab.com/-/snippets/6071266)
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
+- Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
@@ -213,6 +214,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - SmartBizTools: [https://smartbiztools.io/ai-tools/easyface-ai/](https://smartbiztools.io/ai-tools/easyface-ai/)
 - Straw.page: [https://easyfaceai-tryon.straw.page/](https://easyfaceai-tryon.straw.page/)
 - Substack: [https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your](https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your)
+- surge.sh: [https://easyface-hairstyle-guide.surge.sh/](https://easyface-hairstyle-guide.surge.sh/)
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
