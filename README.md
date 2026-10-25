@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 565 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 567 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -83,6 +83,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
+- mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
@@ -206,6 +207,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
 - mataroa.blog: [https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/](https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/)
 - Medium: [https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b](https://medium.com/@easyfaceai/facial-hair-styles-worth-trying-on-before-the-barber-106f5334669b)
+- mystrikingly.com: [https://precise-sunflower-136jxjq.mystrikingly.com/](https://precise-sunflower-136jxjq.mystrikingly.com/)
 - Neocities: [https://removeaimeta.neocities.org/easyface](https://removeaimeta.neocities.org/easyface)
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
 - note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
