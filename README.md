@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 563 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-25 · 564 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -64,6 +64,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/astralhoro](https://www.diigo.com/profile/astralhoro)
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
+- dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
