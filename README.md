@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-26 · 577 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 579 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -96,6 +96,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
+- simdif.com: [https://astral-moon-notes.simdif.com/](https://astral-moon-notes.simdif.com/)
 - SITE123: [https://6ade7f56aa278.site123.me/](https://6ade7f56aa278.site123.me/)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
@@ -116,6 +117,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
 - wixsite.com: [https://hello975457.wixsite.com/yes-no-tarot-notes](https://hello975457.wixsite.com/yes-no-tarot-notes)
 - WordPress.com: [https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/](https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/)
+- workers.dev: [https://astral-aquarius-notes.phtechgroup.workers.dev/](https://astral-aquarius-notes.phtechgroup.workers.dev/)
 - write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
