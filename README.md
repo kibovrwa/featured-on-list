@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-26 · 570 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-26 · 573 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -62,6 +62,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Diigo: [https://www.diigo.com/profile/astralhoro](https://www.diigo.com/profile/astralhoro)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
@@ -78,13 +79,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
 - JustPaste.it: [https://justpaste.it/hy7tx](https://justpaste.it/hy7tx)
 - LaunchFree: [https://launchfree.io/listings/astralhoro.html](https://launchfree.io/listings/astralhoro.html)
-- LDBase: [https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b](https://ldbase.org/projects/1553fa43-e369-44f3-8a92-c355b68ab58b)
 - LinkCentre: [https://www.linkcentre.com/review/1721861/astralhoro-com](https://www.linkcentre.com/review/1721861/astralhoro-com)
 - Lovable: [https://natal-chart-astralhoro.lovable.app/](https://natal-chart-astralhoro.lovable.app/)
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
+- Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
@@ -110,9 +111,9 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
+- wixsite.com: [https://hello975457.wixsite.com/yes-no-tarot-notes](https://hello975457.wixsite.com/yes-no-tarot-notes)
 - WordPress.com: [https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/](https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/)
 - write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
-- Zearches: [https://zearches.com/?s=astralhoro](https://zearches.com/?s=astralhoro)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
 ## capybarasvsplants.com
@@ -134,6 +135,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/removeaimeta/export-a-chatgpt-thread-to-word-without-losing-the-structure-5d50](https://dev.to/removeaimeta/export-a-chatgpt-thread-to-word-without-losing-the-structure-5d50)
 - dev.to article: [https://dev.to/removeaimeta/paste-one-chatgpt-answer-and-check-the-table-before-you-download-2g29](https://dev.to/removeaimeta/paste-one-chatgpt-answer-and-check-the-table-before-you-download-2g29)
 - DevHunt: [https://devhunt.org/tool/chatgpt2word](https://devhunt.org/tool/chatgpt2word)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/chatgpt-to-word/](https://directory-index.com/technology/chatgpt-to-word/)
 - Directree: [https://www.directree.io/tool/chatgpt2word](https://www.directree.io/tool/chatgpt2word)
 - GitHub: [https://github.com/kibovrwa/how-to-export-chatgpt-to-word](https://github.com/kibovrwa/how-to-export-chatgpt-to-word)
@@ -143,7 +145,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/chatgpt2word-com](https://www.joinly.xyz/startups/chatgpt2word-com)
 - launch.ignlab.net: [https://launch.ignlab.net/t/chatgpt2word](https://launch.ignlab.net/t/chatgpt2word)
 - LaunchFree: [https://launchfree.io/listings/chatgpt2word.html](https://launchfree.io/listings/chatgpt2word.html)
-- LDbase: [https://ldbase.org/projects/e61c5608-d423-439b-85fe-7120b607356b](https://ldbase.org/projects/e61c5608-d423-439b-85fe-7120b607356b)
 - Lovable: [https://export-chatgpt-to-word.lovable.app/](https://export-chatgpt-to-word.lovable.app/)
 - magicly.bio: [https://magicly.bio/chatgpt2word](https://magicly.bio/chatgpt2word)
 - Medium article: [https://medium.com/@hello_41390/code-blocks-from-chatgpt-in-word-why-the-formatting-falls-apart-and-how-to-keep-it-af4c8e46fba2](https://medium.com/@hello_41390/code-blocks-from-chatgpt-in-word-why-the-formatting-falls-apart-and-how-to-keep-it-af4c8e46fba2)
@@ -322,6 +323,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2](https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2)
 - dev.to article: [https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7](https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7)
 - dev.to article: [https://dev.to/removeaimeta/quarter-turns-for-a-litematica-placement-49da](https://dev.to/removeaimeta/quarter-turns-for-a-litematica-placement-49da)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directree: [https://www.directree.io/tool/minecraft-schematic-generator](https://www.directree.io/tool/minecraft-schematic-generator)
 - github.com: [https://github.com/kibovrwa/minecraft-litematic-checklist](https://github.com/kibovrwa/minecraft-litematic-checklist)
 - Google Translate: [https://minecraftschematicgenerator-com.translate.goog/litematica-move-and-rotate?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://minecraftschematicgenerator-com.translate.goog/litematica-move-and-rotate?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -362,6 +364,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn](https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn)
 - dev.to article: [https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n](https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n)
 - DevHunt: [https://devhunt.org/tool/reelsongfinder](https://devhunt.org/tool/reelsongfinder)
+- Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/entertainment/reel-song-finder/](https://directory-index.com/entertainment/reel-song-finder/)
 - directree.io: [https://www.directree.io/tool/reelsongfinder](https://www.directree.io/tool/reelsongfinder)
 - GitHub: [https://github.com/kibovrwa/find-song-from-video](https://github.com/kibovrwa/find-song-from-video)
