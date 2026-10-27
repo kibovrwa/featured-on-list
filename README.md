@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 597 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 598 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -132,6 +132,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - workers.dev: [https://astral-aquarius-notes.phtechgroup.workers.dev/](https://astral-aquarius-notes.phtechgroup.workers.dev/)
 - workers.dev: [https://astral-leo-notes.phtechgroup.workers.dev/](https://astral-leo-notes.phtechgroup.workers.dev/)
 - write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
+- write.as: [https://write.as/bz62xgb3oozlr.md](https://write.as/bz62xgb3oozlr.md)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
 ## capybarasvsplants
