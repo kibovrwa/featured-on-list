@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 579 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 581 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -54,6 +54,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - Ameblo: [https://ameblo.jp/astralhoro/entry-12982608658.html](https://ameblo.jp/astralhoro/entry-12982608658.html)
 - bearblog.dev: [https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/](https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/)
+- bitbucket.io: [https://astralnotes.bitbucket.io/](https://astralnotes.bitbucket.io/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
 - BloggersMinds: [https://bloggersminds.com/apps/AstralHoroTransitTiming](https://bloggersminds.com/apps/AstralHoroTransitTiming)
@@ -87,6 +88,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
+- netlify.app: [https://astral-pisces-notes.netlify.app/](https://astral-pisces-notes.netlify.app/)
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
