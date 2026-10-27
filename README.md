@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 594 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 595 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -98,6 +98,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
 - onrender.com: [https://astral-taurus-notes.onrender.com/](https://astral-taurus-notes.onrender.com/)
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
+- pages.dev: [https://astral-virgo-notes.pages.dev/](https://astral-virgo-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
