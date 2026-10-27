@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 599 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 600 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -65,6 +65,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - BuildVoyage: [https://buildvoyage.com/products/astralhoro](https://buildvoyage.com/products/astralhoro)
 - Carrd: [https://astralrisingnotes.carrd.co](https://astralrisingnotes.carrd.co)
 - codeberg.page: [https://astralnotes.codeberg.page/](https://astralnotes.codeberg.page/)
+- codeberg.page: [https://astralnotes.codeberg.page/yesno-tarot-notes/](https://astralnotes.codeberg.page/yesno-tarot-notes/)
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Diigo: [https://www.diigo.com/profile/astralhoro](https://www.diigo.com/profile/astralhoro)
