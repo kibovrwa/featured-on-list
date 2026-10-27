@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 581 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 591 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -37,6 +37,10 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Uneed: [https://www.uneed.best/tool/100-days-at-sea-wiki](https://www.uneed.best/tool/100-days-at-sea-wiki)
 - WikiIndex: [https://wikiindex.org/w/100_Days_at_Sea_Wiki](https://wikiindex.org/w/100_Days_at_Sea_Wiki)
 - WithAITools: [https://www.withaitools.com/tools/100-days-at-sea-codes](https://www.withaitools.com/tools/100-days-at-sea-codes)
+
+## animecardfarm
+
+- NewName.ai: [https://newname.ai/products/anime-card-farm-codes-beginner-wiki](https://newname.ai/products/anime-card-farm-codes-beginner-wiki)
 
 ## animecardfarm.com
 
@@ -92,6 +96,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName.ai: [https://newname.ai/products/astralhoro](https://newname.ai/products/astralhoro)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
+- onrender.com: [https://astral-taurus-notes.onrender.com/](https://astral-taurus-notes.onrender.com/)
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
@@ -122,6 +127,10 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - workers.dev: [https://astral-aquarius-notes.phtechgroup.workers.dev/](https://astral-aquarius-notes.phtechgroup.workers.dev/)
 - write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
+
+## capybarasvsplants
+
+- NewName.ai: [https://newname.ai/products/capybaras-vs-plants-codes-tracker](https://newname.ai/products/capybaras-vs-plants-codes-tracker)
 
 ## capybarasvsplants.com
 
@@ -304,14 +313,18 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## mechangelion.com
 
 - AIProductsHunt: [https://aiproductshunt.com/app/mechangelion](https://aiproductshunt.com/app/mechangelion)
+- ameblo.jp: [https://ameblo.jp/mechangelion-fan/entry-12982732314.html](https://ameblo.jp/mechangelion-fan/entry-12982732314.html)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/first-session-design-for-browser-mech-games-controls-upgrades-boss-gates-534p](https://dev.to/dylan_yu_7ffff00b5355942d/first-session-design-for-browser-mech-games-controls-upgrades-boss-gates-534p)
 - Directory Index: [https://directory-index.com/entertainment/mechangelion/](https://directory-index.com/entertainment/mechangelion/)
 - Directree: [https://www.directree.io/tool/mechangelion](https://www.directree.io/tool/mechangelion)
 - GitHub: [https://github.com/kibovrwa/play-mechangelion-browser](https://github.com/kibovrwa/play-mechangelion-browser)
 - Joinly: [https://www.joinly.xyz/startups/www-mechangelion-com](https://www.joinly.xyz/startups/www-mechangelion-com)
+- kit.com: [https://mechangelion-fan-guide.kit.com/5a47782b47](https://mechangelion-fan-guide.kit.com/5a47782b47)
 - Lovable: [https://play-mechangelion-free.lovable.app/](https://play-mechangelion-free.lovable.app/)
 - magicly.bio: [https://magicly.bio/mechangelion](https://magicly.bio/mechangelion)
+- medium.com: [https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417](https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417)
 - NewName.ai: [https://newname.ai/products/mechangelion](https://newname.ai/products/mechangelion)
+- note.com: [https://note.com/mechangelion_fan/n/nde11a802e383](https://note.com/mechangelion_fan/n/nde11a802e383)
 - PeerPush: [https://peerpush.com/p/mechangelion](https://peerpush.com/p/mechangelion)
 - ProductWatch: [https://productwatch.io/products/mechangelion-1](https://productwatch.io/products/mechangelion-1)
 - SiteLike: [https://www.sitelike.org/similar/mechangelion.com/](https://www.sitelike.org/similar/mechangelion.com/)
@@ -320,6 +333,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TinyLaunch: [https://tinylaunch.com/launch/22068-mechangelion](https://tinylaunch.com/launch/22068-mechangelion)
 - Uneed: [https://www.uneed.best/tool/mechangelion](https://www.uneed.best/tool/mechangelion)
 - WebsiteLaunches: [https://websitelaunches.com/site/mechangelion.com](https://websitelaunches.com/site/mechangelion.com)
+- wikiindex.org: [https://wikiindex.org/w/Mechangelion](https://wikiindex.org/w/Mechangelion)
 
 ## minecraftschematicgenerator.com
 
@@ -495,6 +509,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Viesearch: [https://viesearch.com/28pni/remove-ai-meta](https://viesearch.com/28pni/remove-ai-meta)
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
+- wikiindex.org: [https://wikiindex.org/w/Remove_AI_Meta](https://wikiindex.org/w/Remove_AI_Meta)
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - write.as: [https://write.as/qbo2qddl11b6u](https://write.as/qbo2qddl11b6u)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
@@ -537,6 +552,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - AI Social Tools: [https://aisocialtools.co/ai-directory/snapchat-memories-download](https://aisocialtools.co/ai-directory/snapchat-memories-download)
 - aigclist.com: [https://aigclist.com/item/snapchat-memories-download](https://aigclist.com/item/snapchat-memories-download)
+- aitooler: [https://aitooler.com/snapchatmemoriesdownload-com-57049/](https://aitooler.com/snapchatmemoriesdownload-com-57049/)
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/january-2027-archives-snapchat-memories-it-does-not-delete-them-53g1](https://dev.to/dylan_yu_7ffff00b5355942d/january-2027-archives-snapchat-memories-it-does-not-delete-them-53g1)
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/why-exported-snapchat-memories-lose-their-dates-and-how-to-fix-the-exif-ac4](https://dev.to/dylan_yu_7ffff00b5355942d/why-exported-snapchat-memories-lose-their-dates-and-how-to-fix-the-exif-ac4)
 - dev.to: [https://dev.to/removeaimeta/how-to-download-snapchat-memories-without-losing-photo-quality-38j](https://dev.to/removeaimeta/how-to-download-snapchat-memories-without-losing-photo-quality-38j)
