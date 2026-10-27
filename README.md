@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 593 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-27 · 594 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -127,6 +127,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - wixsite.com: [https://hello975457.wixsite.com/yes-no-tarot-notes](https://hello975457.wixsite.com/yes-no-tarot-notes)
 - WordPress.com: [https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/](https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/)
 - workers.dev: [https://astral-aquarius-notes.phtechgroup.workers.dev/](https://astral-aquarius-notes.phtechgroup.workers.dev/)
+- workers.dev: [https://astral-leo-notes.phtechgroup.workers.dev/](https://astral-leo-notes.phtechgroup.workers.dev/)
 - write.as: [https://write.as/8vmv7vqgeeikz.md](https://write.as/8vmv7vqgeeikz.md)
 - Zenodo: [https://zenodo.org/records/23511579](https://zenodo.org/records/23511579)
 
