@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 677 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 678 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -288,6 +288,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
 - productwatch.io: [https://productwatch.io/products/easyface-ai-1](https://productwatch.io/products/easyface-ai-1)
 - rentry.co: [https://rentry.co/easyfaceai-face-shape-hairstyles](https://rentry.co/easyfaceai-face-shape-hairstyles)
+- showmysites.com: [https://showmysites.com/astralhoro/easyface-ai/](https://showmysites.com/astralhoro/easyface-ai/)
 - SiteLike: [https://www.sitelike.org/similar/easyfaceai.com/](https://www.sitelike.org/similar/easyfaceai.com/)
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/easyface-ai/](https://smartbiztools.io/ai-tools/easyface-ai/)
