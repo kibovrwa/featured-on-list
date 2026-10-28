@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 612 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 613 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -24,6 +24,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - llmsmap.me: [https://llmsmap.me/site/100daysatsea-com/](https://llmsmap.me/site/100daysatsea-com/)
 - Lovable: [https://days-at-sea-codes.lovable.app/](https://days-at-sea-codes.lovable.app/)
 - magicly.bio: [https://magicly.bio/100daysatsea](https://magicly.bio/100daysatsea)
+- meweblink.com: [https://meweblink.com/directory/?q=100daysatsea](https://meweblink.com/directory/?q=100daysatsea)
 - NewName.ai: [https://newname.ai/products/100-days-at-sea-wiki](https://newname.ai/products/100-days-at-sea-wiki)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - OSF: [https://osf.io/3t52m/wiki](https://osf.io/3t52m/wiki)
