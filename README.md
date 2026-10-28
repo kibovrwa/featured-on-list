@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 668 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 669 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -257,6 +257,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/wjBuq](https://dpaste.org/wjBuq)
 - dpaste.org: [https://dpaste.org/ONEKy](https://dpaste.org/ONEKy)
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
+- ffacat.com: [https://ffacat.com/](https://ffacat.com/)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - GitHub Gist: [https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71](https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71)
