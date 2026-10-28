@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 636 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 652 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -95,6 +95,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
+- GitHub Gist: [https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2](https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
 - github.io: [https://kibovrwa.github.io/astral-pisces-moon-notes/](https://kibovrwa.github.io/astral-pisces-moon-notes/)
@@ -145,11 +146,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
 - surge.sh: [https://astralhoro-libra-notes.surge.sh/](https://astralhoro-libra-notes.surge.sh/)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
+- Telegraph: [https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28](https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@horo-horo/](https://theresanaiforthat.com/@horo-horo/)
 - tiiny.site: [https://astralhoro-moon.tiiny.site](https://astralhoro-moon.tiiny.site)
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
 - TipSeason: [https://www.tipseason.com/aitool/astralhoro](https://www.tipseason.com/aitool/astralhoro)
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
+- Vercel: [https://astralhoro-natal-chart.vercel.app/](https://astralhoro-natal-chart.vercel.app/)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - webflow.io: [https://astral-moon-notes.webflow.io/](https://astral-moon-notes.webflow.io/)
@@ -253,6 +256,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
+- GitHub Gist: [https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71](https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71)
 - GitLab Snippet: [https://gitlab.com/-/snippets/6070861](https://gitlab.com/-/snippets/6070861)
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
@@ -286,6 +290,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
 - Tumblr: [https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you](https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
+- Vercel: [https://easyface-face-shape-detector.vercel.app/](https://easyface-face-shape-detector.vercel.app/)
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - wikiindex.org: [https://wikiindex.org/w/EasyFace_AI](https://wikiindex.org/w/EasyFace_AI)
@@ -417,12 +422,21 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - websitelaunches.com: [https://websitelaunches.com/site/minecraftschematicgenerator.com](https://websitelaunches.com/site/minecraftschematicgenerator.com)
 - WithAITools: [https://www.withaitools.com/tools/minecraft-schematic-generator](https://www.withaitools.com/tools/minecraft-schematic-generator)
 
+## monareel
+
+- GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
+- Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
+- Vercel: [https://monareel-ai-video.vercel.app/](https://monareel-ai-video.vercel.app/)
+
 ## reelsongfinder.com
 
+- aicatalog.com.ua: [https://aicatalog.com.ua/tool/reelsongfinder](https://aicatalog.com.ua/tool/reelsongfinder)
+- aigclist.com: [https://aigclist.com/item/reel-song-finder](https://aigclist.com/item/reel-song-finder)
 - AIProductsHunt: [https://aiproductshunt.com/app/findsongfromvideo](https://aiproductshunt.com/app/findsongfromvideo)
 - AIProductsHunt: [https://aiproductshunt.com/app/reelsongfinder](https://aiproductshunt.com/app/reelsongfinder)
 - AIToolFinder: [https://aitoolfinder.ai/tools/reelsongfinder](https://aitoolfinder.ai/tools/reelsongfinder)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html)
+- buildvoyage.com: [https://buildvoyage.com/products/reelsongfinder](https://buildvoyage.com/products/reelsongfinder)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i](https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i)
 - dev.to article: [https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn](https://dev.to/removeaimeta/find-the-song-used-in-an-instagram-reel-without-guessing-5gbn)
 - dev.to article: [https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n](https://dev.to/removeaimeta/the-clipboard-test-for-an-instagram-reel-link-14n)
@@ -431,6 +445,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directory Index: [https://directory-index.com/entertainment/reel-song-finder/](https://directory-index.com/entertainment/reel-song-finder/)
 - directree.io: [https://www.directree.io/tool/reelsongfinder](https://www.directree.io/tool/reelsongfinder)
 - GitHub: [https://github.com/kibovrwa/find-song-from-video](https://github.com/kibovrwa/find-song-from-video)
+- GitHub Gist: [https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f](https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f)
 - Google Translate: [https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
 - Joinly: [https://www.joinly.xyz/startups/reelsongfinder-com](https://www.joinly.xyz/startups/reelsongfinder-com)
 - LaunchFree: [https://launchfree.io/listings/reel-song-finder.html](https://launchfree.io/listings/reel-song-finder.html)
@@ -447,6 +462,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph: [https://telegra.ph/Which-Instagram-link-do-you-copy-to-identify-a-song-reel-share-p-and-the-rest-10-02](https://telegra.ph/Which-Instagram-link-do-you-copy-to-identify-a-song-reel-share-p-and-the-rest-10-02)
 - Telegraph: [https://telegra.ph/Why-Shazam-hears-nothing-in-a-sped-up-Reel-song-and-what-still-works-10-02](https://telegra.ph/Why-Shazam-hears-nothing-in-a-sped-up-Reel-song-and-what-still-works-10-02)
 - Vercel: [https://reelsong-find-song.vercel.app/](https://reelsong-find-song.vercel.app/)
+- Vercel: [https://reelsong-what-song-reel.vercel.app/](https://reelsong-what-song-reel.vercel.app/)
 - Viesearch: [https://viesearch.com/28wba/reel-song-finder-find-song-from-instagram-reel](https://viesearch.com/28wba/reel-song-finder-find-song-from-instagram-reel)
 - websitelaunches.com: [https://websitelaunches.com/site/reelsongfinder.com](https://websitelaunches.com/site/reelsongfinder.com)
 - WithAITools: [https://www.withaitools.com/tools/reelsongfinder](https://www.withaitools.com/tools/reelsongfinder)
@@ -481,6 +497,8 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Feeder: [https://feeder.co/discover/42f6e4e93a/removeaimeta-com](https://feeder.co/discover/42f6e4e93a/removeaimeta-com)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
 - GitHub Gist: [https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4](https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4)
+- GitHub Gist: [https://gist.github.com/kibovrwa/7d78763f0449de2f2c09acc963cdcfba](https://gist.github.com/kibovrwa/7d78763f0449de2f2c09acc963cdcfba)
+- GitHub Gist: [https://gist.github.com/kibovrwa/622d9172643b07f2696db7becf7f35d0](https://gist.github.com/kibovrwa/622d9172643b07f2696db7becf7f35d0)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5281](https://github.com/chatmcp/mcpso/issues/5281)
 - Google Sites: [https://sites.google.com/view/remove-ai-meta](https://sites.google.com/view/remove-ai-meta)
 - Google Translate: [https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://removeaimeta-com.translate.goog/remove-ai-info?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -496,6 +514,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
 - Medium article: [https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb](https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb)
+- mybzz.com: [https://mybzz.com/brands/remove-ai-meta](https://mybzz.com/brands/remove-ai-meta)
 - Neocities: [https://removeaimeta.neocities.org/](https://removeaimeta.neocities.org/)
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
 - note.com: [https://note.com/long_abelia3343/n/n5ebff815f1d3](https://note.com/long_abelia3343/n/n5ebff815f1d3)
