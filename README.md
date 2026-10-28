@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 625 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 626 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -34,6 +34,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
 - PeerPush: [https://peerpush.com/p/100-days-at-sea-wiki](https://peerpush.com/p/100-days-at-sea-wiki)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/www.100daysatsea.com](https://plastikmuhur.xyz/sites/www.100daysatsea.com)
+- reddit-directory.com: [https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html](https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html)
 - rentry.co: [https://rentry.co/100daysatsea-codes](https://rentry.co/100daysatsea-codes)
 - SaaSHub: [https://www.saashub.com/100-days-at-sea-wiki](https://www.saashub.com/100-days-at-sea-wiki)
 - seobackdirectory.com: [https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181](https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181)
