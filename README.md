@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 667 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 668 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -452,6 +452,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/entertainment/reel-song-finder/](https://directory-index.com/entertainment/reel-song-finder/)
 - directree.io: [https://www.directree.io/tool/reelsongfinder](https://www.directree.io/tool/reelsongfinder)
+- ffacat.com: [https://ffacat.com/search/reelsongfinder/](https://ffacat.com/search/reelsongfinder/)
 - GitHub: [https://github.com/kibovrwa/find-song-from-video](https://github.com/kibovrwa/find-song-from-video)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f](https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f)
 - Google Translate: [https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
