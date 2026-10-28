@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 662 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 663 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -272,6 +272,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - mystrikingly.com: [https://precise-sunflower-136jxjq.mystrikingly.com/](https://precise-sunflower-136jxjq.mystrikingly.com/)
 - Neocities: [https://removeaimeta.neocities.org/easyface](https://removeaimeta.neocities.org/easyface)
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
+- noisedh.maozi.io: [https://noisedh.maozi.io/tougao/](https://noisedh.maozi.io/tougao/)
 - note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
 - PasteLink: [https://pastelink.net/d8gsppv3](https://pastelink.net/d8gsppv3)
