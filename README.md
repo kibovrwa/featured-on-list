@@ -1,11 +1,12 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 628 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 629 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
 ## 100daysatsea.com
 
+- ad-links.org: [https://ad-links.org/100-Days-at-Sea-Codes_393268.html](https://ad-links.org/100-Days-at-Sea-Codes_393268.html)
 - AddURL.online: [https://addurl.online/246730](https://addurl.online/246730)
 - AIProductsHunt: [https://aiproductshunt.com/app/100daysatseawiki](https://aiproductshunt.com/app/100daysatseawiki)
 - AIToolFinder: [https://aitoolfinder.ai/tools/100-days-at-sea-wiki](https://aitoolfinder.ai/tools/100-days-at-sea-wiki)
