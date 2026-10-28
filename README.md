@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 630 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 632 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -20,10 +20,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij](https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij)
 - Directory Index: [https://directory-index.com/entertainment/100-days-at-sea-wiki-1/](https://directory-index.com/entertainment/100-days-at-sea-wiki-1/)
 - Directree: [https://www.directree.io/tool/100-days-at-sea-wiki](https://www.directree.io/tool/100-days-at-sea-wiki)
+- free-weblink.com: [https://free-weblink.com/100-Days-at-Sea-Codes_299009.html](https://free-weblink.com/100-Days-at-Sea-Codes_299009.html)
 - GitHub: [https://github.com/kibovrwa/100-days-at-sea-codes-guide](https://github.com/kibovrwa/100-days-at-sea-codes-guide)
 - jayde.com: [https://www.jayde.com/new.html](https://www.jayde.com/new.html)
 - jet-links.com: [https://jet-links.com/100-Days-at-Sea-Codes_418588.html](https://jet-links.com/100-Days-at-Sea-Codes_418588.html)
 - Joinly: [https://www.joinly.xyz/startups/www-100daysatsea-com](https://www.joinly.xyz/startups/www-100daysatsea-com)
+- justlink.org: [https://justlink.org/details.php?id=439763](https://justlink.org/details.php?id=439763)
 - LaunchFree: [https://launchfree.io/listings/100-days-at-sea-wiki.html](https://launchfree.io/listings/100-days-at-sea-wiki.html)
 - Launchtory: [https://launchtory.com/projects/100daysatsea](https://launchtory.com/projects/100daysatsea)
 - ldmstudio.com: [https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html](https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html)
