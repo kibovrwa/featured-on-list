@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 671 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 672 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -435,6 +435,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - Vercel: [https://monareel-ai-video.vercel.app/](https://monareel-ai-video.vercel.app/)
+- withaitools.com: [https://www.withaitools.com/tools/monareel](https://www.withaitools.com/tools/monareel)
 
 ## reelsongfinder.com
 
