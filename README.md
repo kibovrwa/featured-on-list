@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 600 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 601 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -106,6 +106,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
 - pythonanywhere.com: [https://astralnotes.pythonanywhere.com/](https://astralnotes.pythonanywhere.com/)
+- pythonanywhere.com: [https://astralnotes.pythonanywhere.com/sagittarius/](https://astralnotes.pythonanywhere.com/sagittarius/)
 - readthedocs.io: [https://astral-gemini-notes.readthedocs.io/en/latest/](https://astral-gemini-notes.readthedocs.io/en/latest/)
 - readthedocs.io: [https://astral-scorpio-notes.readthedocs.io/en/latest/](https://astral-scorpio-notes.readthedocs.io/en/latest/)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
