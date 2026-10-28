@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 622 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 623 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -42,6 +42,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph: [https://telegra.ph/100-Days-at-Sea-a-first-week-checklist-for-new-players-10-16](https://telegra.ph/100-Days-at-Sea-a-first-week-checklist-for-new-players-10-16)
 - Telegraph: [https://telegra.ph/First-hour-build-order-notes-for-100-Days-at-Sea-10-18](https://telegra.ph/First-hour-build-order-notes-for-100-Days-at-Sea-10-18)
 - Telegraph: [https://telegra.ph/How-to-check-whether-a-100-Days-at-Sea-code-is-still-active-10-18](https://telegra.ph/How-to-check-whether-a-100-Days-at-Sea-code-is-still-active-10-18)
+- trafficdirectory.org: [https://trafficdirectory.org/100-Days-at-Sea-Codes_287857.html](https://trafficdirectory.org/100-Days-at-Sea-Codes_287857.html)
 - Uneed: [https://www.uneed.best/tool/100-days-at-sea-wiki](https://www.uneed.best/tool/100-days-at-sea-wiki)
 - waywuygan.xyz: [https://waywuygan.xyz/sites/www.100daysatsea.com](https://waywuygan.xyz/sites/www.100daysatsea.com)
 - WikiIndex: [https://wikiindex.org/w/100_Days_at_Sea_Wiki](https://wikiindex.org/w/100_Days_at_Sea_Wiki)
