@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 633 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 634 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -182,6 +182,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aitoolex: [https://aitoolex.com/item/chatgpt2word](https://aitoolex.com/item/chatgpt2word)
 - AIToolFinder: [https://aitoolfinder.ai/tools/chatgpt2word](https://aitoolfinder.ai/tools/chatgpt2word)
 - BloggersMinds: [https://bloggersminds.com/apps/ChatGPT2Word](https://bloggersminds.com/apps/ChatGPT2Word)
+- BuildVoyage: [https://buildvoyage.com/products/chatgpt2word](https://buildvoyage.com/products/chatgpt2word)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/export-a-chatgpt-thread-to-word-without-broken-formatting-pf2](https://dev.to/dylan_yu_7ffff00b5355942d/export-a-chatgpt-thread-to-word-without-broken-formatting-pf2)
 - dev.to article: [https://dev.to/removeaimeta/export-a-chatgpt-thread-to-word-without-losing-the-structure-5d50](https://dev.to/removeaimeta/export-a-chatgpt-thread-to-word-without-losing-the-structure-5d50)
 - dev.to article: [https://dev.to/removeaimeta/paste-one-chatgpt-answer-and-check-the-table-before-you-download-2g29](https://dev.to/removeaimeta/paste-one-chatgpt-answer-and-check-the-table-before-you-download-2g29)
