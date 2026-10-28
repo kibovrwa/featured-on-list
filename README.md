@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 678 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 681 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -303,6 +303,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - Vercel: [https://easyface-face-shape-detector.vercel.app/](https://easyface-face-shape-detector.vercel.app/)
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
+- waywuygan.xyz: [https://waywuygan.xyz/sites/easyfaceai.com](https://waywuygan.xyz/sites/easyfaceai.com)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - wikiindex.org: [https://wikiindex.org/w/EasyFace_AI](https://wikiindex.org/w/EasyFace_AI)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
@@ -469,11 +470,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/reelsongfinder-com](https://www.joinly.xyz/startups/reelsongfinder-com)
 - LaunchFree: [https://launchfree.io/listings/reel-song-finder.html](https://launchfree.io/listings/reel-song-finder.html)
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
+- neeed.directory: [https://neeed.directory/products/reelsongfinder](https://neeed.directory/products/reelsongfinder)
 - NewName.ai: [https://newname.ai/products/reelsongfinder](https://newname.ai/products/reelsongfinder)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/reelsongfinder.com](https://plastikmuhur.xyz/sites/reelsongfinder.com)
 - productwatch.io: [https://productwatch.io/products/reel-song-finder](https://productwatch.io/products/reel-song-finder)
 - Rentry: [https://rentry.co/webrn9yp](https://rentry.co/webrn9yp)
 - seolisting.io: [https://seolisting.io/listings/reelsongfinder](https://seolisting.io/listings/reelsongfinder)
+- showmysites.com: [https://www.showmysites.com/astralhoro/reelsongfinder/](https://www.showmysites.com/astralhoro/reelsongfinder/)
 - sitelike.org: [https://www.sitelike.org/similar/reelsongfinder.com/](https://www.sitelike.org/similar/reelsongfinder.com/)
 - TAAFT: [https://theresanaiforthat.com/@reelsongfinder/](https://theresanaiforthat.com/@reelsongfinder/)
 - Telegraph: [https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02](https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02)
