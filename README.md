@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 664 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 665 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -527,6 +527,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - mybzz.com: [https://mybzz.com/brands/remove-ai-meta](https://mybzz.com/brands/remove-ai-meta)
 - Neocities: [https://removeaimeta.neocities.org/](https://removeaimeta.neocities.org/)
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
+- noisedaohang.netlify.app: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - noisedh.maozi.io: [https://noisedh.maozi.io/tougao/](https://noisedh.maozi.io/tougao/)
 - note.com: [https://note.com/long_abelia3343/n/n5ebff815f1d3](https://note.com/long_abelia3343/n/n5ebff815f1d3)
 - parsed: [https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c](https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c)
