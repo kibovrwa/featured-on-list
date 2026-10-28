@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 614 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 615 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -21,6 +21,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/www-100daysatsea-com](https://www.joinly.xyz/startups/www-100daysatsea-com)
 - LaunchFree: [https://launchfree.io/listings/100-days-at-sea-wiki.html](https://launchfree.io/listings/100-days-at-sea-wiki.html)
 - Launchtory: [https://launchtory.com/projects/100daysatsea](https://launchtory.com/projects/100daysatsea)
+- ldmstudio.com: [https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html](https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html)
 - llmsmap.me: [https://llmsmap.me/site/100daysatsea-com/](https://llmsmap.me/site/100daysatsea-com/)
 - Lovable: [https://days-at-sea-codes.lovable.app/](https://days-at-sea-codes.lovable.app/)
 - magicly.bio: [https://magicly.bio/100daysatsea](https://magicly.bio/100daysatsea)
