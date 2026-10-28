@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 635 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 636 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -549,6 +549,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/remove-ai-meta](https://toolpotion.ai/en/ai-apps/remove-ai-meta)
 - Uneed: [https://www.uneed.best/tool/remove-c2pa](https://www.uneed.best/tool/remove-c2pa)
 - Vercel: [https://remove-ai-meta-seven.vercel.app/](https://remove-ai-meta-seven.vercel.app/)
+- Vercel: [https://remove-metadata-viewer.vercel.app/](https://remove-metadata-viewer.vercel.app/)
 - Viesearch: [https://viesearch.com/28pni/remove-ai-meta](https://viesearch.com/28pni/remove-ai-meta)
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
