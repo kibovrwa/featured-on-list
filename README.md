@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 663 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 664 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -576,6 +576,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph article: [https://telegra.ph/Troubleshooting-Remove-AI-Meta-real-error-messages-and-what-to-do-10-06](https://telegra.ph/Troubleshooting-Remove-AI-Meta-real-error-messages-and-what-to-do-10-06)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@dylan-yu/](https://theresanaiforthat.com/@dylan-yu/)
 - TinyLaunch: [https://www.tinylaunch.com/launch/22710-remove-ai-meta](https://www.tinylaunch.com/launch/22710-remove-ai-meta)
+- tinystartups.com: [https://www.tinystartups.com/startup/remove-ai-meta](https://www.tinystartups.com/startup/remove-ai-meta)
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/remove-ai-meta](https://toolpotion.ai/en/ai-apps/remove-ai-meta)
 - Uneed: [https://www.uneed.best/tool/remove-c2pa](https://www.uneed.best/tool/remove-c2pa)
 - Vercel: [https://remove-ai-meta-seven.vercel.app/](https://remove-ai-meta-seven.vercel.app/)
