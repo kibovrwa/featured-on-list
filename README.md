@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 658 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 659 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -456,6 +456,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - LaunchFree: [https://launchfree.io/listings/reel-song-finder.html](https://launchfree.io/listings/reel-song-finder.html)
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
 - NewName.ai: [https://newname.ai/products/reelsongfinder](https://newname.ai/products/reelsongfinder)
+- plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/reelsongfinder.com](https://plastikmuhur.xyz/sites/reelsongfinder.com)
 - productwatch.io: [https://productwatch.io/products/reel-song-finder](https://productwatch.io/products/reel-song-finder)
 - Rentry: [https://rentry.co/webrn9yp](https://rentry.co/webrn9yp)
 - seolisting.io: [https://seolisting.io/listings/reelsongfinder](https://seolisting.io/listings/reelsongfinder)
