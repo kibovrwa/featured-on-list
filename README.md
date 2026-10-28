@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 617 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 622 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -9,6 +9,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AddURL.online: [https://addurl.online/246730](https://addurl.online/246730)
 - AIProductsHunt: [https://aiproductshunt.com/app/100daysatseawiki](https://aiproductshunt.com/app/100daysatseawiki)
 - AIToolFinder: [https://aitoolfinder.ai/tools/100-days-at-sea-wiki](https://aitoolfinder.ai/tools/100-days-at-sea-wiki)
+- bedirectory.com: [https://bedirectory.com/100-Days-at-Sea-Codes_472757.html](https://bedirectory.com/100-Days-at-Sea-Codes_472757.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-check-and-redeem-100-days-at-sea.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-check-and-redeem-100-days-at-sea.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html)
@@ -111,6 +112,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
 - onrender.com: [https://astral-taurus-notes.onrender.com/](https://astral-taurus-notes.onrender.com/)
+- over-blog.com: [https://astralrisingnotes.over-blog.com/2026/10/taurus-moon-vs-taurus-rising-two-very-different-kinds-of-steady.html](https://astralrisingnotes.over-blog.com/2026/10/taurus-moon-vs-taurus-rising-two-very-different-kinds-of-steady.html)
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
 - pages.dev: [https://astral-virgo-notes.pages.dev/](https://astral-virgo-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
@@ -192,6 +194,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName.ai: [https://newname.ai/products/chatgpt2word](https://newname.ai/products/chatgpt2word)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - OSF: [https://osf.io/6awrq/wiki](https://osf.io/6awrq/wiki)
+- osf.io: [https://osf.io/6awrq/overview](https://osf.io/6awrq/overview)
 - Pearltrees: [https://www.pearltrees.com/chatgpt2word](https://www.pearltrees.com/chatgpt2word)
 - PeerPush: [https://peerpush.com/p/chatgpt-to-word-converter](https://peerpush.com/p/chatgpt-to-word-converter)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/chatgpt2word.com](https://plastikmuhur.xyz/sites/chatgpt2word.com)
@@ -471,6 +474,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hackaday.io: [https://hackaday.io/removeaimeta](https://hackaday.io/removeaimeta)
 - Hashnode article: [https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images](https://removeaimeta.hashnode.dev/inspecting-and-removing-c2pa-and-iptc-metadata-from-images)
 - Hugging Face Spaces: [https://removeaimeta-remove-ai-meta.static.hf.space/](https://removeaimeta-remove-ai-meta.static.hf.space/)
+- huggingface.co: [https://huggingface.co/spaces/removeaimeta/remove-ai-meta](https://huggingface.co/spaces/removeaimeta/remove-ai-meta)
 - Ignitae: [https://ignitae.com/p/remove-ai-meta](https://ignitae.com/p/remove-ai-meta)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
@@ -538,6 +542,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - wikiindex.org: [https://wikiindex.org/w/Remove_AI_Meta](https://wikiindex.org/w/Remove_AI_Meta)
 - WithAITools: [https://www.withaitools.com/tools/remove-instagram-ai-info](https://www.withaitools.com/tools/remove-instagram-ai-info)
 - write.as: [https://write.as/qbo2qddl11b6u](https://write.as/qbo2qddl11b6u)
+- write.as: [https://write.as/qbo2qddl11b6u.md](https://write.as/qbo2qddl11b6u.md)
 - www.uneed.best: [https://www.uneed.best/tool/remove-ai-meta](https://www.uneed.best/tool/remove-ai-meta)
 - Zenodo: [https://zenodo.org/records/23523082](https://zenodo.org/records/23523082)
 
