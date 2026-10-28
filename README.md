@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 672 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 673 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -106,6 +106,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
+- jayde.com: [https://www.jayde.com/profiles/01895989](https://www.jayde.com/profiles/01895989)
 - Jimdo: [https://astral-moon-rising-3.jimdosite.com/about-me/](https://astral-moon-rising-3.jimdosite.com/about-me/)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
 - JustPaste.it: [https://justpaste.it/hy7tx](https://justpaste.it/hy7tx)
