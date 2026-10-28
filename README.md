@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 627 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 628 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -21,6 +21,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directree: [https://www.directree.io/tool/100-days-at-sea-wiki](https://www.directree.io/tool/100-days-at-sea-wiki)
 - GitHub: [https://github.com/kibovrwa/100-days-at-sea-codes-guide](https://github.com/kibovrwa/100-days-at-sea-codes-guide)
 - jayde.com: [https://www.jayde.com/new.html](https://www.jayde.com/new.html)
+- jet-links.com: [https://jet-links.com/100-Days-at-Sea-Codes_418588.html](https://jet-links.com/100-Days-at-Sea-Codes_418588.html)
 - Joinly: [https://www.joinly.xyz/startups/www-100daysatsea-com](https://www.joinly.xyz/startups/www-100daysatsea-com)
 - LaunchFree: [https://launchfree.io/listings/100-days-at-sea-wiki.html](https://launchfree.io/listings/100-days-at-sea-wiki.html)
 - Launchtory: [https://launchtory.com/projects/100daysatsea](https://launchtory.com/projects/100daysatsea)
