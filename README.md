@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 652 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 654 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -277,6 +277,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - PeerPush: [https://peerpush.com/p/easyface-ai](https://peerpush.com/p/easyface-ai)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/easyfaceai.com](https://plastikmuhur.xyz/sites/easyfaceai.com)
 - Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
+- productwatch.io: [https://productwatch.io/products/easyface-ai-1](https://productwatch.io/products/easyface-ai-1)
 - rentry.co: [https://rentry.co/easyfaceai-face-shape-hairstyles](https://rentry.co/easyfaceai-face-shape-hairstyles)
 - SiteLike: [https://www.sitelike.org/similar/easyfaceai.com/](https://www.sitelike.org/similar/easyfaceai.com/)
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
@@ -510,6 +511,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
 - Lovable: [https://remove-ai-metadata.lovable.app/](https://remove-ai-metadata.lovable.app/)
+- Lovable: [https://free-metadata-viewer.lovable.app/](https://free-metadata-viewer.lovable.app/)
 - magicly.bio: [https://magicly.bio/removeaimeta](https://magicly.bio/removeaimeta)
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
