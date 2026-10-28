@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 634 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 635 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -459,6 +459,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaiinfo](https://aiproductshunt.com/app/removeaiinfo)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaimeta](https://aiproductshunt.com/app/removeaimeta)
 - AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
+- AIToolSeekers: [https://aitoolseekers.com/tools/remove-ai-meta](https://aitoolseekers.com/tools/remove-ai-meta)
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982370594.html](https://ameblo.jp/removeaimeta/entry-12982370594.html)
