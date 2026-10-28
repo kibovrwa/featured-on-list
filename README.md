@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 669 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 671 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -444,6 +444,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIProductsHunt: [https://aiproductshunt.com/app/findsongfromvideo](https://aiproductshunt.com/app/findsongfromvideo)
 - AIProductsHunt: [https://aiproductshunt.com/app/reelsongfinder](https://aiproductshunt.com/app/reelsongfinder)
 - AIToolFinder: [https://aitoolfinder.ai/tools/reelsongfinder](https://aitoolfinder.ai/tools/reelsongfinder)
+- aitoolscapital.com: [https://aitoolscapital.com/tools/reel-song-finder](https://aitoolscapital.com/tools/reel-song-finder)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html)
 - buildvoyage.com: [https://buildvoyage.com/products/reelsongfinder](https://buildvoyage.com/products/reelsongfinder)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i](https://dev.to/dylan_yu_7ffff00b5355942d/finding-the-track-used-in-an-instagram-reel-e0i)
@@ -457,6 +458,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitHub: [https://github.com/kibovrwa/find-song-from-video](https://github.com/kibovrwa/find-song-from-video)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f](https://gist.github.com/kibovrwa/0bf62a5e0ecfd32995f415c904d2585f)
 - Google Translate: [https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp](https://reelsongfinder-com.translate.goog/find-song-from-video?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=en&_x_tr_pto=wapp)
+- jayde.com: [https://www.jayde.com/profiles/01895987](https://www.jayde.com/profiles/01895987)
 - Joinly: [https://www.joinly.xyz/startups/reelsongfinder-com](https://www.joinly.xyz/startups/reelsongfinder-com)
 - LaunchFree: [https://launchfree.io/listings/reel-song-finder.html](https://launchfree.io/listings/reel-song-finder.html)
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
