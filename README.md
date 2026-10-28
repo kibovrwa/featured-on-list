@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 654 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 656 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -157,6 +157,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - webflow.io: [https://astral-moon-notes.webflow.io/](https://astral-moon-notes.webflow.io/)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
+- wikiindex.org: [https://wikiindex.org/w/AstralHoro](https://wikiindex.org/w/AstralHoro)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
 - wixsite.com: [https://hello975457.wixsite.com/yes-no-tarot-notes](https://hello975457.wixsite.com/yes-no-tarot-notes)
 - WordPress.com: [https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/](https://astralrisingnotes.wordpress.com/2026/10/25/cancer-moon-vs-cancer-rising-why-the-same-sign-feels-so-different/)
@@ -426,6 +427,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## monareel
 
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
+- plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - Vercel: [https://monareel-ai-video.vercel.app/](https://monareel-ai-video.vercel.app/)
 
