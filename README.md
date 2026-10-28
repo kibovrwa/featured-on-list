@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 674 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 677 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -95,6 +95,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
+- free-weblink.com: [https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html](https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html)
 - GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2](https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
@@ -109,6 +110,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - jayde.com: [https://www.jayde.com/profiles/01895989](https://www.jayde.com/profiles/01895989)
 - Jimdo: [https://astral-moon-rising-3.jimdosite.com/about-me/](https://astral-moon-rising-3.jimdosite.com/about-me/)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
+- justlink.org: [https://www.justlink.org/details.php?id=439807](https://www.justlink.org/details.php?id=439807)
 - JustPaste.it: [https://justpaste.it/hy7tx](https://justpaste.it/hy7tx)
 - LaunchFree: [https://launchfree.io/listings/astralhoro.html](https://launchfree.io/listings/astralhoro.html)
 - LinkCentre: [https://www.linkcentre.com/review/1721861/astralhoro-com](https://www.linkcentre.com/review/1721861/astralhoro-com)
@@ -138,6 +140,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - readthedocs.io: [https://astral-scorpio-notes.readthedocs.io/en/latest/](https://astral-scorpio-notes.readthedocs.io/en/latest/)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - rentry.co: [https://rentry.co/astralhoro-aries-moon-rising](https://rentry.co/astralhoro-aries-moon-rising)
+- showmysites.com: [https://www.showmysites.com/astralhoro/astralhoro/](https://www.showmysites.com/astralhoro/astralhoro/)
 - simdif.com: [https://astral-moon-notes.simdif.com/](https://astral-moon-notes.simdif.com/)
 - SITE123: [https://6ade7f56aa278.site123.me/](https://6ade7f56aa278.site123.me/)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
