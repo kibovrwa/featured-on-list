@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 613 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 614 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -98,6 +98,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://natal-chart-astralhoro.lovable.app/](https://natal-chart-astralhoro.lovable.app/)
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
+- mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/](https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
