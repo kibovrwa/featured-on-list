@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 609 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 612 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -279,9 +279,11 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AI BirdView: [https://aibirdview.com/tools/gaivsiq](https://aibirdview.com/tools/gaivsiq)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory](https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - AI Toolkit: [https://ai.toolkit.best/gaivsiq](https://ai.toolkit.best/gaivsiq)
+- aimaper.com: [https://aimaper.com/tool/gaivsiq/](https://aimaper.com/tool/gaivsiq/)
 - AIMarketly: [https://www.aimarketly.com/tool/gaivsiq](https://www.aimarketly.com/tool/gaivsiq)
 - AIToolFinder: [https://aitoolfinder.ai/tools/gaivsiq](https://aitoolfinder.ai/tools/gaivsiq)
 - AIToolsRecap: [https://aitoolsrecap.com/Product/gaivsiq-free-online-iq-test](https://aitoolsrecap.com/Product/gaivsiq-free-online-iq-test)
+- aiunicorn.lol: [https://aiunicorn.lol/tool/gaivsiq/](https://aiunicorn.lol/tool/gaivsiq/)
 - B2SHARE: [https://doi.org/10.23728/b2share.tsmqk-4an64](https://doi.org/10.23728/b2share.tsmqk-4an64)
 - BloggersMinds: [https://bloggersminds.com/apps/GAIvsIQ](https://bloggersminds.com/apps/GAIvsIQ)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/gai-vs-fsiq-how-to-read-the-gap-without-inventing-a-story-228k](https://dev.to/dylan_yu_7ffff00b5355942d/gai-vs-fsiq-how-to-read-the-gap-without-inventing-a-story-228k)
@@ -302,6 +304,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TAAFT: [https://theresanaiforthat.com/@gaivsiq/](https://theresanaiforthat.com/@gaivsiq/)
 - Telegraph: [https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07](https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07)
 - Viesearch: [https://viesearch.com/288hd/gai-vs-iq-calculator](https://viesearch.com/288hd/gai-vs-iq-calculator)
+- webapps.directory: [https://webapps.directory/directory/gaivsiq](https://webapps.directory/directory/gaivsiq)
 - WebsiteLaunches: [https://websitelaunches.com/site/gaivsiq.com](https://websitelaunches.com/site/gaivsiq.com)
 - WithAITools: [https://www.withaitools.com/tools/gaivsiq](https://www.withaitools.com/tools/gaivsiq)
 - Zenodo: [https://doi.org/10.5281/zenodo.22643625](https://doi.org/10.5281/zenodo.22643625)
