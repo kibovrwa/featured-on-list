@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 656 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 658 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -87,6 +87,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - codeberg.page: [https://astralnotes.codeberg.page/](https://astralnotes.codeberg.page/)
 - codeberg.page: [https://astralnotes.codeberg.page/yesno-tarot-notes/](https://astralnotes.codeberg.page/yesno-tarot-notes/)
 - DeepNLP: [https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro](https://www.deepnlp.org/store/entertainment/entertainment/pub-astralhoro/astralhoro)
+- DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/birth-time-uncertainty-breaks-house-placements-first-463b](https://dev.to/dylan_yu_7ffff00b5355942d/birth-time-uncertainty-breaks-house-placements-first-463b)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67](https://dev.to/dylan_yu_7ffff00b5355942d/compute-a-natal-chart-in-the-browser-with-astronomy-engine-4b67)
 - Diigo: [https://www.diigo.com/profile/astralhoro](https://www.diigo.com/profile/astralhoro)
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
@@ -426,6 +427,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## monareel
 
+- DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
