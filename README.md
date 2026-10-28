@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 608 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 609 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -41,6 +41,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - waywuygan.xyz: [https://waywuygan.xyz/sites/www.100daysatsea.com](https://waywuygan.xyz/sites/www.100daysatsea.com)
 - WikiIndex: [https://wikiindex.org/w/100_Days_at_Sea_Wiki](https://wikiindex.org/w/100_Days_at_Sea_Wiki)
 - WithAITools: [https://www.withaitools.com/tools/100-days-at-sea-codes](https://www.withaitools.com/tools/100-days-at-sea-codes)
+- zearches.com: [https://zearches.com/directory.php?slug=gaming-esports&q=100daysatsea](https://zearches.com/directory.php?slug=gaming-esports&q=100daysatsea)
 
 ## animecardfarm
 
