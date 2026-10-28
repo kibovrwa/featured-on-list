@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 615 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 616 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -34,6 +34,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/www.100daysatsea.com](https://plastikmuhur.xyz/sites/www.100daysatsea.com)
 - rentry.co: [https://rentry.co/100daysatsea-codes](https://rentry.co/100daysatsea-codes)
 - SaaSHub: [https://www.saashub.com/100-days-at-sea-wiki](https://www.saashub.com/100-days-at-sea-wiki)
+- seobackdirectory.com: [https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181](https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181)
 - sitelike.org: [https://www.sitelike.org/similar/100daysatsea.com/](https://www.sitelike.org/similar/100daysatsea.com/)
 - Slides.com: [https://slides.com/daysatseawiki/how-to-redeem-100-days-at-sea-codes](https://slides.com/daysatseawiki/how-to-redeem-100-days-at-sea-codes)
 - Telegraph: [https://telegra.ph/100-Days-at-Sea-a-first-week-checklist-for-new-players-10-16](https://telegra.ph/100-Days-at-Sea-a-first-week-checklist-for-new-players-10-16)
