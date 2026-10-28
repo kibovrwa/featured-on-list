@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 607 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 608 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -297,6 +297,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - SaaSHub: [https://www.saashub.com/gaivsiq](https://www.saashub.com/gaivsiq)
 - SaaSHub: [https://www.saashub.com/gaivsiq-alternatives](https://www.saashub.com/gaivsiq-alternatives)
 - Slides.com: [https://slides.com/gaivsiqlab/what-your-iq-score-actually-means-4c50f6](https://slides.com/gaivsiqlab/what-your-iq-score-actually-means-4c50f6)
+- smartbiztools.io: [https://smartbiztools.io/ai-tools/gaivsiq/](https://smartbiztools.io/ai-tools/gaivsiq/)
 - TAAFT: [https://theresanaiforthat.com/@gaivsiq/](https://theresanaiforthat.com/@gaivsiq/)
 - Telegraph: [https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07](https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07)
 - Viesearch: [https://viesearch.com/288hd/gai-vs-iq-calculator](https://viesearch.com/288hd/gai-vs-iq-calculator)
