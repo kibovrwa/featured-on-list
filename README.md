@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 602 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-28 · 603 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -78,6 +78,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
 - github.io: [https://kibovrwa.github.io/astral-pisces-moon-notes/](https://kibovrwa.github.io/astral-pisces-moon-notes/)
+- github.io: [https://kibovrwa.github.io/astral-aquarius-moon-notes/](https://kibovrwa.github.io/astral-aquarius-moon-notes/)
 - GitLab Snippet: [https://gitlab.com/-/snippets/6071266](https://gitlab.com/-/snippets/6071266)
 - Google Sites: [https://sites.google.com/view/astralhoro-guide](https://sites.google.com/view/astralhoro-guide)
 - Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
