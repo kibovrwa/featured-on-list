@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-29 · 684 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-29 · 683 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -22,7 +22,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directree: [https://www.directree.io/tool/100-days-at-sea-wiki](https://www.directree.io/tool/100-days-at-sea-wiki)
 - free-weblink.com: [https://free-weblink.com/100-Days-at-Sea-Codes_299009.html](https://free-weblink.com/100-Days-at-Sea-Codes_299009.html)
 - GitHub: [https://github.com/kibovrwa/100-days-at-sea-codes-guide](https://github.com/kibovrwa/100-days-at-sea-codes-guide)
-- jayde.com: [https://www.jayde.com/new.html](https://www.jayde.com/new.html)
+- jayde.com: [https://www.jayde.com/profiles/01895856](https://www.jayde.com/profiles/01895856)
 - jet-links.com: [https://jet-links.com/100-Days-at-Sea-Codes_418588.html](https://jet-links.com/100-Days-at-Sea-Codes_418588.html)
 - Joinly: [https://www.joinly.xyz/startups/www-100daysatsea-com](https://www.joinly.xyz/startups/www-100daysatsea-com)
 - justlink.org: [https://justlink.org/details.php?id=439763](https://justlink.org/details.php?id=439763)
@@ -161,7 +161,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Vercel: [https://astralhoro-natal-chart.vercel.app/](https://astralhoro-natal-chart.vercel.app/)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
-- webflow.io: [https://astral-moon-notes.webflow.io/](https://astral-moon-notes.webflow.io/)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - wikiindex.org: [https://wikiindex.org/w/AstralHoro](https://wikiindex.org/w/AstralHoro)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
