@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-29 · 682 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-29 · 684 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -263,6 +263,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/ONEKy](https://dpaste.org/ONEKy)
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
 - ffacat.com: [https://ffacat.com/](https://ffacat.com/)
+- free-weblink.com: [https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html](https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - GitHub Gist: [https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71](https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71)
@@ -270,6 +271,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
+- justlink.org: [https://www.justlink.org/details.php?id=439830](https://www.justlink.org/details.php?id=439830)
 - JustPaste.it: [https://justpaste.it/izyyz](https://justpaste.it/izyyz)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
