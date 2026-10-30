@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-29 · 683 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-30 · 689 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -73,6 +73,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AddURL.online: [https://addurl.online/244999](https://addurl.online/244999)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/astralhoro](https://aisocialtools.co/ai-directory/astralhoro)
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
+- aimaper.com: [https://aimaper.com/tool/astralhoro/](https://aimaper.com/tool/astralhoro/)
 - AIMarketly: [https://www.aimarketly.com/tool/astralhoro](https://www.aimarketly.com/tool/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
@@ -261,7 +262,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/wjBuq](https://dpaste.org/wjBuq)
 - dpaste.org: [https://dpaste.org/ONEKy](https://dpaste.org/ONEKy)
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
-- ffacat.com: [https://ffacat.com/](https://ffacat.com/)
+- ffacat.com: [https://ffacat.com/search/easyfaceai/](https://ffacat.com/search/easyfaceai/)
 - free-weblink.com: [https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html](https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html)
 - GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
@@ -385,6 +386,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - medium.com: [https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417](https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417)
 - NewName.ai: [https://newname.ai/products/mechangelion](https://newname.ai/products/mechangelion)
 - note.com: [https://note.com/mechangelion_fan/n/nde11a802e383](https://note.com/mechangelion_fan/n/nde11a802e383)
+- opencollective.com: [https://opencollective.com/mechangelion-fan-guide-wiki](https://opencollective.com/mechangelion-fan-guide-wiki)
 - PeerPush: [https://peerpush.com/p/mechangelion](https://peerpush.com/p/mechangelion)
 - ProductWatch: [https://productwatch.io/products/mechangelion-1](https://productwatch.io/products/mechangelion-1)
 - SiteLike: [https://www.sitelike.org/similar/mechangelion.com/](https://www.sitelike.org/similar/mechangelion.com/)
@@ -439,6 +441,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## monareel
 
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
+- directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
@@ -504,6 +507,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982370594.html](https://ameblo.jp/removeaimeta/entry-12982370594.html)
+- appboard.pro: [https://appboard.pro/product/remove-ai-meta/](https://appboard.pro/product/remove-ai-meta/)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/strip-photo-exif/](https://remove-ai-meta.bearblog.dev/strip-photo-exif/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html)
 - buildvoyage.com: [https://buildvoyage.com/products/remove-ai-meta](https://buildvoyage.com/products/remove-ai-meta)
@@ -538,6 +542,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
 - Lovable: [https://remove-ai-metadata.lovable.app/](https://remove-ai-metadata.lovable.app/)
 - Lovable: [https://free-metadata-viewer.lovable.app/](https://free-metadata-viewer.lovable.app/)
+- lovable.dev: [https://lovable.dev/@rmvaimeta](https://lovable.dev/@rmvaimeta)
 - magicly.bio: [https://magicly.bio/removeaimeta](https://magicly.bio/removeaimeta)
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
@@ -548,6 +553,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - noisedaohang.netlify.app: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - noisedh.maozi.io: [https://noisedh.maozi.io/tougao/](https://noisedh.maozi.io/tougao/)
 - note.com: [https://note.com/long_abelia3343/n/n5ebff815f1d3](https://note.com/long_abelia3343/n/n5ebff815f1d3)
+- osf.io: [https://osf.io/znjhb/](https://osf.io/znjhb/)
 - parsed: [https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c](https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c)
 - parsed: [https://slides.com/removeaimeta/deck](https://slides.com/removeaimeta/deck)
 - parsed: [https://slides.com/removeaimeta/how-to-check-an-image-for-ai-metadata](https://slides.com/removeaimeta/how-to-check-an-image-for-ai-metadata)
