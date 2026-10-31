@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-30 · 689 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-31 · 690 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -335,6 +335,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium article: [https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
 - NewName.ai: [https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory](https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
+- OER World Map: [https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9](https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/gaivsiq.com](https://plastikmuhur.xyz/sites/gaivsiq.com)
 - ProductWatch: [https://productwatch.io/products/gaivsiq-1](https://productwatch.io/products/gaivsiq-1)
 - SaaSHub: [https://www.saashub.com/gaivsiq](https://www.saashub.com/gaivsiq)
