@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-31 · 690 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-10-31 · 691 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -161,6 +161,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
 - Vercel: [https://astralhoro-natal-chart.vercel.app/](https://astralhoro-natal-chart.vercel.app/)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
+- viesearch.com: [https://viesearch.com/2a51a/astralhoro-yesno-oracle](https://viesearch.com/2a51a/astralhoro-yesno-oracle)
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
 - wikiindex.org: [https://wikiindex.org/w/AstralHoro](https://wikiindex.org/w/AstralHoro)
