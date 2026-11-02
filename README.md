@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 751 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 752 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -487,6 +487,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - rehost.page: [https://kindheartedly-buddy-726.rehost.page/](https://kindheartedly-buddy-726.rehost.page/)
 - rentry.co: [https://rentry.co/qsbar9rx](https://rentry.co/qsbar9rx)
 - sharehtml.org: [https://l59jc2q.sharehtml.org/](https://l59jc2q.sharehtml.org/)
+- sharemyclaudemd.com: [https://sharemyclaudemd.com/p/9czSnas4Bq](https://sharemyclaudemd.com/p/9czSnas4Bq)
 - stub.page: [https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp](https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp)
 - sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
 - swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
