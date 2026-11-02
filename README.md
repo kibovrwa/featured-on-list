@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 728 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 729 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -449,6 +449,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - aired.sh: [https://aired.sh/p/JDgkcF7GEf](https://aired.sh/p/JDgkcF7GEf)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html)
+- carm.cc: [https://paste.carm.cc/3Y0PyC](https://paste.carm.cc/3Y0PyC)
 - deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
 - directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
