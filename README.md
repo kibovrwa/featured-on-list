@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 696 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 699 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -676,6 +676,9 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Medium article: [https://medium.com/@hello_3876/freeing-phone-storage-after-a-snapchat-export-a-safe-order-of-operations-953d804f8be8](https://medium.com/@hello_3876/freeing-phone-storage-after-a-snapchat-export-a-safe-order-of-operations-953d804f8be8)
 - NewName.ai: [https://newname.ai/products/snapchat-memories-download](https://newname.ai/products/snapchat-memories-download)
 - PeerPush: [https://peerpush.com/p/snapchat-memories-download](https://peerpush.com/p/snapchat-memories-download)
+- practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/snapchat-memories-and-2027-whats.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/snapchat-memories-and-2027-whats.html)
+- practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/when-is-snapchat-deleting-memories-what.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/when-is-snapchat-deleting-memories-what.html)
+- practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/how-to-download-your-snapchat-memories.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/how-to-download-your-snapchat-memories.html)
 - ProductWatch: [https://productwatch.io/products/snapchat-memories-download](https://productwatch.io/products/snapchat-memories-download)
 - SaaSHub: [https://www.saashub.com/snapchat-memories-download](https://www.saashub.com/snapchat-memories-download)
 - SiteLike: [https://www.sitelike.org/similar/snapchatmemoriesdownload.com/](https://www.sitelike.org/similar/snapchatmemoriesdownload.com/)
