@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 740 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 741 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -463,6 +463,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - graph.org: [https://graph.org/MonaReel-photo-to-video-AI-11-02-2](https://graph.org/MonaReel-photo-to-video-AI-11-02-2)
 - ht-ml.app: [https://4d077b86.ht-ml.app/](https://4d077b86.ht-ml.app/)
 - html.cafe: [https://html.cafe/x94968efd](https://html.cafe/x94968efd)
+- html2link.dev: [https://jczlrc3m.html2link.dev/](https://jczlrc3m.html2link.dev/)
 - htmlhoster.com: [https://htmlhoster.com/p/CBSRP2NH/](https://htmlhoster.com/p/CBSRP2NH/)
 - htmlspace.app: [https://htmlspace.app/cftwvrdq/](https://htmlspace.app/cftwvrdq/)
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
