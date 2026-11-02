@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 731 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 733 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -460,10 +460,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - github.com: [https://github.com/kibovrwa/awesome-photo-to-video-templates](https://github.com/kibovrwa/awesome-photo-to-video-templates)
 - graph.org: [https://graph.org/MonaReel-photo-to-video-AI-11-02-2](https://graph.org/MonaReel-photo-to-video-AI-11-02-2)
 - ht-ml.app: [https://4d077b86.ht-ml.app/](https://4d077b86.ht-ml.app/)
+- htmlhoster.com: [https://htmlhoster.com/p/CBSRP2NH/](https://htmlhoster.com/p/CBSRP2NH/)
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
 - markdrop.in: [https://www.markdrop.in/monareel-photo-to-video-ai](https://www.markdrop.in/monareel-photo-to-video-ai)
 - mybzz.com: [https://mybzz.com/brands/monareel-ai-zombie-filter](https://mybzz.com/brands/monareel-ai-zombie-filter)
 - openanthropic.com: [https://openanthropic.com/view/monareel-ptv-oms-zr7](https://openanthropic.com/view/monareel-ptv-oms-zr7)
+- pastehtml.dev: [https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/](https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/)
 - pencil.md: [https://pencil.md/PsNqmRPL](https://pencil.md/PsNqmRPL)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html)
