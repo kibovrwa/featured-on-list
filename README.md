@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 736 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 738 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -451,6 +451,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html)
 - cachyos.org: [https://paste.cachyos.org/a23b6a2.html](https://paste.cachyos.org/a23b6a2.html)
 - carm.cc: [https://paste.carm.cc/3Y0PyC](https://paste.carm.cc/3Y0PyC)
+- crueter.xyz: [https://paste.crueter.xyz/e17d44ca1cf69086/index.html](https://paste.crueter.xyz/e17d44ca1cf69086/index.html)
 - deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
 - directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
@@ -476,6 +477,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - rentry.co: [https://rentry.co/qsbar9rx](https://rentry.co/qsbar9rx)
 - sharehtml.org: [https://l59jc2q.sharehtml.org/](https://l59jc2q.sharehtml.org/)
 - sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
+- swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
 - telegra.ph: [https://telegra.ph/MonaReel-photo-to-video-AI-11-02](https://telegra.ph/MonaReel-photo-to-video-AI-11-02)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - text.is: [https://text.is/95X8R](https://text.is/95X8R)
