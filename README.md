@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 726 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 728 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -453,6 +453,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
 - directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
 - docs-md.com: [https://docs-md.com/eternal-mesa-qNsiz](https://docs-md.com/eternal-mesa-qNsiz)
+- fly.dev: [https://basedbin.fly.dev/ZvUwzB](https://basedbin.fly.dev/ZvUwzB)
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
 - github.com: [https://github.com/kibovrwa/awesome-photo-to-video-templates](https://github.com/kibovrwa/awesome-photo-to-video-templates)
 - graph.org: [https://graph.org/MonaReel-photo-to-video-AI-11-02-2](https://graph.org/MonaReel-photo-to-video-AI-11-02-2)
@@ -472,6 +473,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - text.is: [https://text.is/95X8R](https://text.is/95X8R)
 - tot.page: [https://tot.page/b6PjSBWh1JBb7x95-mfOCA](https://tot.page/b6PjSBWh1JBb7x95-mfOCA)
 - Vercel: [https://monareel-ai-video.vercel.app/](https://monareel-ai-video.vercel.app/)
+- wantguns.dev: [https://bin.wantguns.dev/Pps0oa](https://bin.wantguns.dev/Pps0oa)
 - websitelaunches.com: [https://websitelaunches.com/site/monareel.com](https://websitelaunches.com/site/monareel.com)
 - withaitools.com: [https://www.withaitools.com/tools/monareel](https://www.withaitools.com/tools/monareel)
 - write.as: [https://write.as/mcihqau0wd2jx.md](https://write.as/mcihqau0wd2jx.md)
