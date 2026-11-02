@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 733 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 734 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -470,6 +470,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html)
+- rehost.page: [https://kindheartedly-buddy-726.rehost.page/](https://kindheartedly-buddy-726.rehost.page/)
 - rentry.co: [https://rentry.co/qsbar9rx](https://rentry.co/qsbar9rx)
 - sharehtml.org: [https://l59jc2q.sharehtml.org/](https://l59jc2q.sharehtml.org/)
 - sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
