@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 699 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 708 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -106,6 +106,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
+- indexflow.tech: [https://indexflow.tech/directory](https://indexflow.tech/directory)
 - jayde.com: [https://www.jayde.com/profiles/01895989](https://www.jayde.com/profiles/01895989)
 - Jimdo: [https://astral-moon-rising-3.jimdosite.com/about-me/](https://astral-moon-rising-3.jimdosite.com/about-me/)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
@@ -157,6 +158,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - tiiny.site: [https://astralhoro-moon.tiiny.site](https://astralhoro-moon.tiiny.site)
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
 - TipSeason: [https://www.tipseason.com/aitool/astralhoro](https://www.tipseason.com/aitool/astralhoro)
+- try.tools: [https://try.tools/tools/astralhoro-659715](https://try.tools/tools/astralhoro-659715)
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
 - Vercel: [https://astralhoro-natal-chart.vercel.app/](https://astralhoro-natal-chart.vercel.app/)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
@@ -232,6 +234,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - telegra.ph: [https://telegra.ph/Why-a-pasted-ChatGPT-answer-shows--and--in-Word-and-three-ways-to-fix-it-10-02](https://telegra.ph/Why-a-pasted-ChatGPT-answer-shows--and--in-Word-and-three-ways-to-fix-it-10-02)
 - telegra.ph: [https://telegra.ph/ChatGPT-Markdown-into-an-editable-Word-file-10-18](https://telegra.ph/ChatGPT-Markdown-into-an-editable-Word-file-10-18)
 - Telegraph: [https://telegra.ph/Set-the-fonts-of-a-ChatGPT-to-Word-conversion-once-with-a-Pandoc-reference-document-10-02](https://telegra.ph/Set-the-fonts-of-a-ChatGPT-to-Word-conversion-once-with-a-Pandoc-reference-document-10-02)
+- thedailyworkflow.com: [https://thedailyworkflow.com/service/ChatGPT2Word](https://thedailyworkflow.com/service/ChatGPT2Word)
 - TinyLaunch: [https://www.tinylaunch.com/launch/26111-chatgpt2word](https://www.tinylaunch.com/launch/26111-chatgpt2word)
 - TipSeason: [https://www.tipseason.com/aitool/chatgpt2word](https://www.tipseason.com/aitool/chatgpt2word)
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/chatgpt2word](https://toolpotion.ai/en/ai-apps/chatgpt2word)
@@ -301,6 +304,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
+- thedailyworkflow.com: [https://thedailyworkflow.com/service/EasyFace%20AI](https://thedailyworkflow.com/service/EasyFace%20AI)
 - Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
 - Tumblr: [https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you](https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
@@ -344,6 +348,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - smartbiztools.io: [https://smartbiztools.io/ai-tools/gaivsiq/](https://smartbiztools.io/ai-tools/gaivsiq/)
 - TAAFT: [https://theresanaiforthat.com/@gaivsiq/](https://theresanaiforthat.com/@gaivsiq/)
 - Telegraph: [https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07](https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07)
+- thedailyworkflow.com: [https://thedailyworkflow.com/service/GAIvsIQ](https://thedailyworkflow.com/service/GAIvsIQ)
 - Viesearch: [https://viesearch.com/288hd/gai-vs-iq-calculator](https://viesearch.com/288hd/gai-vs-iq-calculator)
 - webapps.directory: [https://webapps.directory/directory/gaivsiq](https://webapps.directory/directory/gaivsiq)
 - WebsiteLaunches: [https://websitelaunches.com/site/gaivsiq.com](https://websitelaunches.com/site/gaivsiq.com)
@@ -457,6 +462,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## reelsongfinder.com
 
 - addurl.online: [https://addurl.online/246834](https://addurl.online/246834)
+- agenthivex.com: [https://agenthivex.com/agent/reelsongfinder](https://agenthivex.com/agent/reelsongfinder)
 - aicatalog.com.ua: [https://aicatalog.com.ua/tool/reelsongfinder](https://aicatalog.com.ua/tool/reelsongfinder)
 - aigclist.com: [https://aigclist.com/item/reel-song-finder](https://aigclist.com/item/reel-song-finder)
 - AIProductsHunt: [https://aiproductshunt.com/app/findsongfromvideo](https://aiproductshunt.com/app/findsongfromvideo)
@@ -542,6 +548,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hugging Face Spaces: [https://removeaimeta-remove-ai-meta.static.hf.space/](https://removeaimeta-remove-ai-meta.static.hf.space/)
 - huggingface.co: [https://huggingface.co/spaces/removeaimeta/remove-ai-meta](https://huggingface.co/spaces/removeaimeta/remove-ai-meta)
 - Ignitae: [https://ignitae.com/p/remove-ai-meta](https://ignitae.com/p/remove-ai-meta)
+- indexflow.tech: [https://indexflow.tech/directory](https://indexflow.tech/directory)
 - jayde.com: [https://www.jayde.com/profiles/01895984](https://www.jayde.com/profiles/01895984)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439783](https://www.justlink.org/details.php?id=439783)
@@ -606,10 +613,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph article: [https://telegra.ph/A-two-minute-check-before-you-post-an-image-on-LinkedIn-will-it-show-the-CR-icon-10-04](https://telegra.ph/A-two-minute-check-before-you-post-an-image-on-LinkedIn-will-it-show-the-CR-icon-10-04)
 - Telegraph article: [https://telegra.ph/An-Etsy-sellers-Friday-clearing-AI-tags-and-GPS-before-listing-photos-10-06](https://telegra.ph/An-Etsy-sellers-Friday-clearing-AI-tags-and-GPS-before-listing-photos-10-06)
 - Telegraph article: [https://telegra.ph/Troubleshooting-Remove-AI-Meta-real-error-messages-and-what-to-do-10-06](https://telegra.ph/Troubleshooting-Remove-AI-Meta-real-error-messages-and-what-to-do-10-06)
+- thedailyworkflow.com: [https://thedailyworkflow.com/service/Remove%20AI%20Meta](https://thedailyworkflow.com/service/Remove%20AI%20Meta)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@dylan-yu/](https://theresanaiforthat.com/@dylan-yu/)
 - TinyLaunch: [https://www.tinylaunch.com/launch/22710-remove-ai-meta](https://www.tinylaunch.com/launch/22710-remove-ai-meta)
 - tinystartups.com: [https://www.tinystartups.com/startup/remove-ai-meta](https://www.tinystartups.com/startup/remove-ai-meta)
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/remove-ai-meta](https://toolpotion.ai/en/ai-apps/remove-ai-meta)
+- try.tools: [https://try.tools/tools/remove-ai-meta-958993](https://try.tools/tools/remove-ai-meta-958993)
 - Uneed: [https://www.uneed.best/tool/remove-c2pa](https://www.uneed.best/tool/remove-c2pa)
 - Vercel: [https://remove-ai-meta-seven.vercel.app/](https://remove-ai-meta-seven.vercel.app/)
 - Vercel: [https://remove-metadata-viewer.vercel.app/](https://remove-metadata-viewer.vercel.app/)
