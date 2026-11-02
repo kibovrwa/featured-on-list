@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-01 · 694 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 696 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -143,6 +143,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - rentry.co: [https://rentry.co/astralhoro-aries-moon-rising](https://rentry.co/astralhoro-aries-moon-rising)
 - showmysites.com: [https://www.showmysites.com/astralhoro/astralhoro/](https://www.showmysites.com/astralhoro/astralhoro/)
+- siftfox.com: [https://siftfox.com/tool/astralhoro](https://siftfox.com/tool/astralhoro)
 - simdif.com: [https://astral-moon-notes.simdif.com/](https://astral-moon-notes.simdif.com/)
 - SITE123: [https://6ade7f56aa278.site123.me/](https://6ade7f56aa278.site123.me/)
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
@@ -275,6 +276,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - justlink.org: [https://www.justlink.org/details.php?id=439830](https://www.justlink.org/details.php?id=439830)
 - JustPaste.it: [https://justpaste.it/izyyz](https://justpaste.it/izyyz)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
+- linkcentre.com: [https://www.linkcentre.com/review/1730007/easyfaceai-com-face-shape](https://www.linkcentre.com/review/1730007/easyfaceai-com-face-shape)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
 - mataroa.blog: [https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/](https://easyfaceai.mataroa.blog/blog/trying-bangs-on-your-own-photo-with-ai/)
