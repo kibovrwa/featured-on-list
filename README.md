@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 742 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 743 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -450,6 +450,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aired.sh: [https://aired.sh/p/JDgkcF7GEf](https://aired.sh/p/JDgkcF7GEf)
 - assoli.site: [https://mpnwlsiz27ww.pastehtml.assoli.site/](https://mpnwlsiz27ww.pastehtml.assoli.site/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html)
+- botbin.io: [https://botbin.io/n5e6cg/raw](https://botbin.io/n5e6cg/raw)
 - cachyos.org: [https://paste.cachyos.org/a23b6a2.html](https://paste.cachyos.org/a23b6a2.html)
 - carm.cc: [https://paste.carm.cc/3Y0PyC](https://paste.carm.cc/3Y0PyC)
 - crueter.xyz: [https://paste.crueter.xyz/e17d44ca1cf69086/index.html](https://paste.crueter.xyz/e17d44ca1cf69086/index.html)
