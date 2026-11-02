@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 699 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 698 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -16,7 +16,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html)
 - BuildVoyage: [https://buildvoyage.com/products/100-days-at-sea-wiki](https://buildvoyage.com/products/100-days-at-sea-wiki)
-- businessfreedirectory.biz: [https://businessfreedirectory.biz/details.php?id=611411](https://businessfreedirectory.biz/details.php?id=611411)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij](https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij)
 - Directory Index: [https://directory-index.com/entertainment/100-days-at-sea-wiki-1/](https://directory-index.com/entertainment/100-days-at-sea-wiki-1/)
 - Directree: [https://www.directree.io/tool/100-days-at-sea-wiki](https://www.directree.io/tool/100-days-at-sea-wiki)
@@ -31,7 +30,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - ldmstudio.com: [https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html](https://www.directory.ldmstudio.com/100-days-at-sea-wiki-744357.html)
 - link-boy.org: [https://link-boy.org/details.php?id=379249](https://link-boy.org/details.php?id=379249)
 - link-man.org: [https://link-man.org/100-Days-at-Sea-Codes_419586.html](https://link-man.org/100-Days-at-Sea-Codes_419586.html)
-- llmsmap.me: [https://llmsmap.me/site/100daysatsea-com/](https://llmsmap.me/site/100daysatsea-com/)
 - Lovable: [https://days-at-sea-codes.lovable.app/](https://days-at-sea-codes.lovable.app/)
 - magicly.bio: [https://magicly.bio/100daysatsea](https://magicly.bio/100daysatsea)
 - meweblink.com: [https://meweblink.com/directory/?q=100daysatsea](https://meweblink.com/directory/?q=100daysatsea)
@@ -41,7 +39,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
 - PeerPush: [https://peerpush.com/p/100-days-at-sea-wiki](https://peerpush.com/p/100-days-at-sea-wiki)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/www.100daysatsea.com](https://plastikmuhur.xyz/sites/www.100daysatsea.com)
-- reddit-directory.com: [https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html](https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html)
 - rentry.co: [https://rentry.co/100daysatsea-codes](https://rentry.co/100daysatsea-codes)
 - SaaSHub: [https://www.saashub.com/100-days-at-sea-wiki](https://www.saashub.com/100-days-at-sea-wiki)
 - seobackdirectory.com: [https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181](https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181)
@@ -129,7 +126,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
 - onrender.com: [https://astral-taurus-notes.onrender.com/](https://astral-taurus-notes.onrender.com/)
-- over-blog.com: [https://astralrisingnotes.over-blog.com/2026/10/taurus-moon-vs-taurus-rising-two-very-different-kinds-of-steady.html](https://astralrisingnotes.over-blog.com/2026/10/taurus-moon-vs-taurus-rising-two-very-different-kinds-of-steady.html)
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
 - pages.dev: [https://astral-virgo-notes.pages.dev/](https://astral-virgo-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
@@ -149,12 +145,14 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sitelike.org: [https://www.sitelike.org/similar/astralhoro.com/](https://www.sitelike.org/similar/astralhoro.com/)
 - Slides.com: [https://slides.com/astralhoroapp/how-to-read-your-natal-chart](https://slides.com/astralhoroapp/how-to-read-your-natal-chart)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/astralhoro-rising-sign-calculator/](https://smartbiztools.io/ai-tools/astralhoro-rising-sign-calculator/)
+- StartupsLab: [https://startupslab.site/product/astralhoro](https://startupslab.site/product/astralhoro)
 - straw.page: [https://moon-sign-notes.straw.page](https://moon-sign-notes.straw.page)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
 - surge.sh: [https://astralhoro-libra-notes.surge.sh/](https://astralhoro-libra-notes.surge.sh/)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - Telegraph: [https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28](https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28)
+- thedailyworkflow.com: [https://thedailyworkflow.com/service/AstralHoro](https://thedailyworkflow.com/service/AstralHoro)
 - theresanaiforthat.com: [https://theresanaiforthat.com/@horo-horo/](https://theresanaiforthat.com/@horo-horo/)
 - tiiny.site: [https://astralhoro-moon.tiiny.site](https://astralhoro-moon.tiiny.site)
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
@@ -266,7 +264,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Feeder: [https://feeder.co/discover/464ea11768/easyfaceai-com](https://feeder.co/discover/464ea11768/easyfaceai-com)
 - ffacat.com: [https://ffacat.com/search/easyfaceai/](https://ffacat.com/search/easyfaceai/)
 - free-weblink.com: [https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html](https://free-weblink.com/EasyFace-AI-Hair-Color-Try-On_299080.html)
-- GitBook: [https://easyfaceai.gitbook.io/easyface-docs/](https://easyfaceai.gitbook.io/easyface-docs/)
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - GitHub Gist: [https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71](https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71)
 - GitLab Snippet: [https://gitlab.com/-/snippets/6070861](https://gitlab.com/-/snippets/6070861)
@@ -490,6 +487,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - seolisting.io: [https://seolisting.io/listings/reelsongfinder](https://seolisting.io/listings/reelsongfinder)
 - showmysites.com: [https://www.showmysites.com/astralhoro/reelsongfinder/](https://www.showmysites.com/astralhoro/reelsongfinder/)
 - sitelike.org: [https://www.sitelike.org/similar/reelsongfinder.com/](https://www.sitelike.org/similar/reelsongfinder.com/)
+- Startups Lab: [https://startupslab.site/product/reel-song-finder](https://startupslab.site/product/reel-song-finder)
 - TAAFT: [https://theresanaiforthat.com/@reelsongfinder/](https://theresanaiforthat.com/@reelsongfinder/)
 - Telegraph: [https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02](https://telegra.ph/Finding-a-Reels-song-from-a-laptop-with-no-phone-and-no-app-10-02)
 - Telegraph: [https://telegra.ph/Instagram-says-Original-audio-what-the-label-tells-you-and-what-it-does-not-10-02](https://telegra.ph/Instagram-says-Original-audio-what-the-label-tells-you-and-what-it-does-not-10-02)
@@ -582,6 +580,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Slides.com: [https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify](https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify)
 - Slides.com: [https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload](https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/remove-ai-meta/](https://smartbiztools.io/ai-tools/remove-ai-meta/)
+- startupslab.site: [https://startupslab.site/product/remove-ai-meta](https://startupslab.site/product/remove-ai-meta)
 - telegra.ph: [https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14](https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14)
 - telegra.ph: [https://telegra.ph/Gemini-and-Imagen-images-whats-in-the-downloaded-file-and-what-isnt-10-02](https://telegra.ph/Gemini-and-Imagen-images-whats-in-the-downloaded-file-and-what-isnt-10-02)
 - telegra.ph: [https://telegra.ph/How-to-check-an-image-for-Content-Credentials-with-c2patool-two-commands-10-02](https://telegra.ph/How-to-check-an-image-for-Content-Credentials-with-c2patool-two-commands-10-02)
