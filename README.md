@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 748 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 749 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -475,6 +475,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
 - markdrop.in: [https://www.markdrop.in/monareel-photo-to-video-ai](https://www.markdrop.in/monareel-photo-to-video-ai)
 - mybzz.com: [https://mybzz.com/brands/monareel-ai-zombie-filter](https://mybzz.com/brands/monareel-ai-zombie-filter)
+- oakbin.oakmonttechnologies.com: [https://oakbin.oakmonttechnologies.com/mgc3amgc](https://oakbin.oakmonttechnologies.com/mgc3amgc)
 - openanthropic.com: [https://openanthropic.com/view/monareel-ptv-oms-zr7](https://openanthropic.com/view/monareel-ptv-oms-zr7)
 - pastehtml.dev: [https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/](https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/)
 - pencil.md: [https://pencil.md/PsNqmRPL](https://pencil.md/PsNqmRPL)
