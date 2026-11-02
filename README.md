@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 722 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 726 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -447,6 +447,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## monareel
 
+- aired.sh: [https://aired.sh/p/JDgkcF7GEf](https://aired.sh/p/JDgkcF7GEf)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html)
 - deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
@@ -455,9 +456,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
 - github.com: [https://github.com/kibovrwa/awesome-photo-to-video-templates](https://github.com/kibovrwa/awesome-photo-to-video-templates)
 - graph.org: [https://graph.org/MonaReel-photo-to-video-AI-11-02-2](https://graph.org/MonaReel-photo-to-video-AI-11-02-2)
+- ht-ml.app: [https://4d077b86.ht-ml.app/](https://4d077b86.ht-ml.app/)
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
 - markdrop.in: [https://www.markdrop.in/monareel-photo-to-video-ai](https://www.markdrop.in/monareel-photo-to-video-ai)
 - mybzz.com: [https://mybzz.com/brands/monareel-ai-zombie-filter](https://mybzz.com/brands/monareel-ai-zombie-filter)
+- openanthropic.com: [https://openanthropic.com/view/monareel-ptv-oms-zr7](https://openanthropic.com/view/monareel-ptv-oms-zr7)
+- pencil.md: [https://pencil.md/PsNqmRPL](https://pencil.md/PsNqmRPL)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/monareel.com](https://plastikmuhur.xyz/sites/monareel.com)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html)
