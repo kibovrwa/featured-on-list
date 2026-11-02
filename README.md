@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 720 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 722 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -448,6 +448,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## monareel
 
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-i-made-halloween-zombie-version-of.html)
+- deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
 - directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
 - docs-md.com: [https://docs-md.com/eternal-mesa-qNsiz](https://docs-md.com/eternal-mesa-qNsiz)
@@ -461,6 +462,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-dime-dime-baby-trend-and-how-i-made.html)
 - practicalwebtoolsnotes.blogspot.com (Blogger): [https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html](https://practicalwebtoolsnotes.blogspot.com/2026/11/robot-girl-ai-android-video-from-one.html)
 - rentry.co: [https://rentry.co/qsbar9rx](https://rentry.co/qsbar9rx)
+- sharehtml.org: [https://l59jc2q.sharehtml.org/](https://l59jc2q.sharehtml.org/)
 - telegra.ph: [https://telegra.ph/MonaReel-photo-to-video-AI-11-02](https://telegra.ph/MonaReel-photo-to-video-AI-11-02)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - text.is: [https://text.is/95X8R](https://text.is/95X8R)
