@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 738 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 739 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -488,6 +488,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - withaitools.com: [https://www.withaitools.com/tools/monareel](https://www.withaitools.com/tools/monareel)
 - write.as: [https://write.as/mcihqau0wd2jx.md](https://write.as/mcihqau0wd2jx.md)
 - yeet.md: [https://yeet.md/s/RX34Jy-J](https://yeet.md/s/RX34Jy-J)
+- yeet.page: [https://stupid-star-ca23.yeet.page/](https://stupid-star-ca23.yeet.page/)
 
 ## reelsongfinder.com
 
