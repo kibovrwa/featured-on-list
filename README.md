@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 746 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 747 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -470,6 +470,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - html2link.dev: [https://jczlrc3m.html2link.dev/](https://jczlrc3m.html2link.dev/)
 - htmlhoster.com: [https://htmlhoster.com/p/CBSRP2NH/](https://htmlhoster.com/p/CBSRP2NH/)
 - htmlspace.app: [https://htmlspace.app/cftwvrdq/](https://htmlspace.app/cftwvrdq/)
+- lucid.page: [https://lucid.page/flower-fur-bd32prfj](https://lucid.page/flower-fur-bd32prfj)
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
 - markdrop.in: [https://www.markdrop.in/monareel-photo-to-video-ai](https://www.markdrop.in/monareel-photo-to-video-ai)
 - mybzz.com: [https://mybzz.com/brands/monareel-ai-zombie-filter](https://mybzz.com/brands/monareel-ai-zombie-filter)
