@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 743 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 745 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -72,6 +72,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AICatalog: [https://aicatalog.com.ua/tools/astralhoro](https://aicatalog.com.ua/tools/astralhoro)
 - aimaper.com: [https://aimaper.com/tool/astralhoro/](https://aimaper.com/tool/astralhoro/)
 - AIMarketly: [https://www.aimarketly.com/tool/astralhoro](https://www.aimarketly.com/tool/astralhoro)
+- ainavdir.com: [https://www.ainavdir.com/tool/astralhoro](https://www.ainavdir.com/tool/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - aiunicorn.lol: [https://aiunicorn.lol/tool/astralhoro/](https://aiunicorn.lol/tool/astralhoro/)
@@ -453,6 +454,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - botbin.io: [https://botbin.io/n5e6cg/raw](https://botbin.io/n5e6cg/raw)
 - cachyos.org: [https://paste.cachyos.org/a23b6a2.html](https://paste.cachyos.org/a23b6a2.html)
 - carm.cc: [https://paste.carm.cc/3Y0PyC](https://paste.carm.cc/3Y0PyC)
+- cordium.best: [https://cordium.best/477i66drj17e](https://cordium.best/477i66drj17e)
 - crueter.xyz: [https://paste.crueter.xyz/e17d44ca1cf69086/index.html](https://paste.crueter.xyz/e17d44ca1cf69086/index.html)
 - deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
