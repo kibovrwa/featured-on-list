@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-02 · 752 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-03 · 755 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -251,6 +251,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - addurl.online: [https://addurl.online/246866](https://addurl.online/246866)
 - AI Toolkit: [https://ai.toolkit.best/easyface-ai](https://ai.toolkit.best/easyface-ai)
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
+- ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
@@ -448,6 +449,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## monareel
 
+- ainavdir.com: [https://www.ainavdir.com/tool/monareel](https://www.ainavdir.com/tool/monareel)
 - aired.sh: [https://aired.sh/p/JDgkcF7GEf](https://aired.sh/p/JDgkcF7GEf)
 - anew.page: [https://anew.page/H2ECIGR3Xu_yU45H5HJIOb6V1Q5Gi4PltkyokbuHG4GgwWClRMvvZW6EYrBEdat96xFBPeTODREJ0k083Pwyj-92V7l85ndrGfHDyaWl-AExAj4T5A7C0aQhlK2I7M82LPQfv2V1HG0MzTWB7Q9IxZkQLvmtUJPP19gj2dgf-wnfk2A7mHTLw_jWJxnnsragEs1mscEFidmt2qW-gPJWq9NqkAiwBdCDG4EF3hhLU2kzxYgss5nllriYPEKSGHbgLybR6dLrYxWXYbAB](https://anew.page/H2ECIGR3Xu_yU45H5HJIOb6V1Q5Gi4PltkyokbuHG4GgwWClRMvvZW6EYrBEdat96xFBPeTODREJ0k083Pwyj-92V7l85ndrGfHDyaWl-AExAj4T5A7C0aQhlK2I7M82LPQfv2V1HG0MzTWB7Q9IxZkQLvmtUJPP19gj2dgf-wnfk2A7mHTLw_jWJxnnsragEs1mscEFidmt2qW-gPJWq9NqkAiwBdCDG4EF3hhLU2kzxYgss5nllriYPEKSGHbgLybR6dLrYxWXYbAB)
 - assoli.site: [https://mpnwlsiz27ww.pastehtml.assoli.site/](https://mpnwlsiz27ww.pastehtml.assoli.site/)
@@ -556,6 +558,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AI Social Tools: [https://aisocialtools.co/ai-directory/remove-ai-meta](https://aisocialtools.co/ai-directory/remove-ai-meta)
 - AICatalog: [https://aicatalog.com.ua/tool/remove-ai-meta](https://aicatalog.com.ua/tool/remove-ai-meta)
 - AIGCList: [https://aigclist.com/item/remove-ai-meta](https://aigclist.com/item/remove-ai-meta)
+- ainavdir.com: [https://www.ainavdir.com/tool/remove-ai-meta](https://www.ainavdir.com/tool/remove-ai-meta)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaiinfo](https://aiproductshunt.com/app/removeaiinfo)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaimeta](https://aiproductshunt.com/app/removeaimeta)
 - AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
