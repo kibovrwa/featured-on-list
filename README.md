@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-03 · 755 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-03 · 752 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -107,7 +107,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
-- indexflow.tech: [https://indexflow.tech/directory](https://indexflow.tech/directory)
 - jayde.com: [https://www.jayde.com/profiles/01895989](https://www.jayde.com/profiles/01895989)
 - Jimdo: [https://astral-moon-rising-3.jimdosite.com/about-me/](https://astral-moon-rising-3.jimdosite.com/about-me/)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
@@ -274,7 +273,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitLab Snippet: [https://gitlab.com/-/snippets/6070861](https://gitlab.com/-/snippets/6070861)
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
-- indexflow.tech: [https://indexflow.tech/directory](https://indexflow.tech/directory)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439830](https://www.justlink.org/details.php?id=439830)
 - JustPaste.it: [https://justpaste.it/izyyz](https://justpaste.it/izyyz)
@@ -595,7 +593,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hugging Face Spaces: [https://removeaimeta-remove-ai-meta.static.hf.space/](https://removeaimeta-remove-ai-meta.static.hf.space/)
 - huggingface.co: [https://huggingface.co/spaces/removeaimeta/remove-ai-meta](https://huggingface.co/spaces/removeaimeta/remove-ai-meta)
 - Ignitae: [https://ignitae.com/p/remove-ai-meta](https://ignitae.com/p/remove-ai-meta)
-- indexflow.tech: [https://indexflow.tech/directory](https://indexflow.tech/directory)
 - jayde.com: [https://www.jayde.com/profiles/01895984](https://www.jayde.com/profiles/01895984)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439783](https://www.justlink.org/details.php?id=439783)
