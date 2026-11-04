@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-03 · 752 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-04 · 751 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -16,6 +16,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/the-early-build-order-that-stops-most.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/first-stretch-walkthrough-tips-for-100.html)
 - BuildVoyage: [https://buildvoyage.com/products/100-days-at-sea-wiki](https://buildvoyage.com/products/100-days-at-sea-wiki)
+- businessfreedirectory.biz: [https://businessfreedirectory.biz/details.php?id=611411](https://businessfreedirectory.biz/details.php?id=611411)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij](https://dev.to/dylan_yu_7ffff00b5355942d/content-ops-for-a-small-game-wiki-codes-beginner-walkthrough-as-three-products-40ij)
 - Directory Index: [https://directory-index.com/entertainment/100-days-at-sea-wiki-1/](https://directory-index.com/entertainment/100-days-at-sea-wiki-1/)
 - Directree: [https://www.directree.io/tool/100-days-at-sea-wiki](https://www.directree.io/tool/100-days-at-sea-wiki)
@@ -39,6 +40,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
 - PeerPush: [https://peerpush.com/p/100-days-at-sea-wiki](https://peerpush.com/p/100-days-at-sea-wiki)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/www.100daysatsea.com](https://plastikmuhur.xyz/sites/www.100daysatsea.com)
+- reddit-directory.com: [https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html](https://reddit-directory.com/100-Days-at-Sea-Codes_732947.html)
 - rentry.co: [https://rentry.co/100daysatsea-codes](https://rentry.co/100daysatsea-codes)
 - SaaSHub: [https://www.saashub.com/100-days-at-sea-wiki](https://www.saashub.com/100-days-at-sea-wiki)
 - seobackdirectory.com: [https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181](https://www.seobackdirectory.com/detail/-days-at-sea-wiki112181)
@@ -96,7 +98,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - free-weblink.com: [https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html](https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html)
-- GitBook: [https://astralhoro.gitbook.io/astralhoro-docs](https://astralhoro.gitbook.io/astralhoro-docs)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2](https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2)
 - github.com: [https://github.com/chatmcp/mcpso/issues/5282](https://github.com/chatmcp/mcpso/issues/5282)
 - github.com: [https://github.com/kibovrwa/natal-chart-math](https://github.com/kibovrwa/natal-chart-math)
@@ -188,7 +189,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - AI BirdView: [https://aibirdview.com/tools/chatgpt2word](https://aibirdview.com/tools/chatgpt2word)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter](https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter)
-- AI Toolkit: [https://ai.toolkit.best/chatgpt2word](https://ai.toolkit.best/chatgpt2word)
 - AICatalog: [https://aicatalog.com.ua/tool/chatgpt2word](https://aicatalog.com.ua/tool/chatgpt2word)
 - AIProductsHunt: [https://aiproductshunt.com/app/chatgpt2word](https://aiproductshunt.com/app/chatgpt2word)
 - aitoolex: [https://aitoolex.com/item/chatgpt2word](https://aitoolex.com/item/chatgpt2word)
@@ -248,7 +248,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## easyfaceai.com
 
 - addurl.online: [https://addurl.online/246866](https://addurl.online/246866)
-- AI Toolkit: [https://ai.toolkit.best/easyface-ai](https://ai.toolkit.best/easyface-ai)
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
 - ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
@@ -323,7 +322,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AddURL: [https://addurl.online/244302](https://addurl.online/244302)
 - AI BirdView: [https://aibirdview.com/tools/gaivsiq](https://aibirdview.com/tools/gaivsiq)
 - AI Social Tools: [https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory](https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory)
-- AI Toolkit: [https://ai.toolkit.best/gaivsiq](https://ai.toolkit.best/gaivsiq)
 - aimaper.com: [https://aimaper.com/tool/gaivsiq/](https://aimaper.com/tool/gaivsiq/)
 - AIMarketly: [https://www.aimarketly.com/tool/gaivsiq](https://www.aimarketly.com/tool/gaivsiq)
 - AIToolFinder: [https://aitoolfinder.ai/tools/gaivsiq](https://aitoolfinder.ai/tools/gaivsiq)
@@ -571,6 +569,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/troubleshooting-remove-ai-meta-real-error-messages-and-what-to-do-1c10](https://dev.to/dylan_yu_7ffff00b5355942d/troubleshooting-remove-ai-meta-real-error-messages-and-what-to-do-1c10)
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/whats-actually-inside-your-image-and-pdf-before-you-upload-it-3j8l](https://dev.to/dylan_yu_7ffff00b5355942d/whats-actually-inside-your-image-and-pdf-before-you-upload-it-3j8l)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/why-instagram-adds-an-ai-info-label-to-your-photo-and-how-to-check-the-file-first-45ch](https://dev.to/dylan_yu_7ffff00b5355942d/why-instagram-adds-an-ai-info-label-to-your-photo-and-how-to-check-the-file-first-45ch)
+- DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-check-and-remove-gps-location-from-your-phone-photos-2poi](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-check-and-remove-gps-location-from-your-phone-photos-2poi)
 - dev.to article: [https://dev.to/removeaimeta/clean-a-jpeg-in-the-tab-you-already-have-open-3en](https://dev.to/removeaimeta/clean-a-jpeg-in-the-tab-you-already-have-open-3en)
 - dev.to article: [https://dev.to/removeaimeta/cleaning-ai-metadata-from-images-and-files-a-practical-guide-for-developers-37bi](https://dev.to/removeaimeta/cleaning-ai-metadata-from-images-and-files-a-practical-guide-for-developers-37bi)
 - dev.to article: [https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d](https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d)
