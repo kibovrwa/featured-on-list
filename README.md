@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-04 · 751 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 758 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -249,9 +249,13 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - addurl.online: [https://addurl.online/246866](https://addurl.online/246866)
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
+- AIMarketly: [https://www.aimarketly.com/tool/easyface-ai](https://www.aimarketly.com/tool/easyface-ai)
 - ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
+- aitoolscapital.com: [https://aitoolscapital.com/tools/easyface-ai](https://aitoolscapital.com/tools/easyface-ai)
+- AIToolSeekers: [https://aitoolseekers.com/tool/easyface-ai](https://aitoolseekers.com/tool/easyface-ai)
+- aiunicorn.lol: [https://aiunicorn.lol/tool/easyface-ai](https://aiunicorn.lol/tool/easyface-ai)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
@@ -276,6 +280,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - justlink.org: [https://www.justlink.org/details.php?id=439830](https://www.justlink.org/details.php?id=439830)
 - JustPaste.it: [https://justpaste.it/izyyz](https://justpaste.it/izyyz)
 - LaunchFree: [https://launchfree.io/listings/easyface-ai.html](https://launchfree.io/listings/easyface-ai.html)
+- launchsignal.ai: [https://launchsignal.ai/l/easyface-ai](https://launchsignal.ai/l/easyface-ai)
 - linkcentre.com: [https://www.linkcentre.com/review/1730007/easyfaceai-com-face-shape](https://www.linkcentre.com/review/1730007/easyfaceai-com-face-shape)
 - Lovable: [https://easyface-hair-studio.lovable.app/](https://easyface-hair-studio.lovable.app/)
 - magicly.bio: [https://magicly.bio/easyfaceai](https://magicly.bio/easyfaceai)
@@ -294,6 +299,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
 - productwatch.io: [https://productwatch.io/products/easyface-ai-1](https://productwatch.io/products/easyface-ai-1)
 - rentry.co: [https://rentry.co/easyfaceai-face-shape-hairstyles](https://rentry.co/easyfaceai-face-shape-hairstyles)
+- SaaSHub: [https://www.saashub.com/easyface-ai](https://www.saashub.com/easyface-ai)
 - showmysites.com: [https://showmysites.com/astralhoro/easyface-ai/](https://showmysites.com/astralhoro/easyface-ai/)
 - SiteLike: [https://www.sitelike.org/similar/easyfaceai.com/](https://www.sitelike.org/similar/easyfaceai.com/)
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
@@ -311,6 +317,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Vercel: [https://easyface-face-shape-detector.vercel.app/](https://easyface-face-shape-detector.vercel.app/)
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - waywuygan.xyz: [https://waywuygan.xyz/sites/easyfaceai.com](https://waywuygan.xyz/sites/easyfaceai.com)
+- webapps.directory: [https://webapps.directory/directory/easyface-ai](https://webapps.directory/directory/easyface-ai)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - wikiindex.org: [https://wikiindex.org/w/EasyFace_AI](https://wikiindex.org/w/EasyFace_AI)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
