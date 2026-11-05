@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 761 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 763 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -131,6 +131,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
 - pages.dev: [https://astral-virgo-notes.pages.dev/](https://astral-virgo-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
+- Pearltrees: [https://www.pearltrees.com/astralhoro/free-astrology-tools/id110186784/item837085288](https://www.pearltrees.com/astralhoro/free-astrology-tools/id110186784/item837085288)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/astralhoro.com](https://plastikmuhur.xyz/sites/astralhoro.com)
 - Posteezy: [https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check](https://posteezy.com/yesno-oracle-vs-tarot-when-each-helps-quick-astrology-check)
 - ProductWatch: [https://productwatch.io/products/astralhoro](https://productwatch.io/products/astralhoro)
@@ -294,6 +295,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
 - PasteLink: [https://pastelink.net/d8gsppv3](https://pastelink.net/d8gsppv3)
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
+- Pearltrees: [https://www.pearltrees.com/easyfaceai/hair-color-ideas/id110186565](https://www.pearltrees.com/easyfaceai/hair-color-ideas/id110186565)
 - PeerPush: [https://peerpush.com/p/easyface-ai](https://peerpush.com/p/easyface-ai)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/easyfaceai.com](https://plastikmuhur.xyz/sites/easyfaceai.com)
 - Posteezy: [https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie](https://posteezy.com/easyface-ai-try-hairstyles-bangs-and-face-shape-looks-selfie)
