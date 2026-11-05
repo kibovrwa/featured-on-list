@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 764 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 765 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -642,6 +642,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sitelike.org: [https://www.sitelike.org/similar/removeaimeta.com/](https://www.sitelike.org/similar/removeaimeta.com/)
 - Slides.com: [https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify](https://slides.com/removeaimeta/browser-metadata-cleaner-checklist-inspect-scrub-verify)
 - Slides.com: [https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload](https://slides.com/removeaimeta/linkedin-cr-panel-the-five-fields-and-the-next-upload)
+- Slides.com: [https://slides.com/ramshutter/camera-shutter-count](https://slides.com/ramshutter/camera-shutter-count)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/remove-ai-meta/](https://smartbiztools.io/ai-tools/remove-ai-meta/)
 - startupslab.site: [https://startupslab.site/product/remove-ai-meta](https://startupslab.site/product/remove-ai-meta)
 - telegra.ph: [https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14](https://telegra.ph/Checking-camera-shutter-count-from-EXIF-before-you-buy-a-used-body-10-14)
