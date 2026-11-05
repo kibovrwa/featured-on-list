@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 758 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 761 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -446,6 +446,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph: [https://telegra.ph/Server-builder-notes-shipping-an-oak-farmhouse-hologram-to-the-SMP-10-05](https://telegra.ph/Server-builder-notes-shipping-an-oak-farmhouse-hologram-to-the-SMP-10-05)
 - Telegraph: [https://telegra.ph/The-Load-Schematics-list-is-empty-three-places-the-file-actually-went-10-12](https://telegra.ph/The-Load-Schematics-list-is-empty-three-places-the-file-actually-went-10-12)
 - TinyLaunch: [https://www.tinylaunch.com/launch/25353-minecraft-schematic-generator](https://www.tinylaunch.com/launch/25353-minecraft-schematic-generator)
+- tinytools: [https://tinytools.tools/t/minecraft-schematic-converter-by-msg-899c14b9](https://tinytools.tools/t/minecraft-schematic-converter-by-msg-899c14b9)
 - Vercel: [https://msg-load-litematic.vercel.app/](https://msg-load-litematic.vercel.app/)
 - websitelaunches.com: [https://websitelaunches.com/site/minecraftschematicgenerator.com](https://websitelaunches.com/site/minecraftschematicgenerator.com)
 - WithAITools: [https://www.withaitools.com/tools/minecraft-schematic-generator](https://www.withaitools.com/tools/minecraft-schematic-generator)
@@ -537,6 +538,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
 - neeed.directory: [https://neeed.directory/products/reelsongfinder](https://neeed.directory/products/reelsongfinder)
 - NewName.ai: [https://newname.ai/products/reelsongfinder](https://newname.ai/products/reelsongfinder)
+- parsed: [https://tinytools.tools/t/reel-song-finder-6fc5f0eb](https://tinytools.tools/t/reel-song-finder-6fc5f0eb)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/reelsongfinder.com](https://plastikmuhur.xyz/sites/reelsongfinder.com)
 - productwatch.io: [https://productwatch.io/products/reel-song-finder](https://productwatch.io/products/reel-song-finder)
 - Rentry: [https://rentry.co/webrn9yp](https://rentry.co/webrn9yp)
@@ -667,6 +669,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - theresanaiforthat.com: [https://theresanaiforthat.com/@dylan-yu/](https://theresanaiforthat.com/@dylan-yu/)
 - TinyLaunch: [https://www.tinylaunch.com/launch/22710-remove-ai-meta](https://www.tinylaunch.com/launch/22710-remove-ai-meta)
 - tinystartups.com: [https://www.tinystartups.com/startup/remove-ai-meta](https://www.tinystartups.com/startup/remove-ai-meta)
+- tinytools.tools: [https://tinytools.tools/t/remove-ai-meta-6fd4426f](https://tinytools.tools/t/remove-ai-meta-6fd4426f)
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/remove-ai-meta](https://toolpotion.ai/en/ai-apps/remove-ai-meta)
 - try.tools: [https://try.tools/tools/remove-ai-meta-958993](https://try.tools/tools/remove-ai-meta-958993)
 - Uneed: [https://www.uneed.best/tool/remove-c2pa](https://www.uneed.best/tool/remove-c2pa)
