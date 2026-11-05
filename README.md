@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 767 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 768 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -249,6 +249,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## easyfaceai.com
 
 - addurl.online: [https://addurl.online/246866](https://addurl.online/246866)
+- AgentLocker: [https://agentlocker.ai/agent/easyface-ai](https://agentlocker.ai/agent/easyface-ai)
 - AICatalog: [https://aicatalog.com.ua/tool/easyface-ai](https://aicatalog.com.ua/tool/easyface-ai)
 - AIMarketly: [https://www.aimarketly.com/tool/easyface-ai](https://www.aimarketly.com/tool/easyface-ai)
 - ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
