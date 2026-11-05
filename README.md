@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 765 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 767 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -253,6 +253,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIMarketly: [https://www.aimarketly.com/tool/easyface-ai](https://www.aimarketly.com/tool/easyface-ai)
 - ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
+- AISO aisotools.com: [https://aisotools.com/tool/easyface-ai](https://aisotools.com/tool/easyface-ai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
 - aitoolscapital.com: [https://aitoolscapital.com/tools/easyface-ai](https://aitoolscapital.com/tools/easyface-ai)
 - AIToolSeekers: [https://aitoolseekers.com/tool/easyface-ai](https://aitoolseekers.com/tool/easyface-ai)
@@ -312,6 +313,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-A-Practical-5-Step-Guide-10-17)
 - Telegraph: [https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20](https://telegra.ph/How-to-Choose-a-Hairstyle-for-Your-Face-Shape-10-20)
+- Telegraph: [https://telegra.ph/EasyFace-Face-Shape--Hairstyle-Guide-11-05](https://telegra.ph/EasyFace-Face-Shape--Hairstyle-Guide-11-05)
 - thedailyworkflow.com: [https://thedailyworkflow.com/service/EasyFace%20AI](https://thedailyworkflow.com/service/EasyFace%20AI)
 - Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
 - Tumblr: [https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you](https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you)
