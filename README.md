@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-06 · 770 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-06 · 778 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -469,6 +469,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - cachyos.org: [https://paste.cachyos.org/a23b6a2.html](https://paste.cachyos.org/a23b6a2.html)
 - carm.cc: [https://paste.carm.cc/3Y0PyC](https://paste.carm.cc/3Y0PyC)
 - cordium.best: [https://cordium.best/477i66drj17e](https://cordium.best/477i66drj17e)
+- cordium.best: [https://cordium.best/joop2kf17fl1](https://cordium.best/joop2kf17fl1)
 - crueter.xyz: [https://paste.crueter.xyz/e17d44ca1cf69086/index.html](https://paste.crueter.xyz/e17d44ca1cf69086/index.html)
 - deed.page: [https://monareel-ptv-zr6dqx.deed.page/](https://monareel-ptv-zr6dqx.deed.page/)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966](https://dev.to/dylan_yu_7ffff00b5355942d/price-a-monareel-render-before-you-hit-send-4966)
@@ -483,14 +484,20 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - html.cafe: [https://html.cafe/x94968efd](https://html.cafe/x94968efd)
 - html2link.dev: [https://jczlrc3m.html2link.dev/](https://jczlrc3m.html2link.dev/)
 - htmlcast.com: [https://htmlcast.com/p/ecprt3j](https://htmlcast.com/p/ecprt3j)
+- htmlcast.com: [https://htmlcast.com/p/kwszxyg](https://htmlcast.com/p/kwszxyg)
+- htmlcast.com: [https://htmlcast.com/p/v2ennv5](https://htmlcast.com/p/v2ennv5)
 - htmlhoster.com: [https://htmlhoster.com/p/CBSRP2NH/](https://htmlhoster.com/p/CBSRP2NH/)
 - htmlspace.app: [https://htmlspace.app/cftwvrdq/](https://htmlspace.app/cftwvrdq/)
 - lucid.page: [https://lucid.page/flower-fur-bd32prfj](https://lucid.page/flower-fur-bd32prfj)
+- lucid.page: [https://lucid.page/dazed-degree-y3kjbhqj](https://lucid.page/dazed-degree-y3kjbhqj)
 - markdown.page: [https://markdown.page/TeJeFvkF](https://markdown.page/TeJeFvkF)
 - markdrop.in: [https://www.markdrop.in/monareel-photo-to-video-ai](https://www.markdrop.in/monareel-photo-to-video-ai)
 - memos.page: [https://memos.page/853f9bf7-a79c-423c-bcbd-963fa0a211df](https://memos.page/853f9bf7-a79c-423c-bcbd-963fa0a211df)
+- memos.page: [https://memos.page/f2dfb82a-b04c-443a-9dad-f1685c52d605](https://memos.page/f2dfb82a-b04c-443a-9dad-f1685c52d605)
+- memos.page: [https://memos.page/dbb258b4-3157-4019-83f7-1c251d762c1f](https://memos.page/dbb258b4-3157-4019-83f7-1c251d762c1f)
 - mybzz.com: [https://mybzz.com/brands/monareel-ai-zombie-filter](https://mybzz.com/brands/monareel-ai-zombie-filter)
 - oakbin.oakmonttechnologies.com: [https://oakbin.oakmonttechnologies.com/mgc3amgc](https://oakbin.oakmonttechnologies.com/mgc3amgc)
+- oakbin.oakmonttechnologies.com: [https://oakbin.oakmonttechnologies.com/c42u932e](https://oakbin.oakmonttechnologies.com/c42u932e)
 - openanthropic.com: [https://openanthropic.com/view/monareel-ptv-oms-zr7](https://openanthropic.com/view/monareel-ptv-oms-zr7)
 - pastehtml.dev: [https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/](https://kakmekcna21c7sqj9y4qtmd46peje4wp.pastehtml.dev/)
 - pencil.md: [https://pencil.md/PsNqmRPL](https://pencil.md/PsNqmRPL)
@@ -501,6 +508,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - rentry.co: [https://rentry.co/qsbar9rx](https://rentry.co/qsbar9rx)
 - sharehtml.org: [https://l59jc2q.sharehtml.org/](https://l59jc2q.sharehtml.org/)
 - sharemyclaudemd.com: [https://sharemyclaudemd.com/p/9czSnas4Bq](https://sharemyclaudemd.com/p/9czSnas4Bq)
+- sharemyclaudemd.com: [https://sharemyclaudemd.com/p/fpOqXRQexB](https://sharemyclaudemd.com/p/fpOqXRQexB)
 - stub.page: [https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp](https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp)
 - sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
 - swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
