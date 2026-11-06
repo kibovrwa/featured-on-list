@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-05 · 768 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-06 · 770 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -259,6 +259,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aitoolscapital.com: [https://aitoolscapital.com/tools/easyface-ai](https://aitoolscapital.com/tools/easyface-ai)
 - AIToolSeekers: [https://aitoolseekers.com/tool/easyface-ai](https://aitoolseekers.com/tool/easyface-ai)
 - aiunicorn.lol: [https://aiunicorn.lol/tool/easyface-ai](https://aiunicorn.lol/tool/easyface-ai)
+- allagents.app: [https://allagents.app/agent/easyface-outfit-changer](https://allagents.app/agent/easyface-outfit-changer)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
@@ -279,6 +280,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitLab Snippet: [https://gitlab.com/-/snippets/6070861](https://gitlab.com/-/snippets/6070861)
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
+- ignitae.com: [https://ignitae.com/p/easyface-ai-f7gx](https://ignitae.com/p/easyface-ai-f7gx)
 - Joinly: [https://www.joinly.xyz/startups/easyfaceai-com](https://www.joinly.xyz/startups/easyfaceai-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439830](https://www.justlink.org/details.php?id=439830)
 - JustPaste.it: [https://justpaste.it/izyyz](https://justpaste.it/izyyz)
