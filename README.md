@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-06 · 778 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-09 · 779 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -141,6 +141,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - readthedocs.io: [https://astral-scorpio-notes.readthedocs.io/en/latest/](https://astral-scorpio-notes.readthedocs.io/en/latest/)
 - Rentry: [https://rentry.co/astralhoro-synastry-guide](https://rentry.co/astralhoro-synastry-guide)
 - rentry.co: [https://rentry.co/astralhoro-aries-moon-rising](https://rentry.co/astralhoro-aries-moon-rising)
+- SaaSHub: [https://www.saashub.com/astralhoro](https://www.saashub.com/astralhoro)
 - showmysites.com: [https://www.showmysites.com/astralhoro/astralhoro/](https://www.showmysites.com/astralhoro/astralhoro/)
 - siftfox.com: [https://siftfox.com/tool/astralhoro](https://siftfox.com/tool/astralhoro)
 - simdif.com: [https://astral-moon-notes.simdif.com/](https://astral-moon-notes.simdif.com/)
@@ -295,7 +296,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Neocities: [https://removeaimeta.neocities.org/easyface](https://removeaimeta.neocities.org/easyface)
 - NewName.ai: [https://newname.ai/products/easyface-ai](https://newname.ai/products/easyface-ai)
 - noisedh.maozi.io: [https://noisedh.maozi.io/tougao/](https://noisedh.maozi.io/tougao/)
-- note.com: [https://note.com/long_abelia3343/n/n4065d01297f7](https://note.com/long_abelia3343/n/n4065d01297f7)
 - OSF: [https://osf.io/vqtw9/wiki](https://osf.io/vqtw9/wiki)
 - PasteLink: [https://pastelink.net/d8gsppv3](https://pastelink.net/d8gsppv3)
 - Pearltrees: [https://www.pearltrees.com/100daysatsea](https://www.pearltrees.com/100daysatsea)
@@ -319,6 +319,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph: [https://telegra.ph/EasyFace-Face-Shape--Hairstyle-Guide-11-05](https://telegra.ph/EasyFace-Face-Shape--Hairstyle-Guide-11-05)
 - thedailyworkflow.com: [https://thedailyworkflow.com/service/EasyFace%20AI](https://thedailyworkflow.com/service/EasyFace%20AI)
 - Tiiny Host: [https://easyface-tryon.tiiny.site](https://easyface-tryon.tiiny.site)
+- try.tools: [https://try.tools/tools/easyface-ai-022967](https://try.tools/tools/easyface-ai-022967)
 - Tumblr: [https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you](https://www.tumblr.com/easyfaceai/831218827365957632/preview-bangs-and-a-face-shape-haircut-before-you)
 - Vercel: [https://easyface-face-shape.vercel.app/](https://easyface-face-shape.vercel.app/)
 - Vercel: [https://easyface-face-shape-detector.vercel.app/](https://easyface-face-shape-detector.vercel.app/)
@@ -516,6 +517,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - text.is: [https://text.is/95X8R](https://text.is/95X8R)
 - tot.page: [https://tot.page/b6PjSBWh1JBb7x95-mfOCA](https://tot.page/b6PjSBWh1JBb7x95-mfOCA)
+- try.tools: [https://try.tools/tools/monareel-226767](https://try.tools/tools/monareel-226767)
 - Vercel: [https://monareel-ai-video.vercel.app/](https://monareel-ai-video.vercel.app/)
 - wantguns.dev: [https://bin.wantguns.dev/Pps0oa](https://bin.wantguns.dev/Pps0oa)
 - websitelaunches.com: [https://websitelaunches.com/site/monareel.com](https://websitelaunches.com/site/monareel.com)
@@ -633,7 +635,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
 - noisedaohang.netlify.app: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - noisedh.maozi.io: [https://noisedh.maozi.io/tougao/](https://noisedh.maozi.io/tougao/)
-- note.com: [https://note.com/long_abelia3343/n/n5ebff815f1d3](https://note.com/long_abelia3343/n/n5ebff815f1d3)
 - osf.io: [https://osf.io/znjhb/](https://osf.io/znjhb/)
 - parsed: [https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c](https://medium.com/@hello_70944/should-you-strip-ai-metadata-from-an-image-before-you-share-it-a-decision-guide-10ec85f2346c)
 - parsed: [https://slides.com/removeaimeta/deck](https://slides.com/removeaimeta/deck)
