@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-09 · 779 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-10 · 781 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -477,7 +477,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - directory-index.com: [https://directory-index.com/technology/monareel/](https://directory-index.com/technology/monareel/)
 - docs-md.com: [https://docs-md.com/eternal-mesa-qNsiz](https://docs-md.com/eternal-mesa-qNsiz)
 - dropdoc.sh: [https://dropdoc.sh/r/YODfuifx](https://dropdoc.sh/r/YODfuifx)
-- fly.dev: [https://basedbin.fly.dev/ZvUwzB](https://basedbin.fly.dev/ZvUwzB)
 - GitHub Gist: [https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d](https://gist.github.com/kibovrwa/9121743dc936019bfc9791e0bbde0b3d)
 - github.com: [https://github.com/kibovrwa/awesome-photo-to-video-templates](https://github.com/kibovrwa/awesome-photo-to-video-templates)
 - graph.org: [https://graph.org/MonaReel-photo-to-video-AI-11-02-2](https://graph.org/MonaReel-photo-to-video-AI-11-02-2)
@@ -514,6 +513,8 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
 - swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
 - telegra.ph: [https://telegra.ph/MonaReel-photo-to-video-AI-11-02](https://telegra.ph/MonaReel-photo-to-video-AI-11-02)
+- telegra.ph: [https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09](https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09)
+- telegra.ph: [https://telegra.ph/Window-Dance-AI-Video-From-One-Photo-11-09](https://telegra.ph/Window-Dance-AI-Video-From-One-Photo-11-09)
 - Telegraph: [https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28](https://telegra.ph/Turn-One-Photo-into-a-Short-AI-Clip-with-MonaReel-10-28)
 - text.is: [https://text.is/95X8R](https://text.is/95X8R)
 - tot.page: [https://tot.page/b6PjSBWh1JBb7x95-mfOCA](https://tot.page/b6PjSBWh1JBb7x95-mfOCA)
@@ -622,6 +623,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - jayde.com: [https://www.jayde.com/profiles/01895984](https://www.jayde.com/profiles/01895984)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439783](https://www.justlink.org/details.php?id=439783)
+- LaunchFree: [https://launchfree.io/listings/remove-ai-meta.html](https://launchfree.io/listings/remove-ai-meta.html)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
 - Lovable: [https://remove-ai-metadata.lovable.app/](https://remove-ai-metadata.lovable.app/)
 - Lovable: [https://free-metadata-viewer.lovable.app/](https://free-metadata-viewer.lovable.app/)
