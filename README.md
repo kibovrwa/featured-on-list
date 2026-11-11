@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-10 · 781 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-11 · 785 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -108,6 +108,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Hackaday.io: [https://hackaday.io/astralhoro](https://hackaday.io/astralhoro)
 - Hugging Face Spaces: [https://astralhoro-moon-sign-notes.static.hf.space/](https://astralhoro-moon-sign-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/astralhoro-rising-sign-calculator](https://ignitae.com/p/astralhoro-rising-sign-calculator)
+- inite.ai: [https://inite.ai/en/atlas/astralhoro.com](https://inite.ai/en/atlas/astralhoro.com)
 - jayde.com: [https://www.jayde.com/profiles/01895989](https://www.jayde.com/profiles/01895989)
 - Jimdo: [https://astral-moon-rising-3.jimdosite.com/about-me/](https://astral-moon-rising-3.jimdosite.com/about-me/)
 - Joinly: [https://www.joinly.xyz/startups/astralhoro-com](https://www.joinly.xyz/startups/astralhoro-com)
@@ -120,6 +121,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/](https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
+- mybzz.com: [https://mybzz.com/brands/astralhoro](https://mybzz.com/brands/astralhoro)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
 - netlify.app: [https://astral-pisces-notes.netlify.app/](https://astral-pisces-notes.netlify.app/)
@@ -347,10 +349,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/gai-vs-fsiq-how-to-read-the-gap-without-inventing-a-story-228k](https://dev.to/dylan_yu_7ffff00b5355942d/gai-vs-fsiq-how-to-read-the-gap-without-inventing-a-story-228k)
 - Directory Index: [https://directory-index.com/education/gai-vs-iq/](https://directory-index.com/education/gai-vs-iq/)
 - Directree: [https://www.directree.io/tool/gai-vs-iq](https://www.directree.io/tool/gai-vs-iq)
+- jayde.com: [https://www.jayde.com/profiles/01898608](https://www.jayde.com/profiles/01898608)
 - Joinly: [https://joinly.xyz/startups/gaivsiq-com](https://joinly.xyz/startups/gaivsiq-com)
 - LaunchFree: [https://launchfree.io/listings/gaivsiq-free-online-iq-test.html](https://launchfree.io/listings/gaivsiq-free-online-iq-test.html)
 - Lovable: [https://free-online-iq-test.lovable.app/](https://free-online-iq-test.lovable.app/)
 - Medium article: [https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
+- mybzz.com: [https://mybzz.com/brands/gaivsiq](https://mybzz.com/brands/gaivsiq)
 - NewName.ai: [https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory](https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - OER World Map: [https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9](https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9)
