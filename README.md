@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-12 · 815 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-12 · 819 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -166,10 +166,14 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - StartupsLab: [https://startupslab.site/product/astralhoro](https://startupslab.site/product/astralhoro)
 - straw.page: [https://moon-sign-notes.straw.page](https://moon-sign-notes.straw.page)
 - straw.page: [https://compatibility-notes.straw.page/](https://compatibility-notes.straw.page/)
+- studio.site: [https://cancer-sign-notes.studio.site/](https://cancer-sign-notes.studio.site/)
+- studio.site: [https://zodiac-compat-notes.studio.site/](https://zodiac-compat-notes.studio.site/)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
 - surge.sh: [https://astralhoro-libra-notes.surge.sh/](https://astralhoro-libra-notes.surge.sh/)
 - surge.sh: [https://venus-sign-notes.surge.sh/](https://venus-sign-notes.surge.sh/)
+- systeme.io: [https://c505-hello.systeme.io/moon-notes/when-birth-time-is-missing-moon](https://c505-hello.systeme.io/moon-notes/when-birth-time-is-missing-moon)
+- systeme.io: [https://c505-hello.systeme.io/moon-notes/venus-by-element-values](https://c505-hello.systeme.io/moon-notes/venus-by-element-values)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - Telegraph: [https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28](https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28)
 - thedailyworkflow.com: [https://thedailyworkflow.com/service/AstralHoro](https://thedailyworkflow.com/service/AstralHoro)
