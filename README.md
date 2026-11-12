@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-12 · 806 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-12 · 815 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -80,6 +80,8 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aiunicorn.lol: [https://aiunicorn.lol/tool/astralhoro/](https://aiunicorn.lol/tool/astralhoro/)
 - Ameblo: [https://ameblo.jp/astralhoro/entry-12982608658.html](https://ameblo.jp/astralhoro/entry-12982608658.html)
 - bearblog.dev: [https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/](https://astralrisingnotes.bearblog.dev/sagittarius-moon-vs-sagittarius-rising-why-they-feel-so-different/)
+- bio.site: [https://bio.site/piscesnotes](https://bio.site/piscesnotes)
+- bio.site: [https://bio.site/compatibilitynotes](https://bio.site/compatibilitynotes)
 - bitbucket.io: [https://astralnotes.bitbucket.io/](https://astralnotes.bitbucket.io/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/stop-asking-what-your-sign-says-about.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
@@ -97,6 +99,8 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
+- e-monsite.com: [https://venus-sign-notes.e-monsite.com/pages/venus-is-not-a-romance-score-what-a-natal-venus-sign-actually-name.html](https://venus-sign-notes.e-monsite.com/pages/venus-is-not-a-romance-score-what-a-natal-venus-sign-actually-name.html)
+- eklablog.com: [https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html](https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - free-weblink.com: [https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html](https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2](https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2)
@@ -124,7 +128,9 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - magicly.bio: [https://magicly.bio/astralhoro](https://magicly.bio/astralhoro)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/](https://risingmoonnotes.mataroa.blog/blog/rising-sign-basics-why-birth-time-changes-your-ascendant/)
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/](https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/)
+- mataroa.blog: [https://astralhoro.mataroa.blog/blog/april-20-to-may-20-tropical-dates-venus-as-ruler-and-the-scorpio-axis/](https://astralhoro.mataroa.blog/blog/april-20-to-may-20-tropical-dates-venus-as-ruler-and-the-scorpio-axis/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
+- muragon.com: [https://taurus-notes.muragon.com/entry/1.html](https://taurus-notes.muragon.com/entry/1.html)
 - mybzz.com: [https://mybzz.com/brands/astralhoro](https://mybzz.com/brands/astralhoro)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
@@ -159,9 +165,11 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - solo.to: [https://solo.to/astralhoro](https://solo.to/astralhoro)
 - StartupsLab: [https://startupslab.site/product/astralhoro](https://startupslab.site/product/astralhoro)
 - straw.page: [https://moon-sign-notes.straw.page](https://moon-sign-notes.straw.page)
+- straw.page: [https://compatibility-notes.straw.page/](https://compatibility-notes.straw.page/)
 - Substack: [https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality](https://astralhoro.substack.com/p/astrology-as-a-calendar-not-a-personality)
 - surge.sh: [https://rising-moon-notes.surge.sh/](https://rising-moon-notes.surge.sh/)
 - surge.sh: [https://astralhoro-libra-notes.surge.sh/](https://astralhoro-libra-notes.surge.sh/)
+- surge.sh: [https://venus-sign-notes.surge.sh/](https://venus-sign-notes.surge.sh/)
 - Telegraph: [https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16](https://telegra.ph/How-to-Read-Your-Natal-Chart-A-Step-by-Step-Guide-for-Beginners-10-16)
 - Telegraph: [https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28](https://telegra.ph/Birth-Time-Accuracy-Matters-More-Than-Sun-Sign-Labels-10-28)
 - thedailyworkflow.com: [https://thedailyworkflow.com/service/AstralHoro](https://thedailyworkflow.com/service/AstralHoro)
@@ -176,6 +184,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - viesearch.com: [https://viesearch.com/2a51a/astralhoro-yesno-oracle](https://viesearch.com/2a51a/astralhoro-yesno-oracle)
 - Waywuygan: [https://waywuygan.xyz/sites/astralhoro.com](https://waywuygan.xyz/sites/astralhoro.com)
 - websitelaunches.com: [https://websitelaunches.com/site/astralhoro.com](https://websitelaunches.com/site/astralhoro.com)
+- wikidot.com: [https://moon-sign-notes.wikidot.com/sign-first-house-second](https://moon-sign-notes.wikidot.com/sign-first-house-second)
 - wikiindex.org: [https://wikiindex.org/w/AstralHoro](https://wikiindex.org/w/AstralHoro)
 - WithAITools: [https://www.withaitools.com/tools/astralhoro-free-birth-chart](https://www.withaitools.com/tools/astralhoro-free-birth-chart)
 - wixsite.com: [https://hello975457.wixsite.com/yes-no-tarot-notes](https://hello975457.wixsite.com/yes-no-tarot-notes)
