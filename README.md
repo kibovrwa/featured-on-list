@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-12 · 819 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-13 · 821 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -592,6 +592,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Joinly: [https://www.joinly.xyz/startups/reelsongfinder-com](https://www.joinly.xyz/startups/reelsongfinder-com)
 - LaunchFree: [https://launchfree.io/listings/reel-song-finder.html](https://launchfree.io/listings/reel-song-finder.html)
 - Lovable: [https://find-song-from-reel.lovable.app/](https://find-song-from-reel.lovable.app/)
+- mcptry.com: [https://mcptry.com/servers/com.reelsongfinder/reelsongfinder](https://mcptry.com/servers/com.reelsongfinder/reelsongfinder)
 - neeed.directory: [https://neeed.directory/products/reelsongfinder](https://neeed.directory/products/reelsongfinder)
 - NewName.ai: [https://newname.ai/products/reelsongfinder](https://newname.ai/products/reelsongfinder)
 - parsed: [https://tinytools.tools/t/reel-song-finder-6fc5f0eb](https://tinytools.tools/t/reel-song-finder-6fc5f0eb)
@@ -667,6 +668,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://free-metadata-viewer.lovable.app/](https://free-metadata-viewer.lovable.app/)
 - lovable.dev: [https://lovable.dev/@rmvaimeta](https://lovable.dev/@rmvaimeta)
 - magicly.bio: [https://magicly.bio/removeaimeta](https://magicly.bio/removeaimeta)
+- mcptry.com: [https://mcptry.com/servers/com.removeaimeta/removeaimeta](https://mcptry.com/servers/com.removeaimeta/removeaimeta)
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
 - Medium article: [https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb](https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb)
