@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-13 · 821 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-13 · 820 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -130,7 +130,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - mataroa.blog: [https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/](https://risingmoonnotes.mataroa.blog/blog/capricorn-moon-vs-capricorn-rising-how-to-tell-them-apart/)
 - mataroa.blog: [https://astralhoro.mataroa.blog/blog/april-20-to-may-20-tropical-dates-venus-as-ruler-and-the-scorpio-axis/](https://astralhoro.mataroa.blog/blog/april-20-to-may-20-tropical-dates-venus-as-ruler-and-the-scorpio-axis/)
 - Medium article: [https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2](https://medium.com/@hello_3876/what-your-birth-chart-actually-measures-the-astronomy-behind-a-natal-chart-eef4444e1dd2)
-- muragon.com: [https://taurus-notes.muragon.com/entry/1.html](https://taurus-notes.muragon.com/entry/1.html)
 - mybzz.com: [https://mybzz.com/brands/astralhoro](https://mybzz.com/brands/astralhoro)
 - mystrikingly.com: [https://astralhoro-sagittarius.mystrikingly.com](https://astralhoro-sagittarius.mystrikingly.com)
 - Neocities: [https://removeaimeta.neocities.org/astralhoro.html](https://removeaimeta.neocities.org/astralhoro.html)
