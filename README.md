@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-13 · 821 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-14 · 819 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -99,7 +99,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directory Index: [https://directory-index.com/arts-culture/astralhoro/](https://directory-index.com/arts-culture/astralhoro/)
 - Directree: [https://www.directree.io/tool/astralhorocom](https://www.directree.io/tool/astralhorocom)
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
-- e-monsite.com: [https://venus-sign-notes.e-monsite.com/pages/venus-is-not-a-romance-score-what-a-natal-venus-sign-actually-name.html](https://venus-sign-notes.e-monsite.com/pages/venus-is-not-a-romance-score-what-a-natal-venus-sign-actually-name.html)
 - eklablog.com: [https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html](https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - free-weblink.com: [https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html](https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html)
@@ -645,7 +644,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/remove-ai-meta/](https://directory-index.com/technology/remove-ai-meta/)
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
-- discuss.pixls.us: [https://discuss.pixls.us/t/how-phone-photos-carry-your-gps-location-out-and-how-to-strip-it-in-one-pass/62273](https://discuss.pixls.us/t/how-phone-photos-carry-your-gps-location-out-and-how-to-strip-it-in-one-pass/62273)
 - Feeder: [https://feeder.co/discover/42f6e4e93a/removeaimeta-com](https://feeder.co/discover/42f6e4e93a/removeaimeta-com)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
 - GitHub Gist: [https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4](https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4)
