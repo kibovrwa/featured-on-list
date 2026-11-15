@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-14 · 819 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-15 · 818 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -459,7 +459,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIProductsHunt: [https://aiproductshunt.com/app/minecraftschematicgenerator](https://aiproductshunt.com/app/minecraftschematicgenerator)
 - AIToolFinder: [https://aitoolfinder.ai/tools/minecraft-schematic-generator](https://aitoolfinder.ai/tools/minecraft-schematic-generator)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/generate-java-edition-litematic-from.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/generate-java-edition-litematic-from.html)
-- credibleaitools.com: [https://credibleaitools.com/tool/minecraft-schematic-generator/](https://credibleaitools.com/tool/minecraft-schematic-generator/)
 - dev.to article: [https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2](https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2)
 - dev.to article: [https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7](https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7)
 - dev.to article: [https://dev.to/removeaimeta/quarter-turns-for-a-litematica-placement-49da](https://dev.to/removeaimeta/quarter-turns-for-a-litematica-placement-49da)
