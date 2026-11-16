@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 944 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-17 · 948 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -290,6 +290,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIMarketly: [https://www.aimarketly.com/tool/easyface-ai](https://www.aimarketly.com/tool/easyface-ai)
 - ainavdir.com: [https://www.ainavdir.com/tool/easyface-ai](https://www.ainavdir.com/tool/easyface-ai)
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
+- aired.sh: [https://aired.sh/p/TXRqRo6s8g](https://aired.sh/p/TXRqRo6s8g)
 - AISO aisotools.com: [https://aisotools.com/tool/easyface-ai](https://aisotools.com/tool/easyface-ai)
 - AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
 - aitoolscapital.com: [https://aitoolscapital.com/tools/easyface-ai](https://aitoolscapital.com/tools/easyface-ai)
@@ -316,6 +317,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - GitHub: [https://github.com/kibovrwa/hairstyle-face-shape-guide](https://github.com/kibovrwa/hairstyle-face-shape-guide)
 - GitHub Gist: [https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71](https://gist.github.com/kibovrwa/c2beb81762333a1ae1aa7391433fdc71)
 - GitLab Snippet: [https://gitlab.com/-/snippets/6070861](https://gitlab.com/-/snippets/6070861)
+- htmlcast.com: [https://htmlcast.com/p/easyface-read-your-face-shape](https://htmlcast.com/p/easyface-read-your-face-shape)
 - Hugging Face Spaces: [https://removeaimeta-easyface-notes.static.hf.space/](https://removeaimeta-easyface-notes.static.hf.space/)
 - Ignitae: [https://ignitae.com/p/easyface-ai](https://ignitae.com/p/easyface-ai)
 - ignitae.com: [https://ignitae.com/p/easyface-ai-f7gx](https://ignitae.com/p/easyface-ai-f7gx)
@@ -983,6 +985,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Directory Index: [https://directory-index.com/technology/web-tools-list/](https://directory-index.com/technology/web-tools-list/)
 - Directree: [https://www.directree.io/tool/web-tools-list](https://www.directree.io/tool/web-tools-list)
 - GitHub: [https://github.com/kibovrwa/browser-tools-by-job-checklist](https://github.com/kibovrwa/browser-tools-by-job-checklist)
+- htmlcast.com: [https://htmlcast.com/p/web-tools-list-job-first-notes-1116](https://htmlcast.com/p/web-tools-list-job-first-notes-1116)
 - Joinly: [https://www.joinly.xyz/startups/webtoolslist-com](https://www.joinly.xyz/startups/webtoolslist-com)
 - Lovable: [https://free-online-converters.lovable.app/](https://free-online-converters.lovable.app/)
 - magicly.bio: [https://magicly.bio/web-tools-list](https://magicly.bio/web-tools-list)
@@ -1004,6 +1007,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/](https://practicalwebtoolsnotes.blogspot.com/)
 - develif.com: [https://develif.com/s/alternatives-wiki](https://develif.com/s/alternatives-wiki)
 - github.com: [https://github.com/kibovrwa/awesome-browser-tools-by-job](https://github.com/kibovrwa/awesome-browser-tools-by-job)
+- htmlcast.com: [https://htmlcast.com/p/alts-wiki-free-limits-1116](https://htmlcast.com/p/alts-wiki-free-limits-1116)
 - joinly.xyz: [https://www.joinly.xyz/startups/alternatives-wiki](https://www.joinly.xyz/startups/alternatives-wiki)
 - memos.page: [https://memos.page/24a2cf23-aa66-4298-8617-972876598ca7](https://memos.page/24a2cf23-aa66-4298-8617-972876598ca7)
 - plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/alternatives.wiki](https://plastikmuhur.xyz/sites/alternatives.wiki)
