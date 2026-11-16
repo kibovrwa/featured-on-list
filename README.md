@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 821 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 828 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -180,6 +180,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - TinyLaunch: [https://www.tinylaunch.com/launch/25983-astralhoro](https://www.tinylaunch.com/launch/25983-astralhoro)
 - TipSeason: [https://www.tipseason.com/aitool/astralhoro](https://www.tipseason.com/aitool/astralhoro)
 - try.tools: [https://try.tools/tools/astralhoro-659715](https://try.tools/tools/astralhoro-659715)
+- umso.co: [https://taurus-notes.umso.co/blog/taurus-is-not-lazy](https://taurus-notes.umso.co/blog/taurus-is-not-lazy)
 - Uneed: [https://www.uneed.best/tool/astralhoro](https://www.uneed.best/tool/astralhoro)
 - Vercel: [https://astralhoro-natal-chart.vercel.app/](https://astralhoro-natal-chart.vercel.app/)
 - Viesearch: [https://viesearch.com/29jf2/astralhoro](https://viesearch.com/29jf2/astralhoro)
@@ -378,7 +379,9 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - LaunchFree: [https://launchfree.io/listings/gaivsiq-free-online-iq-test.html](https://launchfree.io/listings/gaivsiq-free-online-iq-test.html)
 - linktr.ee: [https://linktr.ee/gaivsiq](https://linktr.ee/gaivsiq)
 - Lovable: [https://free-online-iq-test.lovable.app/](https://free-online-iq-test.lovable.app/)
+- mataroa.blog: [https://wiscreportnotes.mataroa.blog/blog/learning-the-headings-on-a-wisc-v-report/](https://wiscreportnotes.mataroa.blog/blog/learning-the-headings-on-a-wisc-v-report/)
 - Medium article: [https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de](https://medium.com/@gaivsiq/i-built-a-gai-vs-iq-calculator-that-only-subtracts-two-official-scoreshow-to-read-a-gai-vs-fsiq-gap-787c016c44de)
+- memos.page: [https://memos.page/a7e2e780-8e18-4cda-aeac-fd41303f05cc](https://memos.page/a7e2e780-8e18-4cda-aeac-fd41303f05cc)
 - mybzz.com: [https://mybzz.com/brands/gaivsiq](https://mybzz.com/brands/gaivsiq)
 - NewName.ai: [https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory](https://newname.ai/products/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
@@ -386,6 +389,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - OER World Map: [https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9](https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9)
 - overblog.fr: [https://gaivsiq-notes.overblog.fr/2026/11/gai-fsiq-in-plain-words](https://gaivsiq-notes.overblog.fr/2026/11/gai-fsiq-in-plain-words)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/gaivsiq.com](https://plastikmuhur.xyz/sites/gaivsiq.com)
+- posteezy.com: [https://posteezy.com/if-general-ability-index-sits-above-full-scale-iq](https://posteezy.com/if-general-ability-index-sits-above-full-scale-iq)
 - ProductWatch: [https://productwatch.io/products/gaivsiq-1](https://productwatch.io/products/gaivsiq-1)
 - SaaSHub: [https://www.saashub.com/gaivsiq](https://www.saashub.com/gaivsiq)
 - SaaSHub: [https://www.saashub.com/gaivsiq-alternatives](https://www.saashub.com/gaivsiq-alternatives)
@@ -443,6 +447,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://play-mechangelion-free.lovable.app/](https://play-mechangelion-free.lovable.app/)
 - magicly.bio: [https://magicly.bio/mechangelion](https://magicly.bio/mechangelion)
 - medium.com: [https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417](https://medium.com/@hello_87293/mechangelion-for-beginners-learn-from-your-first-three-losses-2fe066ac8417)
+- netlify.app: [https://mechangelion-guide.netlify.app/](https://mechangelion-guide.netlify.app/)
 - NewName.ai: [https://newname.ai/products/mechangelion](https://newname.ai/products/mechangelion)
 - note.com: [https://note.com/mechangelion_fan/n/nde11a802e383](https://note.com/mechangelion_fan/n/nde11a802e383)
 - opencollective.com: [https://opencollective.com/mechangelion-fan-guide-wiki](https://opencollective.com/mechangelion-fan-guide-wiki)
@@ -668,10 +673,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Lovable: [https://free-metadata-viewer.lovable.app/](https://free-metadata-viewer.lovable.app/)
 - lovable.dev: [https://lovable.dev/@rmvaimeta](https://lovable.dev/@rmvaimeta)
 - magicly.bio: [https://magicly.bio/removeaimeta](https://magicly.bio/removeaimeta)
+- mataroa.blog: [https://removeaimeta.mataroa.blog/blog/what-is-actually-stored-in-a-photos-exif-data/](https://removeaimeta.mataroa.blog/blog/what-is-actually-stored-in-a-photos-exif-data/)
 - mcptry.com: [https://mcptry.com/servers/com.removeaimeta/removeaimeta](https://mcptry.com/servers/com.removeaimeta/removeaimeta)
 - Medium: [https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea](https://medium.com/@hello_70944/a-c2pa-line-describes-the-file-you-drop-not-the-picture-people-see-6482c124e9ea)
 - Medium: [https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2](https://medium.com/@hello_70944/which-of-your-ai-made-images-carry-a-hidden-ai-info-record-a-3-step-check-fc83379fcbd2)
 - Medium article: [https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb](https://medium.com/@hello_70944/how-i-strip-c2pa-and-exif-from-a-photo-before-i-post-browser-only-e8a82a5d88bb)
+- memos.page: [https://memos.page/c37cae69-960b-4519-ace6-ee8e72eea4e9](https://memos.page/c37cae69-960b-4519-ace6-ee8e72eea4e9)
 - mybzz.com: [https://mybzz.com/brands/remove-ai-meta](https://mybzz.com/brands/remove-ai-meta)
 - Neocities: [https://removeaimeta.neocities.org/](https://removeaimeta.neocities.org/)
 - NewName: [https://newname.ai/products/remove-ai-meta](https://newname.ai/products/remove-ai-meta)
