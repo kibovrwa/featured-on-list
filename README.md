@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-15 · 818 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 820 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -282,6 +282,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - allagents.app: [https://allagents.app/agent/easyface-outfit-changer](https://allagents.app/agent/easyface-outfit-changer)
 - Ameblo: [https://ameblo.jp/removeaimeta/entry-12982389149.html](https://ameblo.jp/removeaimeta/entry-12982389149.html)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/](https://remove-ai-meta.bearblog.dev/easyface-ai-try-hairstyles-from-a-selfie/)
+- bio.site: [https://bio.site/easyface_style_guide](https://bio.site/easyface_style_guide)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/try-haircut-on-your-face-before-you-sit.html)
 - Carrd: [https://easyfaceai.carrd.co](https://easyfaceai.carrd.co)
 - DeepNLP: [https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai](https://www.deepnlp.org/store/lifestyle/beauty/pub-easyfaceai/easyface-ai)
@@ -330,6 +331,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Slides.com: [https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899](https://slides.com/easyfaceai/choosing-a-hairstyle-for-your-face-shape-954899)
 - SmartBizTools: [https://smartbiztools.io/ai-tools/easyface-ai/](https://smartbiztools.io/ai-tools/easyface-ai/)
 - Straw.page: [https://easyfaceai-tryon.straw.page/](https://easyfaceai-tryon.straw.page/)
+- studio.site: [https://orchid648864.studio.site/](https://orchid648864.studio.site/)
 - Substack: [https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your](https://easyfaceai.substack.com/p/how-to-preview-a-hairstyle-on-your)
 - surge.sh: [https://easyface-hairstyle-guide.surge.sh/](https://easyface-hairstyle-guide.surge.sh/)
 - TAAFT: [https://theresanaiforthat.com/@easyface-ai/](https://theresanaiforthat.com/@easyface-ai/)
