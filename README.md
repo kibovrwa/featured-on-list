@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 820 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 821 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -347,6 +347,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Viesearch: [https://viesearch.com/29oqt/easyface-ai](https://viesearch.com/29oqt/easyface-ai)
 - waywuygan.xyz: [https://waywuygan.xyz/sites/easyfaceai.com](https://waywuygan.xyz/sites/easyfaceai.com)
 - webapps.directory: [https://webapps.directory/directory/easyface-ai](https://webapps.directory/directory/easyface-ai)
+- webflow.io: [https://outfit-preview-tips.webflow.io/](https://outfit-preview-tips.webflow.io/)
 - WebsiteLaunches: [https://websitelaunches.com/site/easyfaceai.com](https://websitelaunches.com/site/easyfaceai.com)
 - wikiindex.org: [https://wikiindex.org/w/EasyFace_AI](https://wikiindex.org/w/EasyFace_AI)
 - WithAITools: [https://www.withaitools.com/tools/looks-by-easyface-ai](https://www.withaitools.com/tools/looks-by-easyface-ai)
