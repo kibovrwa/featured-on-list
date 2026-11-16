@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 844 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 859 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -466,6 +466,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Slides.com: [https://slides.com/mechangelion/play-mechangelion-in-the-browser](https://slides.com/mechangelion/play-mechangelion-in-the-browser)
 - Telegraph: [https://telegra.ph/Play-Mechangelion-in-the-browser-10-17](https://telegra.ph/Play-Mechangelion-in-the-browser-10-17)
 - TinyLaunch: [https://tinylaunch.com/launch/22068-mechangelion](https://tinylaunch.com/launch/22068-mechangelion)
+- umso.co: [https://mechangelion.umso.co/blog/mechangelion-beginner-tips-first-three-matches](https://mechangelion.umso.co/blog/mechangelion-beginner-tips-first-three-matches)
 - Uneed: [https://www.uneed.best/tool/mechangelion](https://www.uneed.best/tool/mechangelion)
 - webflow.io: [https://mechangelion-notes.webflow.io/](https://mechangelion-notes.webflow.io/)
 - WebsiteLaunches: [https://websitelaunches.com/site/mechangelion.com](https://websitelaunches.com/site/mechangelion.com)
@@ -646,6 +647,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - appboard.pro: [https://appboard.pro/product/remove-ai-meta/](https://appboard.pro/product/remove-ai-meta/)
 - Bear Blog: [https://remove-ai-meta.bearblog.dev/strip-photo-exif/](https://remove-ai-meta.bearblog.dev/strip-photo-exif/)
 - bio.site: [https://bio.site/removeaimeta](https://bio.site/removeaimeta)
+- bitbucket.io: [https://removeaimeta.bitbucket.io/](https://removeaimeta.bitbucket.io/)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-your-ai-images-quietly-say-about.html)
 - buildvoyage.com: [https://buildvoyage.com/products/remove-ai-meta](https://buildvoyage.com/products/remove-ai-meta)
 - carrd.co: [https://removeaimeta.carrd.co/](https://removeaimeta.carrd.co/)
@@ -663,6 +665,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Diigo: [https://www.diigo.com/profile/removeaimeta](https://www.diigo.com/profile/removeaimeta)
 - Directory Index: [https://directory-index.com/technology/remove-ai-meta/](https://directory-index.com/technology/remove-ai-meta/)
 - Directree: [https://www.directree.io/tool/remove-ai-meta](https://www.directree.io/tool/remove-ai-meta)
+- edgeone.dev: [https://photo-exif-metadata.edgeone.dev](https://photo-exif-metadata.edgeone.dev)
 - Feeder: [https://feeder.co/discover/42f6e4e93a/removeaimeta-com](https://feeder.co/discover/42f6e4e93a/removeaimeta-com)
 - GitHub: [https://github.com/kibovrwa/ai-image-metadata-checklist](https://github.com/kibovrwa/ai-image-metadata-checklist)
 - GitHub Gist: [https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4](https://gist.github.com/kibovrwa/1604c7d4cea6c0c97859bf0540facdf4)
@@ -680,6 +683,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - jayde.com: [https://www.jayde.com/profiles/01895984](https://www.jayde.com/profiles/01895984)
 - Joinly: [https://www.joinly.xyz/startups/removeaimeta-com](https://www.joinly.xyz/startups/removeaimeta-com)
 - justlink.org: [https://www.justlink.org/details.php?id=439783](https://www.justlink.org/details.php?id=439783)
+- kit.com: [https://remove-ai-meta.kit.com/d05b1ee0f0](https://remove-ai-meta.kit.com/d05b1ee0f0)
 - LaunchFree: [https://launchfree.io/listings/remove-ai-meta.html](https://launchfree.io/listings/remove-ai-meta.html)
 - Launchtory: [https://launchtory.com/projects/removeaimeta](https://launchtory.com/projects/removeaimeta)
 - Lovable: [https://remove-ai-metadata.lovable.app/](https://remove-ai-metadata.lovable.app/)
@@ -710,6 +714,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/removeaimeta.com](https://plastikmuhur.xyz/sites/removeaimeta.com)
 - Posteezy: [https://posteezy.com/browser-metadata-remover-strip-exifc2pa-client-side](https://posteezy.com/browser-metadata-remover-strip-exifc2pa-client-side)
 - productwatch.io: [https://productwatch.io/products/remove-ai-meta](https://productwatch.io/products/remove-ai-meta)
+- pythonanywhere.com: [https://removeaimeta.pythonanywhere.com/](https://removeaimeta.pythonanywhere.com/)
 - Qiita: [https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129](https://qiita.com/removeaimeta/items/10662f9c4a9edb2c7129)
 - removeaimeta.hashnode.dev: [https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image](https://removeaimeta.hashnode.dev/does-a-screenshot-remove-c2pa-data-from-a-chatgpt-image)
 - removeaimeta.hashnode.dev: [https://removeaimeta.hashnode.dev/stable-diffusion-and-comfyui-pngs-carry-your-prompt-how-to-see-what-s-inside](https://removeaimeta.hashnode.dev/stable-diffusion-and-comfyui-pngs-carry-your-prompt-how-to-see-what-s-inside)
@@ -754,10 +759,12 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - tinytools.tools: [https://tinytools.tools/t/remove-ai-meta-6fd4426f](https://tinytools.tools/t/remove-ai-meta-6fd4426f)
 - ToolPotion: [https://toolpotion.ai/en/ai-apps/remove-ai-meta](https://toolpotion.ai/en/ai-apps/remove-ai-meta)
 - try.tools: [https://try.tools/tools/remove-ai-meta-958993](https://try.tools/tools/remove-ai-meta-958993)
+- umso.co: [https://1e2dm2564pbdrhhq.umso.co/blog/what-fields-are-stored-in-a-photos-exif-data](https://1e2dm2564pbdrhhq.umso.co/blog/what-fields-are-stored-in-a-photos-exif-data)
 - Uneed: [https://www.uneed.best/tool/remove-c2pa](https://www.uneed.best/tool/remove-c2pa)
 - Vercel: [https://remove-ai-meta-seven.vercel.app/](https://remove-ai-meta-seven.vercel.app/)
 - Vercel: [https://remove-metadata-viewer.vercel.app/](https://remove-metadata-viewer.vercel.app/)
 - Viesearch: [https://viesearch.com/28pni/remove-ai-meta](https://viesearch.com/28pni/remove-ai-meta)
+- webflow.io: [https://how-to-delete-exif-and-gps-data-from-ph.webflow.io](https://how-to-delete-exif-and-gps-data-from-ph.webflow.io)
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
 - wikiindex.org: [https://wikiindex.org/w/Remove_AI_Meta](https://wikiindex.org/w/Remove_AI_Meta)
@@ -906,9 +913,17 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## Other projects
 
+- addurl.online: [https://addurl.online/251556](https://addurl.online/251556)
+- aitoolfinder.ai: [https://aitoolfinder.ai/tools/alternatives-wiki](https://aitoolfinder.ai/tools/alternatives-wiki)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/](https://practicalwebtoolsnotes.blogspot.com/)
 - github.com: [https://github.com/kibovrwa/awesome-browser-tools-by-job](https://github.com/kibovrwa/awesome-browser-tools-by-job)
+- joinly.xyz: [https://www.joinly.xyz/startups/alternatives-wiki](https://www.joinly.xyz/startups/alternatives-wiki)
+- memos.page: [https://memos.page/24a2cf23-aa66-4298-8617-972876598ca7](https://memos.page/24a2cf23-aa66-4298-8617-972876598ca7)
+- plastikmuhur.xyz: [https://plastikmuhur.xyz/sites/alternatives.wiki](https://plastikmuhur.xyz/sites/alternatives.wiki)
+- posteezy.com: [https://posteezy.com/comparing-software-alternatives-what-you-can-actually-do-free](https://posteezy.com/comparing-software-alternatives-what-you-can-actually-do-free)
+- straw.page: [https://alternativeswiki.straw.page/](https://alternativeswiki.straw.page/)
 - telegra.ph: [https://telegra.ph/Merging-consecutive-subtitle-cues-from-one-speaker-a-small-Python-function-and-the-gap-rule-it-depends-on-10-02](https://telegra.ph/Merging-consecutive-subtitle-cues-from-one-speaker-a-small-Python-function-and-the-gap-rule-it-depends-on-10-02)
+- withaitools.com: [https://www.withaitools.com/tools/alternativeswiki](https://www.withaitools.com/tools/alternativeswiki)
 - www.tinylaunch.com: [https://www.tinylaunch.com/launch/22710](https://www.tinylaunch.com/launch/22710)
 
 ## Mirrors
