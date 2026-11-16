@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 828 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-16 · 829 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -398,6 +398,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - smartbiztools.io: [https://smartbiztools.io/ai-tools/gaivsiq/](https://smartbiztools.io/ai-tools/gaivsiq/)
 - smore.com: [https://app.smore.com/n/jufge-gaivsiq-notes](https://app.smore.com/n/jufge-gaivsiq-notes)
 - solo.to: [https://solo.to/gaivsiq](https://solo.to/gaivsiq)
+- straw.page: [https://gai-and-fsiq.straw.page/](https://gai-and-fsiq.straw.page/)
 - substack.com: [https://gaivsiq.substack.com/p/gai-vs-full-scale-iq-what-the-gap](https://gaivsiq.substack.com/p/gai-vs-full-scale-iq-what-the-gap)
 - TAAFT: [https://theresanaiforthat.com/@gaivsiq/](https://theresanaiforthat.com/@gaivsiq/)
 - Telegraph: [https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07](https://telegra.ph/How-to-read-a-GAI-vs-FSIQ-gap-on-a-Wechsler-report-09-07)
