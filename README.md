@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-19 · 989 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-19 · 990 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -772,6 +772,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/why-instagram-adds-an-ai-info-label-to-your-photo-and-how-to-check-the-file-first-45ch](https://dev.to/dylan_yu_7ffff00b5355942d/why-instagram-adds-an-ai-info-label-to-your-photo-and-how-to-check-the-file-first-45ch)
 - DEV.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-check-and-remove-gps-location-from-your-phone-photos-2poi](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-check-and-remove-gps-location-from-your-phone-photos-2poi)
 - dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/camera-shutter-count-on-used-bodies-what-the-number-means-and-what-a-sample-file-can-leak-23d](https://dev.to/dylan_yu_7ffff00b5355942d/camera-shutter-count-on-used-bodies-what-the-number-means-and-what-a-sample-file-can-leak-23d)
+- dev.to: [https://dev.to/dylan_yu_7ffff00b5355942d/how-to-remove-the-made-with-ai-label-from-a-photo-what-actually-works-4icc](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-remove-the-made-with-ai-label-from-a-photo-what-actually-works-4icc)
 - dev.to article: [https://dev.to/removeaimeta/clean-a-jpeg-in-the-tab-you-already-have-open-3en](https://dev.to/removeaimeta/clean-a-jpeg-in-the-tab-you-already-have-open-3en)
 - dev.to article: [https://dev.to/removeaimeta/cleaning-ai-metadata-from-images-and-files-a-practical-guide-for-developers-37bi](https://dev.to/removeaimeta/cleaning-ai-metadata-from-images-and-files-a-practical-guide-for-developers-37bi)
 - dev.to article: [https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d](https://dev.to/removeaimeta/strip-c2pa-and-iptc-metadata-from-ai-images-before-you-publish-79d)
