@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-18 · 992 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-19 · 989 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -497,7 +497,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 ## grokbot.run
 
-- agentlocker.ai: [https://agentlocker.ai/agent/grok-bot-download-guide](https://agentlocker.ai/agent/grok-bot-download-guide)
 - AIProductsHunt: [https://aiproductshunt.com/app/grokbot](https://aiproductshunt.com/app/grokbot)
 - aitoolfinder.ai: [https://aitoolfinder.ai/tools/grok-bot-download-guide](https://aitoolfinder.ai/tools/grok-bot-download-guide)
 - allagents.app: [https://allagents.app/agent/grok-bot-download-guide](https://allagents.app/agent/grok-bot-download-guide)
@@ -677,7 +676,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sharemyclaudemd.com: [https://sharemyclaudemd.com/p/fpOqXRQexB](https://sharemyclaudemd.com/p/fpOqXRQexB)
 - straw.page: [https://monareel.straw.page/](https://monareel.straw.page/)
 - stub.page: [https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp](https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp)
-- sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
 - swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
 - telegra.ph: [https://telegra.ph/MonaReel-photo-to-video-AI-11-02](https://telegra.ph/MonaReel-photo-to-video-AI-11-02)
 - telegra.ph: [https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09](https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09)
@@ -893,7 +891,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Vercel: [https://remove-metadata-viewer.vercel.app/](https://remove-metadata-viewer.vercel.app/)
 - Viesearch: [https://viesearch.com/28pni/remove-ai-meta](https://viesearch.com/28pni/remove-ai-meta)
 - waywuygan.xyz: [https://waywuygan.xyz/sites/removeaimeta.com](https://waywuygan.xyz/sites/removeaimeta.com)
-- webflow.io: [https://how-to-delete-exif-and-gps-data-from-ph.webflow.io](https://how-to-delete-exif-and-gps-data-from-ph.webflow.io)
 - websitelaunches.com: [https://websitelaunches.com/site/removeaimeta.com](https://websitelaunches.com/site/removeaimeta.com)
 - webtoolslist.com: [https://webtoolslist.com/t/remove-ai-meta](https://webtoolslist.com/t/remove-ai-meta)
 - wikiindex.org: [https://wikiindex.org/w/Remove_AI_Meta](https://wikiindex.org/w/Remove_AI_Meta)
