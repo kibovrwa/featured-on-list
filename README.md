@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-19 · 990 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-20 · 988 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -89,7 +89,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-read-your-birth-chart-without.html)
 - BloggersMinds: [https://bloggersminds.com/apps/AstralHoroTransitTiming](https://bloggersminds.com/apps/AstralHoroTransitTiming)
 - BuildVoyage: [https://buildvoyage.com/products/astralhoro](https://buildvoyage.com/products/astralhoro)
-- canalblog.com: [https://astralhoro-notes.canalblog.com/2026/11/moon-venus-and-a-sun-sign-pair-placed-by-longitude.html](https://astralhoro-notes.canalblog.com/2026/11/moon-venus-and-a-sun-sign-pair-placed-by-longitude.html)
 - carm.cc: [https://paste.carm.cc/FlCb7L.html](https://paste.carm.cc/FlCb7L.html)
 - Carrd: [https://astralrisingnotes.carrd.co](https://astralrisingnotes.carrd.co)
 - codeberg.page: [https://astralnotes.codeberg.page/](https://astralnotes.codeberg.page/)
@@ -158,7 +157,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/astralhoro_notes/n/n14e1e3a8dbcd](https://note.com/astralhoro_notes/n/n14e1e3a8dbcd)
 - onrender.com: [https://astral-taurus-notes.onrender.com/](https://astral-taurus-notes.onrender.com/)
-- overblog.fr: [https://astralhoro-notes.overblog.fr/2026/11/taurus-pisces-and-cancer-from-tropical-solar-longitude.html](https://astralhoro-notes.overblog.fr/2026/11/taurus-pisces-and-cancer-from-tropical-solar-longitude.html)
 - pages.dev: [https://astral-libra-notes.pages.dev/](https://astral-libra-notes.pages.dev/)
 - pages.dev: [https://astral-virgo-notes.pages.dev/](https://astral-virgo-notes.pages.dev/)
 - pastelink.net: [https://pastelink.net/wkac7izn](https://pastelink.net/wkac7izn)
@@ -462,7 +460,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - NoiseDaohang: [https://noisedaohang.netlify.app/tougao/](https://noisedaohang.netlify.app/tougao/)
 - note.com: [https://note.com/gaivsiq/n/nb2a39c5cd00c](https://note.com/gaivsiq/n/nb2a39c5cd00c)
 - OER World Map: [https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9](https://oerworldmap.org/resource/urn:uuid:a7b7a3b6-baa9-451b-8654-a3ae2f4bc5a9)
-- overblog.fr: [https://gaivsiq-notes.overblog.fr/2026/11/gai-fsiq-in-plain-words](https://gaivsiq-notes.overblog.fr/2026/11/gai-fsiq-in-plain-words)
 - pages.dev: [https://wisc-v-index-notes.pages.dev/](https://wisc-v-index-notes.pages.dev/)
 - PlastikMuhur: [https://plastikmuhur.xyz/sites/gaivsiq.com](https://plastikmuhur.xyz/sites/gaivsiq.com)
 - posteezy.com: [https://posteezy.com/if-general-ability-index-sits-above-full-scale-iq](https://posteezy.com/if-general-ability-index-sits-above-full-scale-iq)
@@ -676,6 +673,7 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - sharemyclaudemd.com: [https://sharemyclaudemd.com/p/fpOqXRQexB](https://sharemyclaudemd.com/p/fpOqXRQexB)
 - straw.page: [https://monareel.straw.page/](https://monareel.straw.page/)
 - stub.page: [https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp](https://stub.page/campaign-stills-that-already-know-the-cut-hz92zp)
+- sunt.uk: [https://drop.sunt.uk/p/kmplD6T](https://drop.sunt.uk/p/kmplD6T)
 - swurl.xyz: [https://paste.swurl.xyz/0126c7ab7e678719/index.html](https://paste.swurl.xyz/0126c7ab7e678719/index.html)
 - telegra.ph: [https://telegra.ph/MonaReel-photo-to-video-AI-11-02](https://telegra.ph/MonaReel-photo-to-video-AI-11-02)
 - telegra.ph: [https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09](https://telegra.ph/Make-a-Kitchen-Fish-Meme-Video-From-One-Photo-11-09)
