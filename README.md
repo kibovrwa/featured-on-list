@@ -1,6 +1,6 @@
 # Featured On — product listings & articles
 
-Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-20 · 988 pages.
+Third-party pages — directories, launch listings, profiles and articles — that feature our small web tools. Grouped by tool. Updated 2026-11-21 · 975 pages.
 
 Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/featured-on/)
 
@@ -9,7 +9,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - ad-links.org: [https://ad-links.org/100-Days-at-Sea-Codes_393268.html](https://ad-links.org/100-Days-at-Sea-Codes_393268.html)
 - AddURL.online: [https://addurl.online/246730](https://addurl.online/246730)
 - AIProductsHunt: [https://aiproductshunt.com/app/100daysatseawiki](https://aiproductshunt.com/app/100daysatseawiki)
-- AIToolFinder: [https://aitoolfinder.ai/tools/100-days-at-sea-wiki](https://aitoolfinder.ai/tools/100-days-at-sea-wiki)
 - alivelinks.org: [https://alivelinks.org/100-Days-at-Sea-Codes_592531.html](https://alivelinks.org/100-Days-at-Sea-Codes_592531.html)
 - bedirectory.com: [https://bedirectory.com/100-Days-at-Sea-Codes_472757.html](https://bedirectory.com/100-Days-at-Sea-Codes_472757.html)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-check-and-redeem-100-days-at-sea.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/how-to-check-and-redeem-100-days-at-sea.html)
@@ -77,7 +76,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - ainavdir.com: [https://www.ainavdir.com/tool/astralhoro](https://www.ainavdir.com/tool/astralhoro)
 - AIProductsHunt: [https://aiproductshunt.com/app/astralhoro](https://aiproductshunt.com/app/astralhoro)
 - aired.sh: [https://aired.sh/p/8eXqLMN3il](https://aired.sh/p/8eXqLMN3il)
-- AIToolFinder: [https://aitoolfinder.ai/tools/astralhoro](https://aitoolfinder.ai/tools/astralhoro)
 - aiunicorn.lol: [https://aiunicorn.lol/tool/astralhoro/](https://aiunicorn.lol/tool/astralhoro/)
 - Ameblo: [https://ameblo.jp/astralhoro/entry-12982608658.html](https://ameblo.jp/astralhoro/entry-12982608658.html)
 - assoli.site: [https://3sj3rxheya2y.pastehtml.assoli.site/](https://3sj3rxheya2y.pastehtml.assoli.site/)
@@ -109,7 +107,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - dpaste.org: [https://dpaste.org/ubMyK](https://dpaste.org/ubMyK)
 - dropdoc.sh: [https://dropdoc.sh/r/0vr4BCQ5](https://dropdoc.sh/r/0vr4BCQ5)
 - dropdoc.sh: [https://dropdoc.sh/r/WUkzN7wr](https://dropdoc.sh/r/WUkzN7wr)
-- eklablog.com: [https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html](https://astralhoro-notes.eklablog.com/2026/11/a-cancer-sun-starts-a-household-not-a-mood-board.html)
 - Feeder: [https://feeder.co/discover/13996d7d6f/astralhoro-com](https://feeder.co/discover/13996d7d6f/astralhoro-com)
 - free-weblink.com: [https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html](https://free-weblink.com/Free-Tarot-Card-Reading--AstralHoro_299049.html)
 - GitHub Gist: [https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2](https://gist.github.com/kibovrwa/0105411e57a4b3237f0dbe4339cc39a2)
@@ -248,7 +245,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AI Social Tools: [https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter](https://aisocialtools.co/ai-directory/chatgpt2word-chatgpt-to-word-converter)
 - AICatalog: [https://aicatalog.com.ua/tool/chatgpt2word](https://aicatalog.com.ua/tool/chatgpt2word)
 - AIProductsHunt: [https://aiproductshunt.com/app/chatgpt2word](https://aiproductshunt.com/app/chatgpt2word)
-- AIToolFinder: [https://aitoolfinder.ai/tools/chatgpt2word](https://aitoolfinder.ai/tools/chatgpt2word)
 - BloggersMinds: [https://bloggersminds.com/apps/ChatGPT2Word](https://bloggersminds.com/apps/ChatGPT2Word)
 - BuildVoyage: [https://buildvoyage.com/products/chatgpt2word](https://buildvoyage.com/products/chatgpt2word)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/export-a-chatgpt-thread-to-word-without-broken-formatting-pf2](https://dev.to/dylan_yu_7ffff00b5355942d/export-a-chatgpt-thread-to-word-without-broken-formatting-pf2)
@@ -335,7 +331,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIProductsHunt: [https://aiproductshunt.com/app/easyfaceai](https://aiproductshunt.com/app/easyfaceai)
 - aired.sh: [https://aired.sh/p/TXRqRo6s8g](https://aired.sh/p/TXRqRo6s8g)
 - AISO aisotools.com: [https://aisotools.com/tool/easyface-ai](https://aisotools.com/tool/easyface-ai)
-- AIToolFinder: [https://aitoolfinder.ai/tools/easyface-ai](https://aitoolfinder.ai/tools/easyface-ai)
 - aitoolscapital.com: [https://aitoolscapital.com/tools/easyface-ai](https://aitoolscapital.com/tools/easyface-ai)
 - AIToolSeekers: [https://aitoolseekers.com/tool/easyface-ai](https://aitoolseekers.com/tool/easyface-ai)
 - aiunicorn.lol: [https://aiunicorn.lol/tool/easyface-ai](https://aiunicorn.lol/tool/easyface-ai)
@@ -425,7 +420,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AI Social Tools: [https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory](https://aisocialtools.co/ai-directory/gaivsiq-gai-vs-full-scale-iq-laboratory)
 - aimaper.com: [https://aimaper.com/tool/gaivsiq/](https://aimaper.com/tool/gaivsiq/)
 - AIMarketly: [https://www.aimarketly.com/tool/gaivsiq](https://www.aimarketly.com/tool/gaivsiq)
-- AIToolFinder: [https://aitoolfinder.ai/tools/gaivsiq](https://aitoolfinder.ai/tools/gaivsiq)
 - AIToolsRecap: [https://aitoolsrecap.com/Product/gaivsiq-free-online-iq-test](https://aitoolsrecap.com/Product/gaivsiq-free-online-iq-test)
 - aiunicorn.lol: [https://aiunicorn.lol/tool/gaivsiq/](https://aiunicorn.lol/tool/gaivsiq/)
 - archive.org: [https://archive.org/details/gaivsiq-academic-note-1111](https://archive.org/details/gaivsiq-academic-note-1111)
@@ -495,7 +489,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## grokbot.run
 
 - AIProductsHunt: [https://aiproductshunt.com/app/grokbot](https://aiproductshunt.com/app/grokbot)
-- aitoolfinder.ai: [https://aitoolfinder.ai/tools/grok-bot-download-guide](https://aitoolfinder.ai/tools/grok-bot-download-guide)
 - allagents.app: [https://allagents.app/agent/grok-bot-download-guide](https://allagents.app/agent/grok-bot-download-guide)
 - cordium.best: [https://cordium.best/8c5dqqtde6pq](https://cordium.best/8c5dqqtde6pq)
 - deed.page: [https://grok-bot-guide.deed.page/](https://grok-bot-guide.deed.page/)
@@ -537,7 +530,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - addurl.online: [https://addurl.online/251578](https://addurl.online/251578)
 - AIProductsHunt: [https://aiproductshunt.com/app/mechangelion](https://aiproductshunt.com/app/mechangelion)
-- aitoolfinder.ai: [https://aitoolfinder.ai/tools/mechangelion](https://aitoolfinder.ai/tools/mechangelion)
 - ameblo.jp: [https://ameblo.jp/mechangelion-fan/entry-12982732314.html](https://ameblo.jp/mechangelion-fan/entry-12982732314.html)
 - bio.site: [https://bio.site/mechangelion](https://bio.site/mechangelion)
 - carrd.co: [https://mechangelion-guide.carrd.co/](https://mechangelion-guide.carrd.co/)
@@ -583,7 +575,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 
 - AI Social Tools: [https://aisocialtools.co/ai-directory/minecraft-schematic-generator](https://aisocialtools.co/ai-directory/minecraft-schematic-generator)
 - AIProductsHunt: [https://aiproductshunt.com/app/minecraftschematicgenerator](https://aiproductshunt.com/app/minecraftschematicgenerator)
-- AIToolFinder: [https://aitoolfinder.ai/tools/minecraft-schematic-generator](https://aitoolfinder.ai/tools/minecraft-schematic-generator)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/generate-java-edition-litematic-from.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/generate-java-edition-litematic-from.html)
 - dev.to article: [https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2](https://dev.to/removeaimeta/generate-a-minecraft-java-edition-litematic-from-a-text-prompt-5cb2)
 - dev.to article: [https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7](https://dev.to/removeaimeta/generate-minecraft-schematics-in-the-browser-before-you-build-gm7)
@@ -699,7 +690,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - aigclist.com: [https://aigclist.com/item/reel-song-finder](https://aigclist.com/item/reel-song-finder)
 - AIProductsHunt: [https://aiproductshunt.com/app/findsongfromvideo](https://aiproductshunt.com/app/findsongfromvideo)
 - AIProductsHunt: [https://aiproductshunt.com/app/reelsongfinder](https://aiproductshunt.com/app/reelsongfinder)
-- AIToolFinder: [https://aitoolfinder.ai/tools/reelsongfinder](https://aitoolfinder.ai/tools/reelsongfinder)
 - aitoolscapital.com: [https://aitoolscapital.com/tools/reel-song-finder](https://aitoolscapital.com/tools/reel-song-finder)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/heard-song-on-reel-and-cant-find-it.html)
 - buildvoyage.com: [https://buildvoyage.com/products/reelsongfinder](https://buildvoyage.com/products/reelsongfinder)
@@ -750,7 +740,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaiinfo](https://aiproductshunt.com/app/removeaiinfo)
 - AIProductsHunt: [https://aiproductshunt.com/app/removeaimeta](https://aiproductshunt.com/app/removeaimeta)
 - aired.sh: [https://aired.sh/p/1wO8SsnHRz](https://aired.sh/p/1wO8SsnHRz)
-- AIToolFinder: [https://aitoolfinder.ai/tools/remove-ai-meta](https://aitoolfinder.ai/tools/remove-ai-meta)
 - AIToolSeekers: [https://aitoolseekers.com/tools/remove-ai-meta](https://aitoolseekers.com/tools/remove-ai-meta)
 - aitoolsrecap: [https://aitoolsrecap.com/Product/remove-ai-meta](https://aitoolsrecap.com/Product/remove-ai-meta)
 - aitoolsrecap.com: [https://aitoolsrecap.com/product/remove-ai-meta](https://aitoolsrecap.com/product/remove-ai-meta)
@@ -904,7 +893,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## shortsrank.com
 
 - AIProductsHunt: [https://aiproductshunt.com/app/shortsrank](https://aiproductshunt.com/app/shortsrank)
-- AIToolFinder: [https://aitoolfinder.ai/tools/shortsrank](https://aitoolfinder.ai/tools/shortsrank)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/2026/10/what-ranking-video-maker-actually.html](https://practicalwebtoolsnotes.blogspot.com/2026/10/what-ranking-video-maker-actually.html)
 - dev.to article: [https://dev.to/dylan_yu_7ffff00b5355942d/retention-math-for-ranking-shorts-why-the-order-beats-the-template-3dmh](https://dev.to/dylan_yu_7ffff00b5355942d/retention-math-for-ranking-shorts-why-the-order-beats-the-template-3dmh)
 - Directory Index: [https://directory-index.com/technology/shortsrank/](https://directory-index.com/technology/shortsrank/)
@@ -1046,7 +1034,6 @@ Main list: [https://kibovrwa.github.io/featured-on/](https://kibovrwa.github.io/
 ## Other projects
 
 - addurl.online: [https://addurl.online/251556](https://addurl.online/251556)
-- aitoolfinder.ai: [https://aitoolfinder.ai/tools/alternatives-wiki](https://aitoolfinder.ai/tools/alternatives-wiki)
 - Blogger: [https://practicalwebtoolsnotes.blogspot.com/](https://practicalwebtoolsnotes.blogspot.com/)
 - develif.com: [https://develif.com/s/alternatives-wiki](https://develif.com/s/alternatives-wiki)
 - github.com: [https://github.com/kibovrwa/awesome-browser-tools-by-job](https://github.com/kibovrwa/awesome-browser-tools-by-job)
